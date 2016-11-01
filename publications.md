@@ -8,7 +8,7 @@ title: Publications
 
 - Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (in progress)
 
-- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._ (in press, [arXiv:1512.06018][arXiv:1512.06018]). [<span style="font-variant:small-caps;">pdf</span>][vlsm-poiseuille]
+- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._ (in press, [arXiv:1512.06018][arXiv:1512.06018]). [<span style="font-variant:small-caps;">pdf</span>][vlsm-poiseuille]
 
 - Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span style="font-variant:small-caps;">pdf</span>][ssd-jet-wave]
 
