@@ -6,9 +6,9 @@ title: Publications
 
 ## Journal articles
 
-- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above topography. _J. Fluid Mech._, (in progress)
+- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (in progress)
 
-- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _J. Fluid. Mech._ (to appear, [arXiv:1512.06018][arXiv:1512.06018]). [<span style="font-variant:small-caps;">pdf</span>][vlsm-poiseuille]
+- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._ (in press, [arXiv:1512.06018][arXiv:1512.06018]). [<span style="font-variant:small-caps;">pdf</span>][vlsm-poiseuille]
 
 - Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span style="font-variant:small-caps;">pdf</span>][ssd-jet-wave]
 
@@ -31,7 +31,7 @@ title: Publications
 
 - Constantinou, N. C., P. J. Ioannou and N.A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span style="font-variant:small-caps;">pdf</span>][comecap2016-s3t_eckhaus]
 
-- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016)s. On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing.
+- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing.
  [<span style="font-variant:small-caps;">pdf</span>][comecap2016-s3t_stab]
 
 - Ioannou, P. J., M.-A. Nikolaidis and N. C. Constantinou (2014). Simplified turbulence in wall-bounded flows. 9th Panhellenic Meeting ''Fluid Flow Phenomena'' (ROI 2014), Athens, 12-13 Dec. (in greek) [<span style="font-variant:small-caps;">pdf</span>][roi2014-rnl]
