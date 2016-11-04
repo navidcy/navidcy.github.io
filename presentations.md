@@ -17,7 +17,7 @@ title: Presentations
 
 ## Invited talks
 
-- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span style="font-variant:small-caps;">html</span>][GFD-site], Woods Hole, 10 Jul. 2016. [<span style="font-variant:small-caps;">pdf</span>][GFD_July2016]
+- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span style="font-variant:small-caps;">html</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span style="font-variant:small-caps;">pdf</span>][GFD_July2016]
 
 - Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UCLA [<span style="font-variant:small-caps;">html</span>][IPAM-site], Lake Arrowhead, 7 Jun. 2016. [<span style="font-variant:small-caps;">pdf</span>][IPAM_Jun2016]
 
