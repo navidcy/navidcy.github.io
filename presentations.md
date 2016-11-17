@@ -6,6 +6,10 @@ title: Presentations
 
 ## Conferences
 
+- Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span style="font-variant:small-caps;">html</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster)
+
+- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span style="font-variant:small-caps;">html</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk)
+
 - Statistical state dynamics of jet/wave coexistense in beta-plane turbulence. _APS March Meeting 2016_ [<span style="font-variant:small-caps;">html</span>][APSMar16-site], Baltimore, 14-18 Mar., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][APS-March16]
 
 - Emergence and equilibration of zonal winds in turbulent planetary atmospheres. _12th International Conference on Meteorology, Climatology and Atmospheric Physics, COMECAP 2014_ [<span style="font-variant:small-caps;">html</span>][COMECAP14-site], Heraklion, Crete, 28-31 May 2014. (poster) [<span style="font-variant:small-caps;">pdf</span>][COMECAP14-poster]
@@ -66,6 +70,8 @@ title: Presentations
 [OCC-site]: http://www.oceanography.ucy.ac.cy/
 [ISSI-site]: http://www.issibern.ch/teams/zonaljets/
 [GFD-site]: http://www.whoi.edu/gfd/
+[APSDFD16-site]: http://apsdfd2016pdx.org/
+[AGU16-site]: https://fallmeeting.agu.org/2016/
 
 
 [phd_eng]: thesis_navid.pdf
