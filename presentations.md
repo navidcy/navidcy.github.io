@@ -8,7 +8,7 @@ title: Presentations
 
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span style="font-variant:small-caps;">html</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster)
 
-- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span style="font-variant:small-caps;">html</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk)
+- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span style="font-variant:small-caps;">html</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][APSDFD16]
 
 - Statistical state dynamics of jet/wave coexistense in beta-plane turbulence. _APS March Meeting 2016_ [<span style="font-variant:small-caps;">html</span>][APSMar16-site], Baltimore, 14-18 Mar., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][APS-March16]
 
@@ -52,7 +52,7 @@ title: Presentations
 [ROI12-talk]: ROI12-talk.pdf
 [EGU13-talk]: EGU13-talk.pdf
 [GFD_July2016]: GFD-2016.pdf
-
+[APSDFD16]: APS-DFD-2016.pdf
 
 
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
