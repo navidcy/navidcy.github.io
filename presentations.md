@@ -21,6 +21,8 @@ title: Presentations
 
 ## Invited talks
 
+- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence''_, KITP [<span style="font-variant:small-caps;">html</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
+
 - Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span style="font-variant:small-caps;">html</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span style="font-variant:small-caps;">pdf</span>][GFD_July2016]
 
 - Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UCLA [<span style="font-variant:small-caps;">html</span>][IPAM-site], Lake Arrowhead, 7 Jun. 2016. [<span style="font-variant:small-caps;">pdf</span>][IPAM_Jun2016]
@@ -64,6 +66,7 @@ title: Presentations
 [COMECAP14-site]: http://comecap2014.chemistry.uoc.gr/
 [APSMar16-site]: https://www.aps.org/meetings/march/index.cfm
 [IPAM-site]: http://www.ipam.ucla.edu/
+[KITP-site]: http://www.kitp.ucsb.edu/
 [CEAFM-site]: http://pages.jh.edu/~ceafm/
 [Scripps-site]: http://scripps.ucsd.edu/
 [UCY-site]: http://www.ucy.ac.cy/phy/en/
