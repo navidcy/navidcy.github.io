@@ -21,7 +21,7 @@ title: Presentations
 
 ## Invited talks
 
-- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence''_, KITP [<span style="font-variant:small-caps;">html</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
+- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span style="font-variant:small-caps;">html</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
 
 - Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span style="font-variant:small-caps;">html</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span style="font-variant:small-caps;">pdf</span>][GFD_July2016]
 
