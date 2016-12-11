@@ -29,7 +29,7 @@ title: Publications
 
 ## Conference articles
 
-- Constantinou, N. C., P. J. Ioannou and N.A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span style="font-variant:small-caps;">pdf</span>][comecap2016-s3t_eckhaus]
+- Constantinou, N. C., P. J. Ioannou and N. A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span style="font-variant:small-caps;">pdf</span>][comecap2016-s3t_eckhaus]
 
 - Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing.
  [<span style="font-variant:small-caps;">pdf</span>][comecap2016-s3t_stab]
