@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Presentations
-#subtitle: 
+#subtitle:
 ---
 
 ## Conferences
 
-- Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span style="font-variant:small-caps;">html</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span style="font-variant:small-caps;">pdf</span>][AGUD16]
+- Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span style="font-variant:small-caps;">html</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span style="font-variant:small-caps;">pdf</span>][AGU16-poster]
 
 - Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span style="font-variant:small-caps;">html</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][AGU16-poster]
 
