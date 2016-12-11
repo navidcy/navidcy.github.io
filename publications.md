@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal articles
 
-- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (in progress)
+- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (submitted)  [<span style="font-variant:small-caps;">pdf</span>][topo-1layer]
 
 - Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span style="font-variant:small-caps;">pdf</span>][vlsm-poiseuille]
 
