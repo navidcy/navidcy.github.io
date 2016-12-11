@@ -51,7 +51,7 @@ title: Publications
 [multiflow]: multiflow_s3t.pdf
 [s3t-jets-jas]: S3T_jas.pdf
 [holmboe]: holmboe.pdf
-[topo-1layer]:  beta-plane-topo1.pdf
+[topo-1layer]:  betaplane-topo-1.pdf
 
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab-comecap-2016.pdf
