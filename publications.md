@@ -42,7 +42,7 @@ title: Publications
 
 
 ## Doctoral thesis
-- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [arXiv:1503.07644][arXiv:1503.07644], [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
+- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [arXiv:1503.07644][arXiv:1503.07644] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
 
 [topo-1layer]:  betaplane-topo-1.pdf
@@ -61,7 +61,7 @@ title: Publications
 [multiflow-doi]: http://dx.doi.org/10.1088/1742-6596/506/1/012004
 [s3t-jets-jas-doi]: http://dx.doi.org/10.1175/JAS-D-13-076.1
 [holmboe-doi]: http://dx.doi.org/10.1063/1.3609283
- 
+
 
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab-comecap-2016.pdf
