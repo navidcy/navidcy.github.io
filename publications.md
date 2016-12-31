@@ -11,7 +11,6 @@ title: Publications
 - Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
 
 
-
 - Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
 
 - Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2015). S3T stability of the homogeneous state of barotropic beta-plane turbulence. _J. Atmos. Sci._, **72 (5)**, 1689-1712. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-stab-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-stab-jas]
@@ -29,9 +28,9 @@ title: Publications
 
 ## Conference articles
 
-- Constantinou, N. C., P. J. Ioannou and N. A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_eckhaus]
+- Constantinou, N. C., P. J. Ioannou and N. A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_eckhaus]
 
-- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing.
+- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_stab-doi]{:target="_blank"}
  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_stab]
 
 - Ioannou, P. J., M.-A. Nikolaidis and N. C. Constantinou (2014). Simplified turbulence in wall-bounded flows. 9th Panhellenic Meeting ''Fluid Flow Phenomena'' (ROI 2014), Athens, 12-13 Dec. (in greek) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][roi2014-rnl]
@@ -61,7 +60,8 @@ title: Publications
 [multiflow-doi]: http://dx.doi.org/10.1088/1742-6596/506/1/012004
 [s3t-jets-jas-doi]: http://dx.doi.org/10.1175/JAS-D-13-076.1
 [holmboe-doi]: http://dx.doi.org/10.1063/1.3609283
-
+[comecap2016-s3t_eckhaus-doi]: http://dx.doi.org/10.1007/978-3-319-35095-0_52
+[comecap2016-s3t_stab-doi]: http://dx.doi.org/10.1007/978-3-319-35095-0_51
 
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab-comecap-2016.pdf
