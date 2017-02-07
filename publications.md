@@ -6,6 +6,8 @@ title: Publications
 
 ## Journal articles
 
+- Constantinou, N. C. (2017). A minimal model for eddy saturation. _J. Phys. Oceanogr._, (in preparation)
+
 - Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (submitted, [arXiv:1612.03374][arXiv:1612.03374])  <a class="btn btn-primary btn-xs{{end}}" href="betaplane-topo-1.pdf"><span style="font-family:sans-serif;">pdf</span></a>
 
 - Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
