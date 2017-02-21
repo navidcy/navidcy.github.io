@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal articles
 
-- Constantinou, N. C. (2017). A minimal model for eddy saturation. _J. Phys. Oceanogr._, (in preparation)
+- Constantinou, N. C. (2017). A barotropic model for eddy saturation. _J. Phys. Oceanogr._, (in preparation)
 
 - Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (submitted, [arXiv:1612.03374][arXiv:1612.03374])  <a class="btn btn-primary btn-xs{{end}}" href="betaplane-topo-1.pdf"><span style="font-family:sans-serif;">pdf</span></a>
 
