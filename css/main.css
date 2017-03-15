@@ -584,3 +584,7 @@ table tr td :last-child {
 .center {
     text-align: center;
 }
+
+.circular-image {
+  border-radius:  8%;
+}

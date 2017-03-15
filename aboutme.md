@@ -11,9 +11,8 @@ Download my [vitae (CV)](cv_navid.pdf).
 
 
 {: .center}
-![alt text][navid_underwater]{: .center-image }
+<img src="/img/navid_underwater.jpg" alt="me" class="circular-image" />
 
-[navid_underwater]: /img/navid_underwater.jpg "me"
 
 
 [lefkosia-site]: http://en.wikipedia.org/wiki/Nicosia
