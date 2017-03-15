@@ -579,3 +579,8 @@ table tr td :last-child {
   display:inline-block;
   transition:1s;
 }
+
+
+.center {
+    text-align: center;
+}

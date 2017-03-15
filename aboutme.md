@@ -9,6 +9,13 @@ After growing up in the city of [Lefkosia][lefkosia-site] I headed off to Greece
 
 Download my [vitae (CV)](cv_navid.pdf).
 
+
+{: .center}
+![alt text][navid_underwater]{: .center-image }
+
+[navid_underwater]: /img/navid_underwater.jpg "me"
+
+
 [lefkosia-site]: http://en.wikipedia.org/wiki/Nicosia
 [bill-site]: http://www-pord.ucsd.edu/~wryoung/
 [scripps-site]: http://scripps.ucsd.edu
