@@ -6,38 +6,38 @@ title: Presentations
 
 ## Conferences
 
-- Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span style="font-variant:small-caps;">html</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span style="font-variant:small-caps;">pdf</span>][AGU16-poster]
+- Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
-- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span style="font-variant:small-caps;">html</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][AGU16-poster]
+- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
-- Statistical state dynamics of jet/wave coexistense in beta-plane turbulence. _APS March Meeting 2016_ [<span style="font-variant:small-caps;">html</span>][APSMar16-site], Baltimore, 14-18 Mar., 2016. (talk) [<span style="font-variant:small-caps;">pdf</span>][APS-March16]
+- Statistical state dynamics of jet/wave coexistense in beta-plane turbulence. _APS March Meeting 2016_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][APSMar16-site], Baltimore, 14-18 Mar., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APS-March16]
 
-- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. _12th International Conference on Meteorology, Climatology and Atmospheric Physics, COMECAP 2014_ [<span style="font-variant:small-caps;">html</span>][COMECAP14-site], Heraklion, Crete, 28-31 May 2014. (poster) [<span style="font-variant:small-caps;">pdf</span>][COMECAP14-poster]
+- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. _12th International Conference on Meteorology, Climatology and Atmospheric Physics, COMECAP 2014_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][COMECAP14-site], Heraklion, Crete, 28-31 May 2014. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][COMECAP14-poster]
 
-- Emergence and equilibration of jets in planetary turbulence.  _EGU 2013 General Assembly_ [<span style="font-variant:small-caps;">html</span>][EGU13-site], Vienna, 8-12 Apr. 2013. (talk) [<span style="font-variant:small-caps;">pdf</span>][EGU13-talk]
+- Emergence and equilibration of jets in planetary turbulence.  _EGU 2013 General Assembly_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][EGU13-site], Vienna, 8-12 Apr. 2013. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][EGU13-talk]
 
-- Emergence and equilibration of jets in planetary turbulence.  _8th Panhellenic Meeting "Fluid Flow Phenomena'' (ROI 2012)_ [<span style="font-variant:small-caps;">html</span>][ROI12-site], Volos, 16-17 November 2012. (talk) [<span style="font-variant:small-caps;">pdf</span>][ROI12-talk]
+- Emergence and equilibration of jets in planetary turbulence.  _8th Panhellenic Meeting "Fluid Flow Phenomena'' (ROI 2012)_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][ROI12-site], Volos, 16-17 November 2012. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ROI12-talk]
 
 
 ## Invited talks
 
-- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span style="font-variant:small-caps;">html</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
+- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
 
-- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span style="font-variant:small-caps;">html</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span style="font-variant:small-caps;">pdf</span>][GFD_July2016]
+- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2016]
 
-- Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UCLA [<span style="font-variant:small-caps;">html</span>][IPAM-site], Lake Arrowhead, 7 Jun. 2016. [<span style="font-variant:small-caps;">pdf</span>][IPAM_Jun2016]
+- Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UCLA [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][IPAM-site], Lake Arrowhead, 7 Jun. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Jun2016]
 
-- Statistical state dynamics of planetary turbulence. CEAFM Seminar [<span style="font-variant:small-caps;">html</span>][CEAFM-site], Whiting School of Engineering, The Johns Hopkins University, Baltimore, 18 Mar. 2016. [<span style="font-variant:small-caps;">pdf</span>][CEAFM_Mar2016]
+- Statistical state dynamics of planetary turbulence. CEAFM Seminar [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][CEAFM-site], Whiting School of Engineering, The Johns Hopkins University, Baltimore, 18 Mar. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Mar2016]
 
-- A theory for large-scale structure formation in atmospheric/oceanic turbulence: Is jet formation a phase transition phenomenon? CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span style="font-variant:small-caps;">html</span>][Scripps-site], La Jolla, 10 Feb. 2016. [<span style="font-variant:small-caps;">pdf</span>][CASPO_Feb2016]
+- A theory for large-scale structure formation in atmospheric/oceanic turbulence: Is jet formation a phase transition phenomenon? CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Scripps-site], La Jolla, 10 Feb. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Feb2016]
 
-- Formation of large-scale structures by turbulence in planetary atmospheres. Physics Department, University of Cyprus [<span style="font-variant:small-caps;">html</span>][UCY-site] , Nicosia, 5 May 2015. [<span style="font-variant:small-caps;">pdf</span>][UCY_May2015]
+- Formation of large-scale structures by turbulence in planetary atmospheres. Physics Department, University of Cyprus [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][UCY-site] , Nicosia, 5 May 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_May2015]
 
-- Emergence of large-scale structure in planetary turbulence as an instability of the of the homogeneous turbulent state. IPAM, UCLA [<span style="font-variant:small-caps;">html</span>][IPAM-site], Los Angeles, 21 Oct. 2014. [<span style="font-variant:small-caps;">pdf</span>][IPAM_Oct2014]
+- Emergence of large-scale structure in planetary turbulence as an instability of the of the homogeneous turbulent state. IPAM, UCLA [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][IPAM-site], Los Angeles, 21 Oct. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Oct2014]
 
-- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus [<span style="font-variant:small-caps;">html</span>][OCC-site], Nicosia, 7 Jan. 2014. [<span style="font-variant:small-caps;">pdf</span>][UCY_Jan2014]
+- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][OCC-site], Nicosia, 7 Jan. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_Jan2014]
 
-- Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span style="font-variant:small-caps;">html</span>][ISSI-site], Bern 2-5 Apr. 2013. [<span style="font-variant:small-caps;">pdf</span>][ISSI_Apr2013]
+- Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][ISSI-site], Bern 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
 
 

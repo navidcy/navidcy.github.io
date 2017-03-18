@@ -6,9 +6,11 @@ title: Publications
 
 ## Journal articles
 
-- Constantinou, N. C. (2017). A barotropic model for eddy saturation. _J. Phys. Oceanogr._, (submitted)  <a class="btn btn-primary btn-xs{{end}}" href="EddySaturation-JPO-2017.pdf"><span style="font-family:sans-serif;">pdf</span></a>
+- Constantinou, N. C. (2017). A barotropic model for eddy saturation. _J. Phys. Oceanogr._, (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1703.XXXXX]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
-- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (submitted, [arXiv:1612.03374][arXiv:1612.03374])  <a class="btn btn-primary btn-xs{{end}}" href="betaplane-topo-1.pdf"><span style="font-family:sans-serif;">pdf</span></a>
+
+- Constantinou, N. C. and W. R. Young (2016). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1612.03374]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
+
 
 - Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
 
@@ -43,9 +45,13 @@ title: Publications
 
 
 ## Doctoral thesis
-- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [arXiv:1503.07644][arXiv:1503.07644] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
+- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
-[eddysaturatiion]: EddySaturation-JPO-2017.pdf
+
+
+
+
+[eddysaturation]: EddySaturation-JPO-2017.pdf
 [topo-1layer]:  betaplane-topo-1.pdf
 [vlsm-poiseuille]: VLSM-Poiseuille.pdf
 [ssd-jet-wave]: SSD_JetWave.pdf
@@ -76,3 +82,4 @@ title: Publications
 [arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
+[arXiv:1703.XXXXX]: http://arxiv.org/abs/1703.XXXXX
