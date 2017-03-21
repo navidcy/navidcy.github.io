@@ -82,4 +82,4 @@ title: Publications
 [arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
-[arXiv:1703.XXXXX]: http://arxiv.org/abs/1703.XXXXX
+[arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
