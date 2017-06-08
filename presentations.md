@@ -21,6 +21,8 @@ title: Presentations
 
 ## Invited talks
 
+- Eddy saturation in a barotropic model. CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Scripps-site], La Jolla, 7 Jun. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Jun2017]
+
 - Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
 
 - Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2016]
@@ -45,6 +47,7 @@ title: Presentations
 [COMECAP14-poster]: COMECAP14_poster.pdf
 
 [CASPO_Feb2016]: CASPO_Feb2016.pdf
+[CASPO_Jun2017]: CASPO_Jun2017.pdf
 [UCY_May2015]: UCY_May2015.pdf
 [CEAFM_Mar2016]: CEAFM_Mar2016.pdf
 [IPAM_Oct2014]: IPAM_Oct2014.pdf
