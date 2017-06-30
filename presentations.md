@@ -6,6 +6,10 @@ title: Presentations
 
 ## Conferences
 
+- Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
+
+- A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
+
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
 - Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
@@ -59,7 +63,8 @@ title: Presentations
 [GFD_July2016]: GFD-2016.pdf
 [APSDFD16]: APS-DFD-2016.pdf
 [AGU16-poster]: AGU2016_poster.pdf
-
+[AOFD17-talk]: AOFD_Jun2017.pdf
+[AOFD17-poster]: AOFD_Jun2017-poster.pdf
 
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab_comecap-2016.pdf
@@ -79,6 +84,7 @@ title: Presentations
 [GFD-site]: http://www.whoi.edu/gfd/
 [APSDFD16-site]: http://apsdfd2016pdx.org/
 [AGU16-site]: https://fallmeeting.agu.org/2016/
+[AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
 
 
 [phd_eng]: thesis_navid.pdf
