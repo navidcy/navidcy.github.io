@@ -8,7 +8,7 @@ title: Presentations
 
 - Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
 
-- A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
+- A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
 
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
