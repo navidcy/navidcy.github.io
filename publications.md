@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal articles
 
-- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1799.9999]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
+- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
 
 - Constantinou, N. C. (2017). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1703.06594]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
@@ -25,9 +25,7 @@ title: Publications
 - Constantinou, N. C. and P. J. Ioannou (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe]
 
 
-
-
-
+<!--
 
 ## Conference articles
 
@@ -41,6 +39,8 @@ title: Publications
 - Bakas, N. A., P. J. Ioannou and N. C. Constantinou (2014). Emergence of non-zonal coherent structures in barotropic turbulence. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 107-111, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-nonzonal]
 
 - Constantinou, N. C. and Ioannou, P. J. (2014). Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 210-214, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-zonal]
+
+-->
 
 
 ## Doctoral thesis
@@ -83,4 +83,4 @@ title: Publications
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
 [arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
-[arXiv:1799.9999]: http://arxiv.org/abs/1703.06594
+[arXiv:1708.03031]: http://arxiv.org/abs/1708.03031
