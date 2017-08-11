@@ -6,21 +6,22 @@ title: Publications
 
 ## Journal articles
 
-- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1799.9999]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
-
 - Constantinou, N. C. (2017). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1703.06594]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
+
 
 - Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (in press) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1612.03374]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
 
-- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán, and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
 
-- Constantinou, N. C., B. F. Farrell, and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
+- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
 
-- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2015). S3T stability of the homogeneous state of barotropic beta-plane turbulence. _J. Atmos. Sci._, **72 (5)**, 1689-1712. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-stab-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-stab-jas]
 
-- Constantinou, N. C., A. Lozano-Durán, M.-A. Nikolaidis, B. F. Farrell, P. J. Ioannou, and J. Jiménez (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow]
+- Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
 
-- Constantinou, N. C., B. F. Farrell, and P. J. Ioannou (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
+- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2015). S3T stability of the homogeneous state of barotropic beta-plane turbulence. _J. Atmos. Sci._, **72 (5)**, 1689-1712. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-stab-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-stab-jas]
+
+- Constantinou, N. C., A. Lozano-Durán, M.-A. Nikolaidis, B. F. Farrell, P. J. Ioannou and J. Jiménez (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow]
+
+- Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
 
 - Constantinou, N. C. and P. J. Ioannou (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe]
 
@@ -57,7 +58,6 @@ title: Publications
 [s3t-stab-jas]: S3T_barotropic_stability.pdf
 [multiflow]: multiflow_s3t.pdf
 [s3t-jets-jas]: S3T_jas.pdf
-[ssd-eckaus]: SSD_Eckhaus.pdf
 [holmboe]: holmboe.pdf
 
 
@@ -83,4 +83,3 @@ title: Publications
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
 [arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
-[arXiv:1799.9999]: http://arxiv.org/abs/1703.06594
