@@ -55,6 +55,7 @@ title: Publications
 [topo-1layer]:  betaplane-topo-1.pdf
 [vlsm-poiseuille]: VLSM-Poiseuille.pdf
 [ssd-jet-wave]: SSD_JetWave.pdf
+[ssd-eckaus]: SSD_Eckhaus.pdf
 [s3t-stab-jas]: S3T_barotropic_stability.pdf
 [multiflow]: multiflow_s3t.pdf
 [s3t-jets-jas]: S3T_jas.pdf
