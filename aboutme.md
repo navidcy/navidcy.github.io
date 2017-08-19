@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About me
-#subtitle: Why you'd want to go on a date with me
+#subtitle: Short biographical note
 ---
 
 
-After growing up in the city of [Lefkosia][lefkosia-site] I headed off to Greece to study physics at the [National and Kapodistrian University of Athens][uoa-site]. I obtained my Ph.D. in March 2015 under the supervision of Prof. [Petros J. Ioannou][pji-site] on the subject of atmospheric dynamics and specifically on the formation of large-scale structures in planetary atmospheres. Since September 2015, I am working as a [NOAA Climate & Global Change][noaa-site] postdoctoral fellow with Prof. [Bill Young][bill-site] at the [Scripps Institution of Oceanography][scripps-site], [University of California San Diego][ucsd-site].
+After growing up in the city of [Lefkosia][lefkosia-site] I headed off to Greece to study physics at the [National and Kapodistrian University of Athens][uoa-site]. I obtained my Ph.D. in March 2015 under the supervision of Prof. [Petros J. Ioannou][pji-site] on atmospheric dynamics and specifically on the formation of large-scale structures in planetary atmospheres. Since September 2015, I am working as a [NOAA Climate & Global Change][noaa-site] postdoctoral fellow with Prof. [Bill Young][bill-site] at the [Scripps Institution of Oceanography][scripps-site], [University of California San Diego][ucsd-site].
 
 Download my [vitae (CV)](cv_navid.pdf).
 
 
 {: .center}
 <img src="/img/navid_underwater.jpg" alt="me" class="circular-image" />
-
 
 
 [lefkosia-site]: http://en.wikipedia.org/wiki/Nicosia
