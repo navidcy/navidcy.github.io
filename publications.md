@@ -10,12 +10,9 @@ title: Publications
 
 - Constantinou, N. C. (2017). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1703.06594]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
-
-- Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid Mech._, (in press) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1612.03374]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
-
+- Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
 
 - Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
-
 
 - Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
 
@@ -61,6 +58,8 @@ title: Publications
 [s3t-jets-jas]: S3T_jas.pdf
 [holmboe]: holmboe.pdf
 
+
+[barotropic-topo-mono-doi]: https://doi.org/10.1017/jfm.2017.482
 [vlsm-poiseuille-doi]: https://doi.org/10.1017/jfm.2016.661
 [ssd-jet-wave-doi]: http://dx.doi.org/10.1175/JAS-D-15-0288.1
 [s3t-stab-jas-doi]: http://dx.doi.org/10.1175/JAS-D-14-0213.1
