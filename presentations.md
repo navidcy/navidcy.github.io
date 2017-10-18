@@ -25,6 +25,8 @@ title: Presentations
 
 ## Invited talks
 
+- Eddy saturation in a barotropic model. CEAFM Seminar [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][CEAFM-site], Department of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, 13 Oct. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Oct2017]
+
 - Eddy saturation in a barotropic model. CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Scripps-site], La Jolla, 7 Jun. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Jun2017]
 
 - Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
@@ -54,6 +56,7 @@ title: Presentations
 [CASPO_Jun2017]: CASPO_Jun2017.pdf
 [UCY_May2015]: UCY_May2015.pdf
 [CEAFM_Mar2016]: CEAFM_Mar2016.pdf
+[CEAFM_Oct2017]: CEAFM_Oct2017.pdf
 [IPAM_Oct2014]: IPAM_Oct2014.pdf
 [IPAM_Jun2016]: IPAM_Jun2016.pdf
 [UCY_Jan2014]: UCY_Jan2014.pdf
@@ -85,10 +88,3 @@ title: Presentations
 [APSDFD16-site]: http://apsdfd2016pdx.org/
 [AGU16-site]: https://fallmeeting.agu.org/2016/
 [AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
-
-
-[phd_eng]: thesis_navid.pdf
-
-[arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
-
-[arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
