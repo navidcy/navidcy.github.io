@@ -10,6 +10,8 @@ title: Presentations
 
 - A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
 
+- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP, UC Santa Barbara [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017. (invited talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP17-talk]
+
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
 - Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][APSDFD16-site], Portland, 20-22 Nov., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
@@ -23,13 +25,11 @@ title: Presentations
 - Emergence and equilibration of jets in planetary turbulence.  _8th Panhellenic Meeting "Fluid Flow Phenomena'' (ROI 2012)_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][ROI12-site], Volos, 16-17 November 2012. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ROI12-talk]
 
 
-## Invited talks
+## Seminars
 
 - Eddy saturation in a barotropic model. CEAFM Seminar [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][CEAFM-site], Department of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, 13 Oct. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Oct2017]
 
 - Eddy saturation in a barotropic model. CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Scripps-site], La Jolla, 7 Jun. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Jun2017]
-
-- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017.
 
 - Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][GFD-site], Woods Hole, 19 Jul. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2016]
 
@@ -66,6 +66,7 @@ title: Presentations
 [GFD_July2016]: GFD-2016.pdf
 [APSDFD16]: APS-DFD-2016.pdf
 [AGU16-poster]: AGU2016_poster.pdf
+[KITP17-talk]: KITP_Jan2017.pdf
 [AOFD17-talk]: AOFD_Jun2017.pdf
 [AOFD17-poster]: AOFD_Jun2017-poster.pdf
 
