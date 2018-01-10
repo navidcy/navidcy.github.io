@@ -8,7 +8,7 @@ title: Publications
 
 - Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
 
-- Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, (in press, doi:10.1175/JPO-D-17-0182.1) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1703.06594]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
+- Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, (in press, doi:10.1175/JPO-D-17-0182.1) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
 - Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
 
