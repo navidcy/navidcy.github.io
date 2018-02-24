@@ -4,9 +4,15 @@ title: Publications
 #subtitle:
 ---
 
-## Journal articles
+# Journal articles
+
+### In progress/submitted
 
 - Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
+
+- Parker, J. B. and N. C. Constantinou. Magnetic suppression of zonal flows on a beta-plane. to be submitted in _Astrophys. J._
+
+### In press/published
 
 - Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411 [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
@@ -43,7 +49,7 @@ title: Publications
 -->
 
 
-## Doctoral thesis
+# Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
 
