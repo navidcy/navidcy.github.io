@@ -10,7 +10,7 @@ title: Publications
 
 - Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
 
-- Constantinou, N. C. and J. B. Parker. Magnetic suppression of zonal flows on a beta-plane. to be submitted in _Astrophys. J._
+- Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, (submitted) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
 
 ### In press/published
 
@@ -57,6 +57,7 @@ title: Publications
 
 
 
+[magneticZF]: magneticZF-2018.pdf
 [eddysaturation]: EddySaturation-JPO-2017.pdf
 [topo-1layer]:  betaplane-topo-1.pdf
 [vlsm-poiseuille]: VLSM-Poiseuille.pdf
