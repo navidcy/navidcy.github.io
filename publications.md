@@ -8,7 +8,7 @@ title: Publications
 
 ### In progress/submitted
 
-- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2017). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
+- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2018). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (in review) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
 
 - Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, (submitted) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
 
@@ -18,15 +18,15 @@ title: Publications
 
 - Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
 
-- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
+- Farrell, B. F., P. J. Ioannou, J. Jiménez, N. C. Constantinou, A. Lozano-Durán, and M.-A. Nikolaidis (2016). A statistical state dynamics-based study of the structure and mechanism of large-scale motions in plane Poiseuille flow. _J. Fluid. Mech._, **809**, 290-315. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][vlsm-poiseuille-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][vlsm-poiseuille]
 
-- Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
+- Constantinou, N. C., B. F. Farrell, and P. J. Ioannou (2016). Statistical state dynamics of jet—wave coexistence in barotropic beta-plane turbulence. _J. Atmos. Sci._, **73 (5)**, 2229-2253. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-jet-wave-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-jet-wave]
 
-- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2015). S3T stability of the homogeneous state of barotropic beta-plane turbulence. _J. Atmos. Sci._, **72 (5)**, 1689-1712. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-stab-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-stab-jas]
+- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2015). S3T stability of the homogeneous state of barotropic beta-plane turbulence. _J. Atmos. Sci._, **72 (5)**, 1689-1712. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-stab-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-stab-jas]
 
-- Constantinou, N. C., A. Lozano-Durán, M.-A. Nikolaidis, B. F. Farrell, P. J. Ioannou and J. Jiménez (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow]
+- Constantinou, N. C., A. Lozano-Durán, M.-A. Nikolaidis, B. F. Farrell, P. J. Ioannou, and J. Jiménez (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow]
 
-- Constantinou, N. C., B. F. Farrell and P. J. Ioannou (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
+- Constantinou, N. C., B. F. Farrell, and P. J. Ioannou (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
 
 - Constantinou, N. C. and P. J. Ioannou (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe]
 
@@ -35,17 +35,17 @@ title: Publications
 
 ## Conference articles
 
-- Constantinou, N. C., P. J. Ioannou and N. A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_eckhaus]
+- Constantinou, N. C., P. J. Ioannou, and N. A. Bakas (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_eckhaus]
 
-- Bakas, N. A., N. C. Constantinou and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_stab-doi]{:target="_blank"}
+- Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_stab-doi]{:target="_blank"}
  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_stab]
 
 
 <!--
 
-- Ioannou, P. J., M.-A. Nikolaidis and N. C. Constantinou (2014). Simplified turbulence in wall-bounded flows. 9th Panhellenic Meeting ''Fluid Flow Phenomena'' (ROI 2014), Athens, 12-13 Dec. (in greek) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][roi2014-rnl]
+- Ioannou, P. J., M.-A. Nikolaidis, and N. C. Constantinou (2014). Simplified turbulence in wall-bounded flows. 9th Panhellenic Meeting ''Fluid Flow Phenomena'' (ROI 2014), Athens, 12-13 Dec. (in greek) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][roi2014-rnl]
 
-- Bakas, N. A., P. J. Ioannou and N. C. Constantinou (2014). Emergence of non-zonal coherent structures in barotropic turbulence. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 107-111, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-nonzonal]
+- Bakas, N. A., P. J. Ioannou, and N. C. Constantinou (2014). Emergence of non-zonal coherent structures in barotropic turbulence. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 107-111, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-nonzonal]
 
 - Constantinou, N. C. and Ioannou, P. J. (2014). Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 210-214, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-zonal]
 
