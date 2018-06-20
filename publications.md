@@ -10,11 +10,11 @@ title: Publications
 
 - Bakas, N. A., N. C. Constantinou, and P. J. Ioannou (2018). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (in review) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1708.03031]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
 
-- Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, (to appear) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1805.09847]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
-
 - Parker, J. B. and N. C. Constantinou. Zonostrophic instability on the sphere. (to be submitted in the _P. Roy. Soc. A-Math. Phys._)
 
 ### In press/published
+
+- Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, (in press) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1805.09847]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
 
 - Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411 [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
