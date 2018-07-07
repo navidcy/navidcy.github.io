@@ -60,7 +60,7 @@ title: Publications
 
 
 [magneticZF]: magneticZF-2018.pdf
-[eddysaturation]: EddySaturation-JPO-2017.pdf
+[eddysaturation]: EddySaturation-JPO-2018.pdf
 [topo-1layer]:  betaplane-topo-1.pdf
 [vlsm-poiseuille]: VLSM-Poiseuille.pdf
 [ssd-jet-wave]: SSD_JetWave.pdf
