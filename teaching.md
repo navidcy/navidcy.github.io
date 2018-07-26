@@ -31,7 +31,7 @@ Held weekly recitation sessions and supervised students regarding their weekly h
 ##### Spring semesters 2012, 2013, 2014
 ##### Lecturers: [Petros J. Ioannou][pji] and [Theocharis A. Apostolatos][thapostol]
 
-Delivered tutorials on basics numerical methods and using MATLAB.
+Delivered tutorials on elementary numerical methods using MATLAB.
 
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
