@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
 #  Research: "research"
   Publications: "publications"
+  Teaching: "teaching"
   Presentations: "presentations"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -44,11 +45,10 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Navid Constantinou
   email: "navid.constantinou@anu.edu.au"
-  #facebook: yourname  # eg. daattali
-  github: navidcy    # eg. daattali
-  vimeo: navidcy   # eg. daattali
+  github: navidcy    # eg. navidcy
+  vimeo: navidcy   # eg. navidcy
   gscolar: Hf4FZvQAAAAJ    # google scholar profile
-  #twitter: yourname   # eg. daattali
+  #twitter: yourname   # eg. navidcy
   #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "3943160/daattali"
 
