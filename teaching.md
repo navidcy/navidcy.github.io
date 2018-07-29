@@ -10,7 +10,7 @@ title: Teaching
 
 Syllabus: Basics of hydrodynamics stability theory, modal stability of parrallel shear (stratified) flows, non-modal stability and transient perturbation growth, discrete and continuous spectrum.
 
-Developed the curriculum (lectures and projects), composed lecture notes, and supervised student projects.
+Developed the curriculum (lectures and projects), composed [lecture notes][instabilities-anu-notes]{:target="_blank"}, and supervised the students' projects.
 
 [Class Website][instabilities-anu]{:target="_blank"}
 
@@ -37,6 +37,7 @@ Delivered tutorials on elementary numerical methods using MATLAB.
 
 
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
+[instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
 [appliedmath3-sio]: http://pordlabs.ucsd.edu/wryoung/SIO203C_Old.html
 [nonlin-nkua]: http://users.uoa.gr/~pjioannou/nonlin/
 [wryoung]: http://pordlabs.ucsd.edu/wryoung/
