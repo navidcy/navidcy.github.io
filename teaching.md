@@ -23,7 +23,7 @@ Syllabus: Regular and singular perturbation theory, asymptotic methods (method o
 
 Held weekly recitation sessions and supervised students regarding their weekly homework assignments.
 
-[Class Website (greek)][nonlin-nkua]{:target="_blank"}
+[Class Website][appliedmath3-sio]{:target="_blank"}
 
 
 ### Nonlinear dynamical systems (Teaching assistant)
