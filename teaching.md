@@ -17,7 +17,7 @@ Developed the curriculum (lectures and projects), composed [lecture notes][insta
 ### Applied Mathematics III: Perturbations methods (Teaching assistant)
 ##### Scripps Institution of Oceanography, University of California San Diego
 ##### Spring Quarter, 2017
-##### Lecturer: [William R. Young][wryoung]
+##### Lecturer: [William R. Young][wryoung]{:target="_blank"}
 
 Syllabus: Regular and singular perturbation theory, asymptotic methods (method of steepest descent, WKB), method of multiple scales, boundary layer theory.
 
@@ -29,9 +29,9 @@ Held weekly recitation sessions and supervised students regarding their weekly h
 ### Nonlinear dynamical systems (Teaching assistant)
 ##### Physics Department, National and Kapodistrian University of Athens
 ##### Spring semesters 2012, 2013, 2014
-##### Lecturers: [Petros J. Ioannou][pji] and [Theocharis A. Apostolatos][thapostol]
+##### Lecturers: [Petros J. Ioannou][pji]{:target="_blank"} and [Theocharis A. Apostolatos][thapostol]{:target="_blank"}
 
-Delivered tutorials on elementary numerical methods using MATLAB.
+Held tutorials on elementary numerical methods using MATLAB.
 
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
