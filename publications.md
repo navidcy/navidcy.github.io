@@ -14,7 +14,7 @@ title: Publications
 
 ### In press/published
 
-- Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, (in press) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1805.09847]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
+- Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, **863**, 46. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticZF-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]
 
 - Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411 [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
@@ -70,6 +70,7 @@ title: Publications
 [s3t-jets-jas]: S3T_jas.pdf
 [holmboe]: holmboe.pdf
 
+[magneticZF-doi]: https://doi.org/10.3847/1538-4357/aace53
 [EddySaturationJPO-doi]: https://doi.org/10.1175/JPO-D-17-0182.1
 [barotropic-topo-mono-doi]: https://doi.org/10.1017/jfm.2017.482
 [vlsm-poiseuille-doi]: https://doi.org/10.1017/jfm.2016.661
