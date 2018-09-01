@@ -6,6 +6,8 @@ title: Presentations
 
 ## Conferences
 
+- Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Euromech18-site], Imperial College London, London, 29-31 Aug., 2018. (invited talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
+
 - Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
 
 - A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
@@ -51,7 +53,6 @@ title: Presentations
 
 [APS-March16]: APS_Mar2016.pdf
 [COMECAP14-poster]: COMECAP14_poster.pdf
-
 [CASPO_Feb2016]: CASPO_Feb2016.pdf
 [CASPO_Jun2017]: CASPO_Jun2017.pdf
 [UCY_May2015]: UCY_May2015.pdf
@@ -69,11 +70,12 @@ title: Presentations
 [KITP17-talk]: KITP_Jan2017.pdf
 [AOFD17-talk]: AOFD_Jun2017.pdf
 [AOFD17-poster]: AOFD_Jun2017-poster.pdf
-
+[Euromech18-talk]: Euromech598_Aug2018.pdf
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab_comecap-2016.pdf
 [EGU13-talk]: SSST_jets_EGU2013_Navid.pdf
 [ROI12-talk]: Jets_Navid_Volos_final.pdf
+
 [ROI12-site]: http://www.mie.uth.gr/flow2012/
 [EGU13-site]: http://www.egu2013.eu/
 [COMECAP14-site]: http://comecap2014.chemistry.uoc.gr/
@@ -89,3 +91,4 @@ title: Presentations
 [APSDFD16-site]: http://apsdfd2016pdx.org/
 [AGU16-site]: https://fallmeeting.agu.org/2016/
 [AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
+[Euromech18-site]: http://598.euromech.org
