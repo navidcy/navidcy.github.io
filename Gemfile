@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem "github-pages", '163', group: :jekyll_plugins
+gem "jekyll", ">= 3.7.4"
+gem "github-pages", '192', group: :jekyll_plugins
 
 # enable tzinfo-data for local build
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
