@@ -18,6 +18,8 @@ title: Publications
 - Constantinou, N. C. and J. B. Parker (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, **863**, 46. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticZF-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF] <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magnetic]{:target="_blank"} and [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magnetic]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation]{:target="_blank"})
 
+<ul><div class='altmetric-embed' data-badge-type='donut' data-doi="10.3847/1538-4357/aace53"></div></ul>
+
 - Constantinou, N. C. (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411 [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
 - Constantinou, N. C. and W. R. Young (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
