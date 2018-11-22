@@ -7,9 +7,11 @@ title: Publications
 
 # Journal articles
 
+<!--
 ### In progress/submitted
 
 - Parker, J. B. and N. C. Constantinou. Zonostrophic instability on the sphere. (to be submitted in the _P. Roy. Soc. A-Math. Phys._)
+-->
 
 ### In press/published
 
