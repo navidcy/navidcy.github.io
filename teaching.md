@@ -4,11 +4,11 @@ title: Teaching
 #subtitle:
 ---
 
-### Instabilities in fluids (Lecturer)
+### Instabilities in fluids (Course Coordinator)
 ##### Research School of Earth Sciences, Australian National University
 ##### Semester 2, 2018
 
-Syllabus: Basics of hydrodynamics stability theory, modal stability of parrallel shear (stratified) flows, non-modal stability and transient perturbation growth, discrete and continuous spectrum.
+Syllabus: Basics of hydrodynamics stability theory, modal stability of parallel shear (stratified) flows, non-modal stability and transient perturbation growth, discrete and continuous spectrum.
 
 Developed the curriculum (lectures and projects), composed [lecture notes][instabilities-anu-notes]{:target="_blank"}, and supervised the students' projects.
 
