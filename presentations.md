@@ -6,13 +6,17 @@ title: Presentations
 
 ## Conferences
 
-- Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Euromech18-site], Imperial College London, London, 29-31 Aug., 2018. (invited talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
+- Barotropic versus baroclinic eddy saturation. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU18-site], Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-ocean-poster]
+
+- Magnetic suppression of zonal flows on a beta plane. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU18-site], Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-magnetic-poster]
+
+- Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][Euromech18-site], Imperial College London, London, 29-31 Aug., 2018. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
 
 - Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
 
 - A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AOFD17-site], Portland, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
 
-- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP, UC Santa Barbara [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017. (invited talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP17-talk]
+- Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP, UC Santa Barbara [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][KITP-site], Santa Barbara, 9-13 Jan. 2017. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP17-talk]
 
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][AGU16-site], San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
@@ -50,7 +54,8 @@ title: Presentations
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-warning btn-xs{{end}}" style="font-family:sans-serif;">www</span>][ISSI-site], Bern 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
 
-
+[AGU18-ocean-poster]: AGU2018_ocean-poster.pdf
+[AGU18-magnetic-poster]: AGU2018_magnetic-poster.pdf
 [APS-March16]: APS_Mar2016.pdf
 [COMECAP14-poster]: COMECAP14_poster.pdf
 [CASPO_Feb2016]: CASPO_Feb2016.pdf
@@ -90,5 +95,6 @@ title: Presentations
 [GFD-site]: http://www.whoi.edu/gfd/
 [APSDFD16-site]: http://apsdfd2016pdx.org/
 [AGU16-site]: https://fallmeeting.agu.org/2016/
+[AGU18-site]: https://fallmeeting.agu.org/2018/
 [AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
 [Euromech18-site]: http://598.euromech.org
