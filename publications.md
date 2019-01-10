@@ -62,7 +62,7 @@ title: Publications
 
 ## Other Publications
 
-- Lozano-Durán, A, M. Karp, and **N. C. Constantinou** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_. (submitted) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
+- Lozano-Durán, A, M. Karp, and **N. C. Constantinou** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
 
 - **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]
 
@@ -86,6 +86,7 @@ title: Publications
 [holmboe]: holmboe.pdf
 
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
+[wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
 [ssd-eckhaus-doi]: https://doi.org/10.1175/JAS-D-18-0148.1
 [magneticZF-doi]: https://doi.org/10.3847/1538-4357/aace53
