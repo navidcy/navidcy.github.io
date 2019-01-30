@@ -34,6 +34,9 @@ title: Presentations
 
 ## Seminars
 
+
+- Baroclinic versus Barotropic eddy saturation. Oceans and Climate Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OceansGFDL-site]{:target="_blank"}, Geophysical Fluid Dynamics Laboratory [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFDL-site]{:target="_blank"}, Princeton, 12 Dec. 2018. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFDL-Dec2018]
+
 - Eddy saturation in a barotropic model. CEAFM Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][CEAFM-site]{:target="_blank"}, Department of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, 13 Oct. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Oct2017]
 
 - Eddy saturation in a barotropic model. CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, La Jolla, 7 Jun. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Jun2017]
@@ -55,6 +58,7 @@ title: Presentations
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
 
+[GFDL-Dec2018]: GFDL_Dec2018.pdf
 [AGU18-ocean-poster]: AGU2018_ocean-poster.pdf
 [AGU18-magnetic-poster]: AGU2018_magnetic-poster.pdf
 [APS-March16]: APS_Mar2016.pdf
@@ -99,3 +103,5 @@ title: Presentations
 [AGU18-site]: https://fallmeeting.agu.org/2018/
 [AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
 [Euromech18-site]: http://598.euromech.org
+[OceansGFDL-site]: https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/
+[GFDL-site]: https://www.gfdl.noaa.gov/
