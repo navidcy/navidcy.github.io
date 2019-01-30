@@ -35,30 +35,33 @@ title: Presentations
 ## Seminars
 
 
-- Baroclinic versus Barotropic eddy saturation. Oceans and Climate Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OceansGFDL-site]{:target="_blank"}, Geophysical Fluid Dynamics Laboratory [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFDL-site]{:target="_blank"}, Princeton, 12 Dec. 2018. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFDL-Dec2018]
+- Magnetic suppression of zonal flows on a beta plane. SpinLab Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][SpinLab-site]{:target="_blank"}, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UCLA-site]{:target="_blank"}, Los Angeles, USA, 11 Jan. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCLA-Jan2019]
 
-- Eddy saturation in a barotropic model. CEAFM Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][CEAFM-site]{:target="_blank"}, Department of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, 13 Oct. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Oct2017]
+- Baroclinic versus Barotropic eddy saturation. Oceans and Climate Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OceansGFDL-site]{:target="_blank"}, Geophysical Fluid Dynamics Laboratory [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFDL-site]{:target="_blank"}, Princeton, USA, 12 Dec. 2018. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFDL-Dec2018]
+
+- Eddy saturation in a barotropic model. CEAFM Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][CEAFM-site]{:target="_blank"}, Department of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, USA, 13 Oct. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Oct2017]
 
 - Eddy saturation in a barotropic model. CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, La Jolla, 7 Jun. 2017. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Jun2017]
 
-- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFD-site]{:target="_blank"}, Woods Hole, 19 Jul. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2016]
+- Topographic beta-plane turbulence and form stress. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFD-site]{:target="_blank"}, Woods Hole, USA, 19 Jul. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2016]
 
-- Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][IPAM-site]{:target="_blank"}, Lake Arrowhead, 7 Jun. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Jun2016]
+- Topographic beta-plane turbulence and form stress. Mathematics of Turbulence Reunion Conference, IPAM, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][IPAM-site]{:target="_blank"}, Lake Arrowhead, USA, 7 Jun. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Jun2016]
 
-- Statistical state dynamics of planetary turbulence. CEAFM Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][CEAFM-site]{:target="_blank"}, Whiting School of Engineering, The Johns Hopkins University, Baltimore, 18 Mar. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Mar2016]
+- Statistical state dynamics of planetary turbulence. CEAFM Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][CEAFM-site]{:target="_blank"}, Whiting School of Engineering, The Johns Hopkins University, Baltimore, USA, 18 Mar. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CEAFM_Mar2016]
 
-- A theory for large-scale structure formation in atmospheric/oceanic turbulence: Is jet formation a phase transition phenomenon? CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, La Jolla, 10 Feb. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Feb2016]
+- A theory for large-scale structure formation in atmospheric/oceanic turbulence: Is jet formation a phase transition phenomenon? CASPO Seminar, Scripps Institution of Oceanography, UC San Diego [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, La Jolla, USA, 10 Feb. 2016. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CASPO_Feb2016]
 
 - Formation of large-scale structures by turbulence in planetary atmospheres. Physics Department, University of Cyprus [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UCY-site] , Nicosia, 5 May 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_May2015]
 
-- Emergence of large-scale structure in planetary turbulence as an instability of the of the homogeneous turbulent state. IPAM, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][IPAM-site]{:target="_blank"}, Los Angeles, 21 Oct. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Oct2014]
+- Emergence of large-scale structure in planetary turbulence as an instability of the of the homogeneous turbulent state. IPAM, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][IPAM-site]{:target="_blank"}, Los Angeles, USA, 21 Oct. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Oct2014]
 
-- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OCC-site]{:target="_blank"}, Nicosia, 7 Jan. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_Jan2014]
+- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus[<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OCC-site]{:target="_blank"}, Nicosia, Cyprus, 7 Jan. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_Jan2014]
 
-- Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
+- Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
 
 [GFDL-Dec2018]: GFDL_Dec2018.pdf
+[UCLA-Jan2019]: UCLA_Jan2019.pdf
 [AGU18-ocean-poster]: AGU2018_ocean-poster.pdf
 [AGU18-magnetic-poster]: AGU2018_magnetic-poster.pdf
 [APS-March16]: APS_Mar2016.pdf
@@ -105,3 +108,5 @@ title: Presentations
 [Euromech18-site]: http://598.euromech.org
 [OceansGFDL-site]: https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/
 [GFDL-site]: https://www.gfdl.noaa.gov/
+[SpinLab-site]: http://spinlab.ess.ucla.edu/
+[UCLA-site]: http://www.ucla.edu
