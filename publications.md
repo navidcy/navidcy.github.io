@@ -9,7 +9,7 @@ title: Publications
 
 ### Submitted
 
-- Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean sheared flows in two-dimensional magnetohydrodynamics. (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
+- Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean sheared flows in two-dimensional magnetohydrodynamics. (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
 
 
 ### In press/published
@@ -114,6 +114,7 @@ title: Publications
 [arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
 [arXiv:1708.03031]: http://arxiv.org/abs/1708.03031
 [arXiv:1805.09847]: https://arxiv.org/abs/1805.09847
+[arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
 
 
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
