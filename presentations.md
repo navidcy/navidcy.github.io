@@ -34,6 +34,9 @@ title: Presentations
 
 ## Seminars
 
+- How does the Antarctic Circumpolar Current respond to the increasing winds over the Southern Ocean?: Barotropic versus Baroclinic Eddy Saturation. Department of Mathematics Fluids Seminar, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, Melbourne, Australia, 12 Feb. 2019. 
+
+- Statistical state dynamics: a new framework for understanding turbulent flows. Fluid Mechanics Research Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelbFluids-site]{:target="_blank"}, The University of Melbourne [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelb-site]{:target="_blank"}, Melbourne, Australia, 8 Feb. 2019. 
 
 - Magnetic suppression of zonal flows on a beta plane. SpinLab Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][SpinLab-site]{:target="_blank"}, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UCLA-site]{:target="_blank"}, Los Angeles, USA, 11 Jan. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCLA-Jan2019]
 
@@ -110,3 +113,6 @@ title: Presentations
 [GFDL-site]: https://www.gfdl.noaa.gov/
 [SpinLab-site]: http://spinlab.ess.ucla.edu/
 [UCLA-site]: http://www.ucla.edu
+[UMelb-site]: https://www.unimelb.edu.au
+[Monash-site]: https://www.monash.edu
+[UMelbFluids-site]: https://fluids.eng.unimelb.edu.au
