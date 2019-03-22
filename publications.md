@@ -14,14 +14,16 @@ title: Publications
 
 ### In press/published
 
-- Bakas, N. A., **Constantinou, N. C.**, and Ioannou, P. J. (2019). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, (in press, doi:10.1175/JAS-D-18-0148.1) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
+- Bakas, N. A., **Constantinou, N. C.**, and Ioannou, P. J. (2019). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, **76 (3)**, 919-945. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][SSDEckhaus-clexbrief]{:target="_blank"} press news)
+
 
 - **Constantinou, N. C.** and Parker, J. B. (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, **863**, 46. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticZF-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF] <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magnetic]{:target="_blank"}, [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magnetic]{:target="_blank"} and [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][magneticZI-clexbrief]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation]{:target="_blank"})
 
 <ul><div class='altmetric-embed' data-badge-type='donut' data-doi="10.3847/1538-4357/aace53"></div></ul>
 
-- **Constantinou, N. C.** (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411 [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
+- **Constantinou, N. C.** (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation]
 
 - **Constantinou, N. C.** and Young, W. R. (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer]
 
@@ -121,3 +123,5 @@ title: Publications
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
+[SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
+
