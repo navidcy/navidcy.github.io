@@ -11,7 +11,7 @@ title: Presentations
 
 - Magnetic suppression of zonal flows on a beta plane. _AGU Fall Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AGU18-site]{:target="_blank"}, Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-magnetic-poster]
 
-- Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Euromech18-site]{:target="_blank"}, Imperial College London, London, 29-31 Aug., 2018. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
+- Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Euromech18-site]{:target="_blank"}, Imperial College London, London, 29-31 Aug., 2018. (**invited keynote talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
 
 - Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD17-site]{:target="_blank"}, Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
 
