@@ -9,6 +9,17 @@ title: Publications
 
 ### Submitted
 
+- Rocha, C. B., Bossy, T., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
+
+
+- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
+
+
+- **Constantinou, N. C.** and Hogg, A. McC (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Lett._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
+
+
+
+
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
 
 
