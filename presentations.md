@@ -7,21 +7,25 @@ title: Presentations
 
 ## Conferences
 
+- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (talk) 
+
+- Magnetic eddy viscosity of mean shear flows in 2D magnetohydrodynamics: possible application to gas giants' interiors.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (poster) 
+
 - Barotropic versus baroclinic eddy saturation. _AGU Fall Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AGU18-site]{:target="_blank"}, Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-ocean-poster]
 
 - Magnetic suppression of zonal flows on a beta plane. _AGU Fall Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AGU18-site]{:target="_blank"}, Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-magnetic-poster]
 
 - Statistical state dynamics reveals mechanism for organization of coherent structures in turbulent flows. _Euromech Colloquium 598: Coherent structures in wall-bounded turbulence_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Euromech18-site]{:target="_blank"}, Imperial College London, London, 29-31 Aug., 2018. (**invited keynote talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Euromech18-talk]
 
-- Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD17-site]{:target="_blank"}, Portland, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
+- Eddy saturation in a barotropic model. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD17-site]{:target="_blank"}, Portland, OR, 26-30 Jun., 2017. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-talk]
 
-- A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD17-site]{:target="_blank"}, Portland, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
+- A statistical state dynamics based theory for jet-wave coexistence in beta-plane turbulence. _21st Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD17-site]{:target="_blank"}, Portland, OR, 26-30 Jun., 2017. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD17-poster]
 
 - Understanding self-organization in turbulent flows by studying the statistical state dynamics. _Conference on "Recurrence, Self-Organization, and the Dynamics Of Turbulence"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara, 9-13 Jan. 2017. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP17-talk]
 
 - Topographic beta-plane turbulence and form stress. _AGU Fall Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AGU16-site]{:target="_blank"}, San Francisco, 12-16 Dec., 2016. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
-- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD16-site]{:target="_blank"}, Portland, 20-22 Nov., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
+- Structure and mechanism of turbulence under dynamical restriction in plane Poiseuille flow. _69th APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD16-site]{:target="_blank"}, Portland, OR, 20-22 Nov., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU16-poster]
 
 - Statistical state dynamics of jet/wave coexistense in beta-plane turbulence. _APS March Meeting 2016_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSMar16-site]{:target="_blank"}, Baltimore, 14-18 Mar., 2016. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APS-March16]
 
@@ -109,7 +113,8 @@ title: Presentations
 [APSDFD16-site]: http://apsdfd2016pdx.org/
 [AGU16-site]: https://fallmeeting.agu.org/2016/
 [AGU18-site]: https://fallmeeting.agu.org/2018/
-[AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram/start.html
+[AOFD17-site]: https://ams.confex.com/ams/21Fluid19Middle/webprogram
+[AOFD19-site]: https://ams.confex.com/ams/22FLUID/
 [Euromech18-site]: http://598.euromech.org
 [OceansGFDL-site]: https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/
 [GFDL-site]: https://www.gfdl.noaa.gov/
