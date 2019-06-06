@@ -10,7 +10,7 @@ title: Publications
 ### Submitted
 
 
-- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (submitted) <!-- [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} --> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
+- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 
 
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity]
@@ -122,6 +122,7 @@ title: Publications
 [arXiv:1708.03031]: http://arxiv.org/abs/1708.03031
 [arXiv:1805.09847]: https://arxiv.org/abs/1805.09847
 [arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
+[arXiv:1906.01929]: https://arxiv.org/abs/1906.01929
 
 
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
