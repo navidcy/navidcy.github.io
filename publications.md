@@ -9,6 +9,12 @@ title: Publications
 
 ### Submitted
 
+<!--
+- Rocha, C. B., Bossy, T., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
+-->
+
+- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] 
+
 
 - Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 
@@ -77,7 +83,7 @@ title: Publications
 # Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
-
+[eddysaturation-BC-BT]: EddySaturation-BC-BT.pdf
 [TrackEddies-SSH]: TrackEddies-SSH.pdf
 [magneticviscosity]: magneticviscosity-2019.pdf
 [magneticZF]: magneticZF-2018.pdf
@@ -90,6 +96,8 @@ title: Publications
 [multiflow]: multiflow_s3t.pdf
 [s3t-jets-jas]: S3T_jas.pdf
 [holmboe]: holmboe.pdf
+
+
 
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
