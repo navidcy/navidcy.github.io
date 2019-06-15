@@ -45,7 +45,7 @@ title: Publications
 
 - **Constantinou, N. C.**, Lozano-Durán, A., Nikolaidis, M.-A., Farrell, B. F., Ioannou, P. J., and Jiménez, J. (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow]
 
-- **Constantinou, N. C.**, Farrell, B. F., and Ioannoum, P. J. (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
+- **Constantinou, N. C.**, Farrell, B. F., and Ioannou, P. J. (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas]
 
 - **Constantinou, N. C.** and Ioannou, P. J. (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe]
 
