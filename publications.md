@@ -13,7 +13,7 @@ title: Publications
 - Rocha, C. B., Bossy, T., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 -->
 
-- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] -->
+- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. (submitted, model [animation][twolayer-mom6-movie]) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] -->
 
 
 - Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
@@ -132,6 +132,7 @@ title: Publications
 [arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
 [arXiv:1906.01929]: https://arxiv.org/abs/1906.01929
 
+[twolayer-mom6-movie]: https://vimeo.com/342848501
 
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
