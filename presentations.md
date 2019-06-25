@@ -7,9 +7,9 @@ title: Presentations
 
 ## Conferences
 
-- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (talk) 
+- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-talk]
 
-- Magnetic eddy viscosity of mean shear flows in 2D magnetohydrodynamics: possible application to gas giants' interiors.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (poster) 
+- Magnetic eddy viscosity of mean shear flows in 2D magnetohydrodynamics: possible application to gas giants' interiors.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-poster]
 
 - Barotropic versus baroclinic eddy saturation. _AGU Fall Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AGU18-site]{:target="_blank"}, Washington DC, 10-14 Dec., 2018. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AGU18-ocean-poster]
 
@@ -92,6 +92,8 @@ title: Presentations
 [KITP17-talk]: KITP_Jan2017.pdf
 [AOFD17-talk]: AOFD_Jun2017.pdf
 [AOFD17-poster]: AOFD_Jun2017-poster.pdf
+[AOFD19-talk]: AOFD_Jun2019.pdf
+[AOFD19-poster]: AOFD_Jun2019-poster.pdf
 [Euromech18-talk]: Euromech598_Aug2018.pdf
 [comecap2016-s3t_eckhaus]: S3T_eckhaus-comecap-2016.pdf
 [comecap2016-s3t_stab]: S3T_stab_comecap-2016.pdf
