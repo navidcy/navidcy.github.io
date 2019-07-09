@@ -38,6 +38,8 @@ title: Presentations
 
 ## Seminars
 
+- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics. Geophysical Fluid Dynamics Summer Program, WHOI [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFD-site]{:target="_blank"}, Woods Hole, USA, 9 Jul. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2019]
+
 - A barotropic process-model for eddy saturation. Woods Hole Oceanographic Institution  [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][WHOI-site]{:target="_blank"}, Woods Hole, USA, 16 Apr. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][WHOI-Apr2019]
 
 - How does the Antarctic Circumpolar Current respond to the increasing winds over the Southern Ocean?: Barotropic versus Baroclinic Eddy Saturation. Department of Mathematics Fluids Seminar, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, Melbourne, Australia, 12 Feb. 2019. 
@@ -87,6 +89,7 @@ title: Presentations
 [ROI12-talk]: ROI12-talk.pdf
 [EGU13-talk]: EGU13-talk.pdf
 [GFD_July2016]: GFD-2016.pdf
+[GFD_July2019]: EddySaturation-GFD-2019.pdf
 [APSDFD16]: APS-DFD-2016.pdf
 [AGU16-poster]: AGU2016_poster.pdf
 [KITP17-talk]: KITP_Jan2017.pdf
