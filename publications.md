@@ -27,7 +27,7 @@ title: Publications
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. _Phys. Rev. Fluids_, **4**, 083701. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity] <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magneticviscosity]{:target="_blank"} and  [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magneticviscosity]{:target="_blank"} press news)
 
-<!--<ul><div align="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1103/PhysRevFluids.4.083701"></div></ul>-->
+<ul><div align="right" class='altmetric-embed' data-badge-type='donut' data-doi="10.1103/PhysRevFluids.4.083701"></div></ul>
 
 
 - Bakas, N. A., **Constantinou, N. C.**, and Ioannou, P. J. (2019). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, **76 (3)**, 919-945. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus]
