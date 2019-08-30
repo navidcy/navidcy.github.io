@@ -18,11 +18,13 @@ title: Publications
 
 - **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._ (in review, model [animation][twolayer-mom6-movie]) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.08442]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT]
 
-- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (in review) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 
 
 
 ### In press/published
+
+- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (in press) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
+
 
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. _Phys. Rev. Fluids_, **4**, 083701. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity] <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magneticviscosity]{:target="_blank"} and  [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magneticviscosity]{:target="_blank"} press news)
