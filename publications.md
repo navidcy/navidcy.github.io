@@ -7,13 +7,14 @@ title: Publications
 
 # Journal articles
 
-<!--
+
 ### Submitted
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. _Phys. Rev. Lett._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
-
+<!--
 - Rocha, C. B., Bossy, T., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 -->
+
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. (submitted) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
 
 
 ### In press/published
@@ -88,6 +89,7 @@ title: Publications
 # Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
+[modallystableturbulence]: ModallyStableTurb.pdf
 [eddysaturation-BC-BT]: EddySaturation-BC-BT.pdf
 [TrackEddies-SSH]: TrackEddies-SSH.pdf
 [magneticviscosity]: magneticviscosity-2019.pdf
