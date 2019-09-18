@@ -11,15 +11,15 @@ title: Publications
 ### Submitted
 
 <!--
-- Rocha, C. B., Bossy, T., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
+- Rocha, C. B., **Constantinou, N. C.**, Bossy, T., Llewellyn Smith, S. G., and  Young, W. R. (2019). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 -->
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. (submitted) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1909.05490]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
 
 
 ### In press/published
 
-- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._ (accepted, model [animation][twolayer-mom6-movie]) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.08442]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT]
+- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**. (in press, doi:<a href="https://doi.org/10.1029/2019GL084117">10.1029/2019GL084117</a>) [model [animation][twolayer-mom6-movie]] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT]
 
 - Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._ (in press, doi:<a href="https://doi.org/10.1029/2019MS001769">10.1029/2019MS001769</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 
@@ -109,8 +109,8 @@ title: Publications
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
-
-[TrackEddies-SSH-doi]:  https://doi.org/10.1029/2019MS001769
+[EddySat-BtBc-doi]: https://doi.org/10.1029/2019GL084117
+[TrackEddies-SSH-doi]: https://doi.org/10.1029/2019MS001769
 [magneticviscosity-doi]: https://doi.org/10.1103/PhysRevFluids.4.083701
 [ssd-eckhaus-doi]: https://doi.org/10.1175/JAS-D-18-0148.1
 [magneticZF-doi]: https://doi.org/10.3847/1538-4357/aace53
@@ -133,6 +133,7 @@ title: Publications
 
 [phd_eng]: ../theses/PhD_thesis_Navid.pdf
 
+
 [arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
@@ -142,6 +143,7 @@ title: Publications
 [arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
 [arXiv:1906.01929]: https://arxiv.org/abs/1906.01929
 [arXiv:1906.08442]: https://arxiv.org/abs/1906.08442
+[arXiv:1909.05490]: https://arxiv.org/abs/1909.05490
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
