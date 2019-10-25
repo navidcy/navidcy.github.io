@@ -5,7 +5,7 @@ title: Publications
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-# Journal articles
+## Journal articles
 
 
 ### Submitted
@@ -22,7 +22,8 @@ title: Publications
 - **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**. (in press, doi:<a href="https://doi.org/10.1029/2019GL084117">10.1029/2019GL084117</a>) [model [animation][twolayer-mom6-movie]] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span>
 
 
-- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._, **11**. (in press, doi:<a href="https://doi.org/10.1029/2019MS001769">10.1029/2019MS001769</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019MS001769"></span>
+- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._, **11**. (in press, doi:<a href="https://doi.org/10.1029/2019MS001769">10.1029/2019MS001769</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019MS001769"></span> <br/>
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][trackeddies-clexbrief]{:target="_blank"} press news)
 
 
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. _Phys. Rev. Fluids_, **4**, 083701. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-doi="10.1103/PhysRevFluids.4.083701"></span> <br/>
@@ -61,7 +62,7 @@ title: Publications
 - **Constantinou, N. C.** and Ioannou, P. J. (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1063/1.3609283"></span>
 
 
-
+<br>
 
 ## Conference articles
 
@@ -80,7 +81,7 @@ title: Publications
 - **Constantinou, N. C.** and Ioannou, P. J. (2014). Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Proceedings of the 12th International Conference on Meteorology, Climatology & Atmospheric Physics (COMECAP), Heraklion, Crete, 28-31 May, Vol. 1, 210-214, ISBN: 978-960-524-430-9. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2014-zonal]
 
 -->
-
+<br>
 
 ## Other Publications
 
@@ -91,8 +92,8 @@ title: Publications
 
 <br>
 
-# Doctoral thesis
-- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, University of Athens, 2015. [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1503.07644]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
+## Doctoral thesis
+- Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
 [modallystableturbulence]: ModallyStableTurb.pdf
 [eddysaturation-BC-BT]: EddySaturation-BC-BT.pdf
@@ -159,4 +160,4 @@ title: Publications
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
 [SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
-
+[trackeddies-clexbrief]: https://climateextremes.org.au/research-brief-southern-ocean-vortices-are-changing/
