@@ -38,6 +38,8 @@ title: Presentations
 
 ## Seminars
 
+- What's underneath Jupiter's and  Saturn's stripes? FEARS Meeting, Research School of Astronomy and Astrophysics [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][RSAA-site]{:target="_blank"}, Australian National University, Canberra, Australia, 29 Oct. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RSAA-Oct2019]
+
 - What is hiding underneath the stripes of Jupiter and Saturn? Department of Physics Colloquium, Department of Physics [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][PhysUoA-site]{:target="_blank"}, National and Kapodistrian University of Athens [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UoA-site]{:target="_blank"}, Athens, Greece, 16 Oct. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UoA-Oct2019]
 
 - Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics. Geophysical Fluid Dynamics Summer Program, Woods Hole Oceanographic Institution [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][GFD-site]{:target="_blank"}, Woods Hole, USA, 9 Jul. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][GFD_July2019]
@@ -74,6 +76,7 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[RSAA-Oct2019]: RSAA-MagneticViscosity_Oct2019.pdf
 [UoA-Oct2019]: UoA-MagneticViscosity_Oct2019.pdf
 [WHOI-Apr2019]: WHOI_Apr2019.pdf
 [GFDL-Dec2018]: GFDL_Dec2018.pdf
@@ -137,3 +140,4 @@ title: Presentations
 [WHOI-site]: https://www.whoi.edu
 [PhysUoA-site]: http://en.phys.uoa.gr
 [UoA-site]: http://en.uoa.gr
+[RSAA-site]: http://en.uoa.grhttps://rsaa.anu.edu.au
