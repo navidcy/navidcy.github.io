@@ -14,6 +14,18 @@ Developed the curriculum (lectures and projects), composed [lecture notes][insta
 
 [Class Website][instabilities-anu]{:target="_blank"}
 
+<br>
+
+### Fluid Mechanics (Visiting Lecturer; 2 lectures)
+##### Department of Physics and Physical Oceanography, University of North Carolina Wilmington
+##### Semester 2, 2018
+
+Syllabus: Basics of pseudospectral methods for solving partial differential equations.
+
+[Lecture notes][pseudospectral-uncw]{:target="_blank"}
+
+<br>
+
 ### Applied Mathematics III: Perturbations methods (Teaching assistant)
 ##### Scripps Institution of Oceanography, University of California San Diego
 ##### Spring Quarter, 2017
@@ -25,6 +37,7 @@ Held weekly recitation sessions and supervised students regarding their weekly h
 
 [Class Website][appliedmath3-sio]{:target="_blank"}
 
+<br>
 
 ### Nonlinear dynamical systems (Teaching assistant)
 ##### Physics Department, National and Kapodistrian University of Athens
@@ -38,6 +51,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
 [instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
+[pseudospectral-uncw]: https://github.com/navidcy/PseudospectralTutorial/tree/master/UNCW2018
 [appliedmath3-sio]: http://pordlabs.ucsd.edu/wryoung/SIO203C_Old.html
 [nonlin-nkua]: http://users.uoa.gr/~pjioannou/nonlin/
 [wryoung]: http://pordlabs.ucsd.edu/wryoung/
