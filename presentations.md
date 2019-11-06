@@ -7,7 +7,9 @@ title: Presentations
 
 ## Conferences
 
-- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-talk]
+- Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster)
+
+- Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, USA, 24-28 Jun., 2019. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-talk]
 
 - Magnetic eddy viscosity of mean shear flows in 2D magnetohydrodynamics: possible application to gas giants' interiors.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland, ME, 24-28 Jun., 2019. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-poster]
 
