@@ -8,7 +8,7 @@ I'm a geophysical fluid dynamicist. I use theory and numerical modeling to under
 <h2 id="ocean"></h2><br/>
 # Ocean
 
-<div style="width:300 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/ACC.png" alt="Jupiter by Hubble; August 2019" width="300" style="padding-bottom:0.5em;" /><br/>Credit: NASA/JPL</div>
+<div style="width:300 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/acc.png" alt="The Antarctic Circumpolar Current" width="300" style="padding-bottom:0.5em;" /><br/>Credit: NASA/JPL</div>
 
 
 The Antarctic Circumpolar Current (ACC) is the largest current in the ocean. The geometry of the Southern Ocean enables the ACC to connect all ocean basins. ACC plays an integral role in the global climate, e.g., by setting up the meridional overturning circulation and controlling the meridional heat transfer in the ocean.
@@ -31,7 +31,7 @@ In an attempt to bridge the [gap between theory and simulation in climate scienc
 Planetary atmospheres self-organize into large-scale coherent structures that vary on time-scales much longer than those of the co-existing turbulent eddy motions. Prominent examples are the Earth's subtropical and polar jet streams. Often these large-scale features are *eddy driven*, that is they get their energy from the turbulence they are surrounded by.
 
 
-<div style="width:300 px; float: left; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/jetstream.png" alt="Jupiter by Hubble; August 2019" width="300" style="padding-bottom:0.5em;" /><br/>Credit: NASA GSFC</div>
+<div style="width:300 px; float: left; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/jetstream.png" alt="Earth's polar jet-stream" width="300" style="padding-bottom:0.5em;" /><br/>Credit: NASA GSFC</div>
 
 
 However, the dynamics of the coexistence of coherent large-scale features and turbulence is difficult to study because many standard techniques, such as [classical stability analysis][stabilitywiki]{:target="_blank"}, are ineffective. These methods assume that a mean state exist in the absence of the fluctuations and also disregard the effect of these fluctuations on the mean state. This is not the case in planetary atmospheres where the mean state is inseparably connected with turbulence. Recent developments, some in [my doctoral thesis][phdthesis]{:target="_blank"}, have broken through this impasse. The key is to study the [*Statistical State Dynamics*][SSDreview-paper]{:target="_blank"} (SSD) of the flow; i.e., the dynamics of the statistics themselves rather than of individual flow realizations. One aspect of SSD is a new type of stability theory that addresses mean flows in the presence of turbulent fluctuations.
