@@ -45,7 +45,7 @@ I have been using SSD techniques to make analytic and numerical predictions rega
 
 
 
-With my collaborator [Jeffrey Parker][jeffsite]{:target="_blank"}, we studied how magnetic fields in the interior of gas giants may [interrupt the self-organization][magneticZF-paper]{:target="_blank"} of planetary atmospheres into coherent zonal jets. Our results suggest that turbulent magnetic fluctuations when found in an environment with mean shear flows could, effectively, act as an additional viscosity on the mean flow itself. We called this phenomenon "[magnetic viscosity][magneticviscosity-paper]{:target="_blank"}." Simple estimates reveal that this physical mechanism may provide a plausible explanation for the depth-extent of the jets on Jupiter and Saturn as was recently revealed by spacecrafts *Juno* and *Cassini* respectively.
+With my collaborator [Jeffrey Parker][jeffsite]{:target="_blank"}, we studied how magnetic fields in the interior of gas giants may [interrupt the self-organization][magneticZF-paper]{:target="_blank"} of planetary atmospheres into coherent zonal jets. Our results suggest that turbulent magnetic fluctuations when found in an environment with mean shear flows could, effectively, act as an additional viscosity on the mean flow itself. We called this phenomenon "[magnetic viscosity][magneticviscosity-paper]{:target="_blank"}." Simple estimates reveal that this physical mechanism may provide a plausible explanation for the depth-extent of the jets on [Jupiter][Juno-paper]{:target="_blank"} and [Saturn][Cassini-paper]{:target="_blank"} as was recently revealed by spacecrafts *Juno* and *Cassini* respectively.
 
 
 <h2 id="wallturbulence"></h2><br/>
@@ -67,16 +67,14 @@ With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and o
 [vlsm-poiseuille-paper]: ../publications/VLSM-Poiseuille.pdf
 [phdthesis]: ../theses/PhD_thesis_Navid.pdf
 [SSDreview-paper]: http://users.uoa.gr/~pjioannou/papers/SSD_review.pdf
-
-[BAMS-Held-paper]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-86-11-1609
-
 [ssd-jet-wave-paper]: ../publications/SSD_JetWave.pdf
 [ssd-eckaus-paper]: ../publications/SSD_Eckhaus.pdf
 [s3t-stab-jas-paper]: ../publications/S3T_barotropic_stability.pdf
 [s3t-jets-jas-paper]: ../publications/S3T_jas.pdf
-
 [TrackEddies-SSH-paper]: ../publications/TrackEddies-SSH.pdf
 [eddysaturation-BC-BT-paper]: ../publications/EddySaturation-BC-BT.pdf
 [eddysaturation-paper]: ../publications/EddySaturation-JPO-2018.pdf
 [topo-1layer-paper]: ../publications/ betaplane-topo-1.pdf
-
+[BAMS-Held-paper]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-86-11-1609
+[Juno-paper]: https://doi.org/10.1038/nature25793
+[Cassini-paper]: https://doi.org/10.1126/science.aat2965
