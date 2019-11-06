@@ -24,7 +24,7 @@ description: Personal website of Navid Constantinou
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Research: "research"
+  Research: "research"
   Publications: "publications"
   Teaching: "teaching"
   Presentations: "presentations"

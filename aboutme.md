@@ -7,7 +7,7 @@ title: About me
 
 After growing up in [Lefkosia][lefkosia-site], I headed off to Greece to study physics at the [National and Kapodistrian University of Athens][uoa-site]. I obtained my Ph.D. in March 2015 under the supervision of [Petros J. Ioannou][pji-site] on atmospheric dynamics and specifically on the formation of large-scale structures in planetary atmospheres. From September 2015 until April 2018, I worked as a [NOAA Climate & Global Change][noaa-site] postdoctoral fellow with [Bill Young][bill-site] at the [Scripps Institution of Oceanography][scripps-site], [University of California San Diego][ucsd-site]. Since May 2018, I joined the [ARC Centre of Excellence for Climate Extremes][arc-site] as a [Research Fellow][arc-profile]. I am based at the [Australian National University][anu-site] in Canberra and I am working with [Andy Hogg][andy-site].
 
-Download my [vitae (CV)](http://nbviewer.jupyter.org/github/navidcy/NavidVitae/blob/master/cv.pdf).
+Download my [vitae (CV)](http://nbviewer.jupyter.org/github/navidcy/NavidVitae/blob/master/cv.pdf) or read more about my [research](../research/).
 
 
 {: .center}
