@@ -54,7 +54,7 @@ With my collaborator [Jeffrey Parker][jeffsite]{:target="_blank"}, we studied ho
 <div style="width:450 px; float: left; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/boundarylayer.png" alt="Jupiter by Hubble; August 2019" width="450" style="padding-bottom:0.5em;" /><br/>Credit: A. Lozano-Durán</div>
 
 
-With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and others), we have been studying the [dynamics of very-large-scale roll--streak motions][vlsm-poiseuille-paper]{:target="_blank"} in three-dimensional flows in regions away from boundaries. The mechanism by which energy feeds from the large-scale motions back to the turbulent fluctuations, thus closing the loop in the self-sustained regeneration cycle of turbulence, remains outstanding. We demonstrated that the modal instabilities of the streaky coherent structures [are not responsible][ModallyStableTurb-paper]{:target="_blank"} for this energy transfer.
+With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and others), we have been studying the [dynamics of very-large-scale roll--streak motions][vlsm-poiseuille-paper]{:target="_blank"} in three-dimensional flows in regions away from boundaries. The mechanism by which energy feeds from the large-scale motions back to the turbulent fluctuations, thus closing the loop in the self-sustained regeneration cycle of turbulence, remains outstanding. In an attempt to resolve the enigma, we recently demonstrated that the modal instabilities of the streaky coherent structures [are *not* the main players involved in this energy transfer][ModallyStableTurb-paper]{:target="_blank"}.
 
 
 
