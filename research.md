@@ -74,7 +74,7 @@ With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and o
 [TrackEddies-SSH-paper]: ../publications/TrackEddies-SSH.pdf
 [eddysaturation-BC-BT-paper]: ../publications/EddySaturation-BC-BT.pdf
 [eddysaturation-paper]: ../publications/EddySaturation-JPO-2018.pdf
-[topo-1layer-paper]: ../publications/ betaplane-topo-1.pdf
+[topo-1layer-paper]: ../publications/betaplane-topo-1.pdf
 [BAMS-Held-paper]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-86-11-1609
 [Juno-paper]: https://doi.org/10.1038/nature25793
 [Cassini-paper]: https://doi.org/10.1126/science.aat2965
