@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I'm a geophysical fluid dynamicist. I use theory and numerical modeling to understand the dynamics of the vast range of motions in both the ocean and the atmosphere and their collective effect in Earth's climate. 
+I'm a geophysical fluid dynamicist. I use theory and numerical modeling to understand the dynamics of the vast range of motions, in both the ocean and the atmosphere, and their collective effect in Earth's climate. 
 
 <h2 id="ocean"></h2><br/>
 # Ocean
