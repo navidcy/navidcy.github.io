@@ -19,7 +19,8 @@ title: Publications
 
 ### In press/published
 
-- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**. (in press, doi:<a href="https://doi.org/10.1029/2019GL084117">10.1029/2019GL084117</a>) [model [animation][twolayer-mom6-movie]] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span>
+- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**. (in press, doi:<a href="https://doi.org/10.1029/2019GL084117">10.1029/2019GL084117</a>) [model [animation][twolayer-mom6-movie]] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span> <br/>
+(best Early Career Researcher paper within [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][clex-site]{:target="_blank"} for year 2019)
 
 
 - Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._, **11**. (in press, doi:<a href="https://doi.org/10.1029/2019MS001769">10.1029/2019MS001769</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019MS001769"></span> <br/>
@@ -161,3 +162,5 @@ title: Publications
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
 [SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
 [trackeddies-clexbrief]: https://climateextremes.org.au/research-brief-southern-ocean-vortices-are-changing/
+
+[clex-site]: https://climateextremes.org.au/publications/
