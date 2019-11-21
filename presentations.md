@@ -9,7 +9,7 @@ title: Presentations
 
 - Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster)
 
-- Demystifying the Southern Ocean's response to wind variability.  _ARC Centre of Excellence for Climate Extremes Annual Workshop 2019_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ARC2019workshop-site]{:target="_blank"}, Hobart, Australia, 19-21 Nov., 2019. (**invited talk**)
+- Demystifying the Southern Ocean's response to wind variability.  _ARC Centre of Excellence for Climate Extremes Annual Workshop 2019_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ARC2019workshop-site]{:target="_blank"}, Hobart, Australia, 19-21 Nov., 2019. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CLEx-Nov2019]
 
 - Barotropic versus Baroclinic eddy saturation: implications to Southern Ocean dynamics.  _22nd Atmospheric and Oceanic Fluid Dynamics Conference_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][AOFD19-site]{:target="_blank"}, Portland ME, USA, 24-28 Jun., 2019. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][AOFD19-talk]
 
@@ -80,6 +80,7 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[CLEx-Nov2019]: CLEX-SouthernOcean_Nov2019.pdf
 [RSAA-Oct2019]: RSAA-MagneticViscosity_Oct2019.pdf
 [UoA-Oct2019]: UoA-MagneticViscosity_Oct2019.pdf
 [WHOI-Apr2019]: WHOI_Apr2019.pdf
