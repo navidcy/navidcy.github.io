@@ -23,7 +23,7 @@ title: Publications
 (best Early Career Researcher paper within [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][clex-site]{:target="_blank"} for year 2019)
 
 
-- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._, **11**. (in press, doi:<a href="https://doi.org/10.1029/2019MS001769">10.1029/2019MS001769</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019MS001769"></span> <br/>
+- Martínez-Moreno, J., Hogg, A. McC., Kiss, A. E., **Constantinou, N. C.**, and Morrison, A. K. (2019). Kinetic energy of eddy-like features from sea surface altimetry. _J. Adv. Model. Earth Sy._, **11 (10)**, 3090-3105. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][TrackEddies-SSH-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019MS001769"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][trackeddies-clexbrief]{:target="_blank"} press news)
 
 
