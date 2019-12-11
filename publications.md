@@ -14,9 +14,9 @@ title: Publications
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2020). The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
 -->
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2020). The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted on Dec. 2019) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1909.05490]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. Wall turbulence without modal instability of the streaks. (submitted on Oct. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1909.05490]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
 
 
 ### In press/published
