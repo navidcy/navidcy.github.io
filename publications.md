@@ -11,9 +11,10 @@ title: Publications
 ### Submitted
 
 <!--
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2020). The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1906.01929]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][TrackEddies-SSH] 
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 -->
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. _J. Phys.: Conf. Ser._ (submitted on Dec. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.07532]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] 
+
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. (submitted on Dec. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.07532]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] 
 
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: definition of the Nusselt number. _J. Fluid Mech._ (submitted on Dec. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
@@ -99,6 +100,8 @@ title: Publications
 ## Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
+
+
 [multiflow2019-linearmechanism]: multiflow2019-linearmechanism.pdf
 [HCNuDefinition]: HCNuDefinition.pdf
 [modallystableturbulence]: ModallyStableTurb.pdf
@@ -115,8 +118,6 @@ title: Publications
 [multiflow]: multiflow_s3t.pdf
 [s3t-jets-jas]: S3T_jas.pdf
 [holmboe]: holmboe.pdf
-
-
 
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
@@ -144,7 +145,6 @@ title: Publications
 [comecap2014-zonal]: bakas-etal-comecap-2014.pdf
 
 [phd_eng]: ../theses/PhD_thesis_Navid.pdf
-
 
 [arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
