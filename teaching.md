@@ -4,6 +4,18 @@ title: Teaching
 #subtitle:
 ---
 
+
+### Basics of Dynamical Systems and Bifurcation Theory (Course Co-Coordinator)
+##### Research School of Earth Sciences, Australian National University
+##### Summer Semester, 2020
+
+Syllabus: Basics of Dynamical Systems and Bifurcation Theory
+
+Three lectures (by Prof. Henk Dikjstra) + Three workshops with discussion and hands-on problem solving (by myself)
+
+<br>
+
+
 ### Instabilities in fluids (Course Coordinator)
 ##### Research School of Earth Sciences, Australian National University
 ##### Semester 2, 2018
