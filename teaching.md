@@ -13,8 +13,9 @@ Syllabus: Basics of Dynamical Systems and Bifurcation Theory
 
 Three lectures (by Prof. Henk Dikjstra) + Three workshops with discussion and hands-on problem solving (by myself)
 
-<br>
+[Class Website][dynamicaslsystems-anu]{:target="_blank"}
 
+<br>
 
 ### Instabilities in fluids (Course Coordinator)
 ##### Research School of Earth Sciences, Australian National University
@@ -61,6 +62,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
 
+[dynamicaslsystems-anu]: https://www.google.com/url?q=https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
 [instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
 [pseudospectral-uncw]: https://github.com/navidcy/PseudospectralTutorial/tree/master/UNCW2018
