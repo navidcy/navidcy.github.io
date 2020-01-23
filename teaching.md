@@ -62,7 +62,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
 
-[dynamicaslsystems-anu]: https://www.google.com/url?q=https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
+[dynamicaslsystems-anu]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
 [instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
 [pseudospectral-uncw]: https://github.com/navidcy/PseudospectralTutorial/tree/master/UNCW2018
