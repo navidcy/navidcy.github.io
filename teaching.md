@@ -11,17 +11,21 @@ title: Teaching
 
 Syllabus: Basics of atmosphere and ocean dynamics.
 
+[School Website][clexwinterschool2020]{:target="_blank"}
+
+
 <br>
 
-### Basics of Dynamical Systems and Bifurcation Theory (Course Co-Coordinator)
+### Basics of Dynamical Systems and Bifurcation Theory (Course Coordinator)
 ##### Research School of Earth Sciences, Australian National University
 ##### Summer Semester, 2020
 
 Syllabus: Basics of Dynamical Systems and Bifurcation Theory
 
-Three lectures (by Prof. Henk Dikjstra) + Three workshops with discussion and hands-on problem solving (by myself)
+Three [lectures][DSlectures]{:target="_blank"} (by Prof. Henk Dikjstra) + Three [workshops][DSworkshops]{:target="_blank"} with discussion and hands-on problem solving (by myself)
 
 [Class Website][dynamicaslsystems-anu]{:target="_blank"}
+
 
 <br>
 
@@ -70,7 +74,11 @@ Held tutorials on basic numerical methods for solving ODEs.
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
 
+
+[clexwinterschool2020]: https://climateextremes.org.au/clex-winter-school-2020-atmosphere-and-ocean-dynamics/
 [dynamicaslsystems-anu]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
+[DSlectures]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/lectures
+[DSworkshops]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/workshops
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
 [instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
 [pseudospectral-uncw]: https://github.com/navidcy/PseudospectralTutorial/tree/master/UNCW2018
