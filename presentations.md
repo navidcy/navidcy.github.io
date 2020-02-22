@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conferences
 
-- Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM_Feb2020]
+- Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM_Feb2020]
 
 - Demystifying the Southern Ocean's response to wind variability.  _ARC Centre of Excellence for Climate Extremes Annual Workshop 2019_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ARC2019workshop-site]{:target="_blank"}, Hobart, Australia, 19-21 Nov., 2019. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CLEx-Nov2019]
 
