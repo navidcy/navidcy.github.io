@@ -14,7 +14,7 @@ title: Publications
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 -->
 
-- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. Cause-and-effect of linear mechanisms in wall turbulence. _J. Fluid Mech._ (submitted on May 2020) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.07532]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] 
+- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. Cause-and-effect of linear mechanisms in wall turbulence. _J. Fluid Mech._ (submitted on May 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2005.05303]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] 
 
 
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. (submitted on Dec. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.07532]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] 
@@ -156,13 +156,15 @@ title: Publications
 [arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
 [arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
 [arXiv:1708.03031]: http://arxiv.org/abs/1708.03031
-[arXiv:1805.09847]: https://arxiv.org/abs/1805.09847
-[arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
-[arXiv:1906.01929]: https://arxiv.org/abs/1906.01929
-[arXiv:1906.08442]: https://arxiv.org/abs/1906.08442
-[arXiv:1909.05490]: https://arxiv.org/abs/1909.05490
-[arXiv:1912.05229]: https://arxiv.org/abs/1912.05229
-[arXiv:1912.07532]: https://arxiv.org/abs/1912.07532
+[arXiv:1805.09847]: http://arxiv.org/abs/1805.09847
+[arXiv:1902.01105]: http://arxiv.org/abs/1902.01105
+[arXiv:1906.01929]: http://arxiv.org/abs/1906.01929
+[arXiv:1906.08442]: http://arxiv.org/abs/1906.08442
+[arXiv:1909.05490]: http://arxiv.org/abs/1909.05490
+[arXiv:1912.05229]: http://arxiv.org/abs/1912.05229
+[arXiv:1912.07532]: http://arxiv.org/abs/1912.07532
+[arXiv:2005.05303]: http://arxiv.org/abs/2005.05303
+
 
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
