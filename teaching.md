@@ -7,7 +7,7 @@ title: Teaching
 
 ### Atmosphere and Ocean Dynamics Winter School 2020 (main lecturer along w/ Martin Singh and Annie Foppert)
 ##### ARC Centre for Climate Extremes, University of Tasmania
-##### June 22-26, 2020 (postponed due to COVID-19)
+##### June 22-26, 2020 (via Zoom due to COVID-19)
 
 Syllabus: Basics of atmosphere and ocean dynamics.
 
