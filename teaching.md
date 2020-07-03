@@ -5,14 +5,16 @@ title: Teaching
 ---
 
 
-### Atmosphere and Ocean Dynamics Winter School 2020 (main lecturer along w/ Martin Singh and Annie Foppert)
+### Atmosphere and Ocean Dynamics Winter School 2020 (main lecturer along w/ [Annie Foppert](https://scholar.google.com/citations?user=kZ8lBdoAAAAJ&hl=en){:target="_blank"} and [Martin Singh](http://singh.sci.monash.edu){:target="_blank"})
 ##### ARC Centre for Climate Extremes, University of Tasmania
 ##### June 22-26, 2020 (via Zoom due to COVID-19)
 
 Syllabus: Basics of atmosphere and ocean dynamics.
 
-[School Website][clexwinterschool2020]{:target="_blank"}
+The School had to change format due to COVID-19. There were only a "teaser" version
+of the lectures given via Zoom. More info and related material in the [school's Website][clexwinterschool2020]{:target="_blank"}.
 
+ The Slides + Jupyter notebooks reproducing animations that were used in these "teaser" lectures can be found in a [GitHub repository][clexwinterschool2020repo]{:target="_blank"}.
 
 <br>
 
@@ -76,6 +78,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 
 
 [clexwinterschool2020]: https://climateextremes.org.au/clex-winter-school-2020-atmosphere-and-ocean-dynamics/
+[clexwinterschool2020repo]: https://github.com/navidcy/CLExWinterSchool2020
 [dynamicaslsystems-anu]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
 [DSlectures]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/lectures
 [DSworkshops]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/workshops
