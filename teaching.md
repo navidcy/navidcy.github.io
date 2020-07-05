@@ -11,7 +11,7 @@ title: Teaching
 
 Syllabus: Basics of atmosphere and ocean dynamics.
 
-The School had to change format due to COVID-19. There were only a "teaser" version
+The School had to change format due to COVID-19. There was only a "teaser" version
 of the lectures given via Zoom. More info and related material in the [school's Website][clexwinterschool2020]{:target="_blank"}.
 
  The Slides + Jupyter notebooks reproducing animations that were used in these "teaser" lectures can be found in a [GitHub repository][clexwinterschool2020repo]{:target="_blank"}.
