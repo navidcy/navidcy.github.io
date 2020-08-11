@@ -14,7 +14,7 @@ title: Publications
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 -->
 
-- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. Cause-and-effect of linear mechanisms in wall turbulence. _J. Fluid Mech._ (submitted on May 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2005.05303]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] 
+- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. Cause-and-effect of linear mechanisms sustaining wall turbulence. _J. Fluid Mech._ (submitted on May 2020; revised Aug. 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2005.05303]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] 
 
 
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. Wall turbulence without modal instability of the streaks. (submitted on Oct. 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1909.05490]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
