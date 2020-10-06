@@ -8,11 +8,17 @@ title: Publications
 ## Journal articles
 
 <!--
+- **Constantinou, N. C.** and  Hogg, A. McC. (2020). Intrinsic oceanic multi-annual variability of upper-ocean heat content. _J. Climate_ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
+
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. Nusselt number scaling in horizontal
+convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
+
+-->
 
 ### Submitted
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. The heat flux of horizontal convection: Nusselt number scaling. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
--->
+- Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2020). Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020)
+
 
 ### In press/Published
 
