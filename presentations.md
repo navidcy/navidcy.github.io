@@ -7,6 +7,8 @@ title: Presentations
 
 ## Conferences
 
+- Cause-and-effect of linear mechanisms in wall turbulence. _73rd APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD20-site]{:target="_blank"}, Chicago, IL, USA, 22–24 Nov., 2020. (virtual) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">abstract</span>][APSDFD20-abstract]{:target="_blank"}
+
 - Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM_Feb2020]
 
 - Demystifying the Southern Ocean's response to wind variability.  _ARC Centre of Excellence for Climate Extremes Annual Workshop 2019_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ARC2019workshop-site]{:target="_blank"}, Hobart, Australia, 19-21 Nov., 2019. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][CLEx-Nov2019]
@@ -151,3 +153,6 @@ title: Presentations
 [UoA-site]: http://en.uoa.gr
 [RSAA-site]: https://rsaa.anu.edu.au
 [ARC2019workshop-site]: https://climateextremes.org.au/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
+
+[APSDFD20-site]: https://dfd2020chicago.org
+[APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
