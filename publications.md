@@ -17,7 +17,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 ### Submitted
 
-- Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2020). Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020)
+- Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2020). Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020; preprint at doi:<a href="https://doi.org/10.21203/rs.3.rs-88932/v1">10.21203/rs.3.rs-88932/v1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends]
 
 
 ### In press/Published
@@ -109,7 +109,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 ## Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
-
+[global-eke-trends]: global-eke-trends.pdf
 [cause-effect-linearmechanism]: cause-effect-linearmechanism.pdf
 [multiflow2019-linearmechanism]: multiflow2019-linearmechanism.pdf
 [HCNuDefinition]: HCNuDefinition.pdf
