@@ -5,7 +5,7 @@ title: About me
 ---
 
 
-After growing up in [Lefkosia][lefkosia-site], I headed off to Greece to study physics at the [National and Kapodistrian University of Athens][uoa-site]. I obtained my Ph.D. in March 2015 under the supervision of [Petros J. Ioannou][pji-site] on atmospheric dynamics and specifically on the formation of large-scale structures in planetary atmospheres. From September 2015 until April 2018, I worked as a [NOAA Climate & Global Change][noaa-site] postdoctoral fellow with [Bill Young][bill-site] at the [Scripps Institution of Oceanography][scripps-site], [University of California San Diego][ucsd-site]. Since May 2018, I joined the [ARC Centre of Excellence for Climate Extremes][arc-site] as a [Research Fellow][arc-profile]. I am based at the [Australian National University][anu-site] in Canberra and I am working mainly with [Andy Hogg][andy-site].
+After growing up in [Lefkosia][lefkosia-site], I headed off to Greece to study physics at the [National and Kapodistrian University of Athens][uoa-site]. I obtained my Ph.D. in March 2015 under the supervision of [Petros J. Ioannou][pji-site] on atmospheric dynamics and specifically on the formation of large-scale structures in planetary atmospheres. From September 2015 until April 2018, I worked as a [NOAA Climate & Global Change][noaa-site] postdoctoral fellow with [Bill Young][bill-site] at the [Scripps Institution of Oceanography][scripps-site], [University of California San Diego][ucsd-site]. Since May 2018, I joined the [ARC Centre of Excellence for Climate Extremes][arc-site] as a [Research Fellow][arc-profile]. I am based at the [Australian National University][anu-site] in Canberra and I am working mainly with [Andy Hogg][andy-site]. On November 2020, I received a [Discovery Early Career Researcher Award][decra2021] from the Australian Research Council to work on machine learning and ocean eddy parametrizations beginning early-mid 2021.
 
 Download my [vitae (CV)](http://nbviewer.jupyter.org/github/navidcy/NavidVitae/blob/master/cv.pdf) or read more about my [research](../research/).
 
@@ -25,3 +25,4 @@ Download my [vitae (CV)](http://nbviewer.jupyter.org/github/navidcy/NavidVitae/b
 [noaa-site]: https://cpaess.ucar.edu/cgc
 [andy-site]: http://rses.anu.edu.au/people/academics/prof-andy-hogg
 [arc-profile]: http://climateextremes.org.au/member-profile/?memberID=251
+[decra2021]: https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/219
