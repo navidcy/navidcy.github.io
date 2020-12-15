@@ -19,15 +19,16 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 - **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
 
 
-- Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020; preprint at doi:<a href="https://doi.org/10.21203/rs.3.rs-88932/v1">10.21203/rs.3.rs-88932/v1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends]
+- Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020; revised on Dec. 2020; preprint available at doi:<a href="https://doi.org/10.21203/rs.3.rs-88932/v1">10.21203/rs.3.rs-88932/v1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends]
 
 
 ### In press/Published
 
 - Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. (2021) Cause-and-effect of linear mechanisms sustaining wall turbulence. _J. Fluid Mech._ (to appear) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2005.05303]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] 
 
+<!--[<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][cause-effect-linearmechanism-doi]{:target="_blank"}-->
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2020). Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics.  _J. Phys.: Conf. Ser._, **1522**, 012003. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] 
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2020). Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. _J. Phys.: Conf. Ser._, **1522**, 012003. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] 
 
 
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2020) The Nusselt numbers of horizontal convection. _J. Fluid Mech._ **894**, A24. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][HCNuDefinition-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
@@ -134,6 +135,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
+[cause-effect-linearmechanism-doi]: https://doi.org/10.1017/jfm.2020.902
 [multiflow2019-doi]: https://doi.org/10.1088/1742-6596/1522/1/012003
 [HCNuDefinition-doi]: https://doi.org/10.1017/jfm.2020.269
 [EddySat-BtBc-doi]: https://doi.org/10.1029/2019GL084117
