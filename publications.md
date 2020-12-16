@@ -16,7 +16,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 ### Submitted
 
-- **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020) <!--[<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
+- **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
 
 
 - Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. Global changes in oceanic mesoscale currents over the satellite altimetry record. (submitted on Oct. 2020; revised on Dec. 2020; preprint available at doi:<a href="https://doi.org/10.21203/rs.3.rs-88932/v1">10.21203/rs.3.rs-88932/v1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends]
@@ -175,7 +175,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 [arXiv:1912.05229]: http://arxiv.org/abs/1912.05229
 [arXiv:1912.07532]: http://arxiv.org/abs/1912.07532
 [arXiv:2005.05303]: http://arxiv.org/abs/2005.05303
-
+[arXiv:2012.08025]: http://arxiv.org/abs/2012.08025
 
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
