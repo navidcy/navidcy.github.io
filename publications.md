@@ -16,7 +16,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 ### Submitted
 
-- **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._ (submitted on Jan. 2021; <a href="https://github.com/FourierFlows/GeophysicalFlows.jl" target="_blank">code</a>; <a href="https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/" target="_blank">documentation</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows]
+- **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._ (submitted on Jan. 2021) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">in review</span>][GeophysicalFlows-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">code</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] 
 
 
 - **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
@@ -114,6 +114,10 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 ## Doctoral thesis
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
+
+[GeophysicalFlows-repo]: https://github.com/FourierFlows/GeophysicalFlows.jl
+[GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
+[GeophysicalFlows-JOSS-review]: https://github.com/openjournals/joss-reviews/issues/2996
 
 [geophysicalflows]: geophysicalflows.pdf
 [intrinsic-ocean-var]: intrinsic-oceanic-decadal-variability.pdf
