@@ -17,7 +17,7 @@ The winds over the Southern Ocean that mainly drive the ACC have been strengthen
 
 I am interested on how the ocean responds to climate-change forcing at different time and length scales. For example, how the [mesoscale flow features have been changing][TrackEddies-SSH-paper]{:target="_blank"} due to changes in the atmospheric circulation, and also how does the strength of the ACC respond to the increasing strength of westerly winds over the Southern Ocean. In particular, I've been trying to delineate the role of [barotropic][eddysaturation-paper]{:target="_blank"} and [baroclinic][eddysaturation-BC-BT-paper]{:target="_blank"} processes that are involved in the ACC's response to changing winds.
 
-Climate models cannot resolve all length scales of oceanic fluid motions and, therefore, they rely on parametrizing the collective effect the small-scale unresolved motions have on the larger scales that the models resolve. Understanding the underlying dynamics is crucial for developing and improving these parameterizations.
+Climate models cannot resolve all length scales of oceanic fluid motions and, therefore, they rely on parametrizing the collective effect the small-scale unresolved motions have on the larger scales that the models resolve. Understanding the underlying dynamics is crucial for developing and improving these parameterizations. I've been investigating the role that the [intrinsic ocean dynamics][intrinsic-ocean-var-paper]{:target="_blank"} (i.e., mesoscale flows and smaller; typically unresolved by coupled climate models) have shaping the  large-scale ocean flow at decadal time scales and the effect that these then have on feed back back to the atmosphere via air-sea interactions.
 
 In an attempt to bridge the [gap between theory and simulation in climate science][BAMS-Held-paper]{:target="_blank"}, my work has been focusing on probing the dynamics by which the ocean mesoscale eddies and bathymetric features interact with large-scale currents, like the ACC. I emphasize on understanding using theoretical tools aided with a series of conceptual models of increasing complexity, for example, [quasi-geostrophic turbulence on a beta plane][topo-1layer-paper]{:target="_blank"} or [a primitive equations-model with modest stratification in a channel][eddysaturation-BC-BT-paper]{:target="_blank"}.
 
@@ -78,3 +78,4 @@ With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and o
 [BAMS-Held-paper]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-86-11-1609
 [Juno-paper]: https://doi.org/10.1038/nature25793
 [Cassini-paper]: https://doi.org/10.1126/science.aat2965
+[intrinsic-ocean-var-paper]: ../publications/intrinsic-oceanic-decadal-variability.pdf
