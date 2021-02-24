@@ -117,7 +117,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 [GeophysicalFlows-repo]: https://github.com/FourierFlows/GeophysicalFlows.jl
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
-[GeophysicalFlows-JOSS-review]: https://github.com/openjournals/joss-reviews/issues/2996
+[GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
 [geophysicalflows]: geophysicalflows.pdf
 [intrinsic-ocean-var]: intrinsic-oceanic-decadal-variability.pdf
