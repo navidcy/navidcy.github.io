@@ -44,6 +44,8 @@ title: Presentations
 
 ## Seminars
 
+- From small swirls up to the global ocean circulation: how ocean eddies affect the Earth’s climate, Research School of Earth Sciences [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][RSES-site]{:target="_blank"}, Australian National University, Canberra, Australia, 25 Mar. 2021. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RSES-Mar2021]
+
 - Cause-and-effect of linear mechanisms in wall turbulence. Shear Flow Instability, Transition and Turbulence Seminar Series, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, (via Zoom), 7 Oct. 2020. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Monash_Oct2020]
 
 - What's underneath Jupiter's and  Saturn's stripes? FEARS Meeting, Research School of Astronomy and Astrophysics [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][RSAA-site]{:target="_blank"}, Australian National University, Canberra, Australia, 29 Oct. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RSAA-Oct2019]
@@ -84,6 +86,7 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[RSES-Mar2021]: RSES-EddiesClimate_Mar2021.pdf
 [Monash_Oct2020]: Monash-ShearTurbulence-Oct2020.pdf
 [OSM_Feb2020]: OSM_Feb2020-poster.pdf
 [CLEx-Nov2019]: CLEX-SouthernOcean_Nov2019.pdf
@@ -154,6 +157,7 @@ title: Presentations
 [PhysUoA-site]: http://en.phys.uoa.gr
 [UoA-site]: http://en.uoa.gr
 [RSAA-site]: https://rsaa.anu.edu.au
+[RSES-site]: https://earthsciences.anu.edu.au
 [ARC2019workshop-site]: https://climateextremes.org.au/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
 
 [APSDFD20-site]: https://dfd2020chicago.org
