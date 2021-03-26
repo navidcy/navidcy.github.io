@@ -19,7 +19,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 - **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._ (submitted on Jan. 2021) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">in review</span>][GeophysicalFlows-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">code</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] 
 
 
-- **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
+- **Constantinou, N. C.** and  Hogg, A. McC. Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_ (submitted on Dec. 2020; revised on Mar. 2021) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var]
 
 
 ### In press/Published
