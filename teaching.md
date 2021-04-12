@@ -5,6 +5,26 @@ title: Teaching
 ---
 
 
+### Atmosphere and Ocean Dynamics Winter School 2021 (main lecturer along w/ [Annie Foppert](https://scholar.google.com/citations?user=kZ8lBdoAAAAJ&hl=en){:target="_blank"} and [Martin Singh](http://singh.sci.monash.edu){:target="_blank"})
+##### ARC Centre for Climate Extremes, Australian National University
+##### June 21-25, 2021
+
+[Winter School website][clexwinterschool2021]{:target="_blank"}.
+
+Syllabus: Basics of atmosphere and ocean dynamics.
+
+<br>
+
+### Computational Geosciences [EMSC4033] (Course Co-Convener along w/ [Louis Moresi](http://www.moresi.info))
+##### Research School of Earth Sciences, Australian National University
+##### Semester 2, 2021
+
+Syllabus: Fundamental concepts of computer programming and the Python programming language. The course is designed to: (i) develop students’ problem-solving skills; (ii) give students a clear understanding of the fundamental concepts of computer programming, such that they are in a good position to learn any programming language required for their research; and (iii) ensure that all students have core competencies in the Python programming language, which will later be utilized in their research for tasks such as modeling, scripting, analyzing and processing data and generating high-quality figures for presentations and publications.
+
+[Class Github Repository][EMSC4033-repo]{:target="_blank"} and [Online Book][EMSC4033-book]{:target="_blank"}
+
+<br>
+
 ### Atmosphere and Ocean Dynamics Winter School 2020 (main lecturer along w/ [Annie Foppert](https://scholar.google.com/citations?user=kZ8lBdoAAAAJ&hl=en){:target="_blank"} and [Martin Singh](http://singh.sci.monash.edu){:target="_blank"})
 ##### ARC Centre for Climate Extremes, University of Tasmania
 ##### June 22-26, 2020 (via Zoom due to COVID-19)
@@ -78,12 +98,15 @@ Held tutorials on basic numerical methods for solving ODEs.
 
 
 [clexwinterschool2020]: https://climateextremes.org.au/clex-winter-school-2020-atmosphere-and-ocean-dynamics/
+[clexwinterschool2021]: https://climateextremes.org.au/winter-school-2021-atmosphere-and-ocean-dynamics/
 [clexwinterschool2020repo]: https://github.com/navidcy/CLExWinterSchool2020
 [dynamicaslsystems-anu]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
 [DSlectures]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/lectures
 [DSworkshops]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/workshops
 [instabilities-anu]: https://github.com/navidcy/Instabilities-in-Fluids
 [instabilities-anu-notes]: http://nbviewer.jupyter.org/github/navidcy/Instabilities-in-Fluids/tree/master/lectures/
+[EMSC4033-book]: https://anu-rses-education.github.io/EMSC-4033/FrontPage.html
+[EMSC4033-repo]: https://github.com/ANU-RSES-Education/EMSC-4033
 [pseudospectral-uncw]: https://github.com/navidcy/PseudospectralTutorial/tree/master/UNCW2018
 [appliedmath3-sio]: http://pordlabs.ucsd.edu/wryoung/SIO203C_Old.html
 [nonlin-nkua]: http://users.uoa.gr/~pjioannou/nonlin/
