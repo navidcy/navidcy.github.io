@@ -23,6 +23,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 
 - Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2021). Global changes in oceanic mesoscale currents over the satellite altimetry record. _Nat. Clim. Chang._ (in press; doi:[10.1038/s41558-021-01006-9](https://doi.org/10.1038/s41558-021-01006-9)) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][global-eke-trends-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1038/s41558-021-01006-9"></span> <br/>
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][globaleketrends-clexbrief]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-globaleketrends]{:target="_blank"})
 
 
 - **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._, **6(60)**, 3053. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][geophysicalflows-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.03053"></span> <br/>
@@ -103,11 +104,13 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 ## Other Publications
 
+- **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
+
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
 
 - Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
 
-- **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]
+- **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
 
 
 <br>
@@ -190,10 +193,12 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
+[globaleketrends-clexbrief]: https://www.climateextremes.org.au/changing-ocean-eddies-reorganise-ocean-energy/
 [anu-press-magneticviscosity]: https://www.anu.edu.au/news/all-news/wind-mystery-inside-gas-giant-saturn-begins-to-unravel
 [llnl-press-magneticviscosity]: https://www.llnl.gov/news/jupiter-shows-its-true-stripes
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
+[theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
 [magneticviscosity-clexbrief]: https://climateextremes.org.au/research-brief-how-magnetic-fields-can-make-water-behave-like-honey/
