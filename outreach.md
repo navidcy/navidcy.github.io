@@ -21,8 +21,8 @@ In April we chatted about some [rresearch piece that had just came out](../publi
 </figure>
 
 On early June I followed up a question by a listener who was asking for an explanation
-for why water temperatures can drop dramatically at the coast of New South Wales when there
-are windes blowing from the North:
+for why water temperatures can drop dramatically at the coast of New South Wales when warm
+winds blows from the North:
 
 <figure>
     <figcaption>02 June 2021</figcaption>
