@@ -38,7 +38,7 @@ radio interviews about our findings.
 On April 2021 our [research regarding trends in ocean eddies came out](../publications/global-eke-trends.pdf){:target="_blank"}. 
 I was invited to write up a little piece about our findings in [The Conversation](https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461){:target="_blank"} 
 and following that, there were several radio interview request. For example, I enjoyed a lot 
-chatting with [Ruth](https://eastsidefm.org/mondaydrive/){:target="_blank"} :
+chatting with [Ruth](https://eastsidefm.org/mondaydrive/){:target="_blank"}:
 
 <figure>
     <figcaption>Eastside FM, Monday Drive with Ruth Hessey, 17 May 2021</figcaption>
