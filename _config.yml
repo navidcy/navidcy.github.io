@@ -26,8 +26,10 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Publications: "publications"
-  Teaching: "teaching"
   Presentations: "presentations"
+  Teaching: "teaching"
+  Outreach: "outreach"
+  
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
