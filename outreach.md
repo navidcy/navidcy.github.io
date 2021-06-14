@@ -8,7 +8,7 @@ title: Outreach
 
 I often join the [Breakfast show by Simon Lauder](https://www.abc.net.au/radio/southeastnsw/programs/breakfast/){:target="_blank"} at [ABC South East NSW](https://www.abc.net.au/radio/southeastnsw/){:target="_blank"} and chat about ocean-related issues.
 
-In April we chatted about some [rresearch piece that had just came out](../publications/global-eke-trends.pdf){:target="_blank"}:
+In April we chatted about some [research piece that had just came out](../publications/global-eke-trends.pdf){:target="_blank"}:
 
 <figure>
     <figcaption>29 April 2021</figcaption>
