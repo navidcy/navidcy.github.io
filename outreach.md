@@ -80,4 +80,16 @@ warm winds blows from the North.
     </audio>
 </figure>
 
+One other day we chatted a bit about tides:
+
+<figure>
+    <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 28 July 2021</figcaption>
+    <audio
+        controls
+        src="ABC-Breakfast-28Jul2021.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 <!-- https://kalymnosola.com/2017/06/07/θερινό-σχολείο-και-φέτος-στην-κάλυμνο/ -->
