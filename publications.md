@@ -22,7 +22,7 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 ### In press/Published
 
 - **Constantinou, N. C.** and  Hogg, A. McC. (2021) Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
-
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][JClimateUOHC-clexbrief]{:target="_blank"} press news)
 
 - Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2021). Global changes in oceanic mesoscale currents over the satellite altimetry record. _Nat. Clim. Chang._, **11**, 397–403. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][global-eke-trends-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1038/s41558-021-01006-9"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][globaleketrends-clexbrief]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-globaleketrends]{:target="_blank"})<br/>
@@ -199,6 +199,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
+[JClimateUOHC-clexbrief]: https://climateextremes.org.au/can-the-oceans-intrinsic-dynamics-feedback-on-the-atmosphere/
 [geophysicalflows-clexbrief]: https://climateextremes.org.au/research-brief-new-julia-package-solves-geophysical-fluid-dynamics-problems/
 [geophysicalflows-blog]: https://climateextremes.org.au/developing-and-publishing-open-source-software-and-my-experience-with-an-open-peer-review-process/
 [globaleketrends-clexbrief]: https://www.climateextremes.org.au/changing-ocean-eddies-reorganise-ocean-energy/
