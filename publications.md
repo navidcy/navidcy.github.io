@@ -24,12 +24,15 @@ convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success bt
 - **Constantinou, N. C.** and  Hogg, A. McC. (2021) Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][JClimateUOHC-clexbrief]{:target="_blank"} press news)
 
+
 - Martínez-Moreno, J., Hogg, A. McC., England, M. H., **Constantinou, N. C.**, Kiss, A. E., and Morrison, A. K. (2021). Global changes in oceanic mesoscale currents over the satellite altimetry record. _Nat. Clim. Chang._, **11**, 397–403. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][global-eke-trends-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][global-eke-trends] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1038/s41558-021-01006-9"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][globaleketrends-clexbrief]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-globaleketrends]{:target="_blank"})<br/>
 Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Guardian</b></span>](https://www.theguardian.com/environment/2021/apr/23/changes-to-giant-ocean-eddies-could-have-devastating-effects-globally){:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Sydney Morning Herald</b></span>](https://www.smh.com.au/environment/climate-change/world-s-oceans-changing-as-currents-show-new-patterns-20210422-p57lcw.html){:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>Cosmos Magazine</b></span>](https://cosmosmagazine.com/earth/oceans/energetic-ocean-eddies-on-the-rise/){:target="_blank"}
 
+
 - **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. (2021) GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._, **6(60)**, 3053. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][geophysicalflows-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.03053"></span>  <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][geophysicalflows-clexbrief]{:target="_blank"} press news; read also the related [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>blog post</b></span>][geophysicalflows-blog]{:target="_blank"})
+
 
 - Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. (2021). Cause-and-effect of linear mechanisms sustaining wall turbulence. _J. Fluid Mech._, **914**, A8. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][cause-effect-linearmechanism-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.902"></span> <br/>
 
@@ -107,11 +110,17 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
+- **Constantinou, N. C.** (2021) How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
+
+
 - **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
+
 
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
 
+
 - Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
+
 
 - **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
 
@@ -207,6 +216,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [llnl-press-magneticviscosity]: https://www.llnl.gov/news/jupiter-shows-its-true-stripes
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
+[theconversation-mlclimate]: https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818
 [theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
