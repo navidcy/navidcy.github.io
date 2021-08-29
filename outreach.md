@@ -6,7 +6,7 @@ title: Outreach
 
 I strive to communicate the findings of my research to as wide audience as possible.
 
-## Radio & The Conversation
+## Radio, The Conversation, and other activities
 
 On August 2018 me and Jeffrey Parker published a paper providing a potential explanation for 
 mysterious the discoveries of _Juno_ regarding the depth-extent of the zonal jets in Jupiter. 
@@ -92,4 +92,26 @@ One other day we chatted a bit about tides:
     </audio>
 </figure>
 
+In August 2021, I was part of the Atlas of Life South Coast National Science Week (Aug. 13th-21st, 2021).
+I gave a lecture on August 14th titled “The ocean currents in a changing climate” as part of 
+the symposium [“Our East Australian Ocean Hotspot -- What is it and how will it change our coastal ecology”](https://atlasoflife.org.au/science-week-2021-presentations/#Navid/){:target="_blank"}. (Both the [slides](../presentations/SapphireCoastEACSymposium_Aug2021.pdf){:target="_blank"} and the [recording](https://youtu.be/Xib_t66Mqt8?t=421){:target="_blank"} of the presentation are available.)
+
+Starting on June 2021, I begun working on my [DECRA project][decra2021]{:target="_blank"} on
+using machine learning algorithms to enhance climate and ocean models. I wrote up a pice in
+[The Conversation](https://theconversation.com/how-machine-lbearning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"} explaining how machine learning
+can help in climate science. Then, next time we chatted with Simon our chat revolved around 
+that piece.
+s
+<figure>
+    <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 25 August 2021</figcaption>
+    <audio
+        controls
+        src="ABC-Breakfast-25Aug2021.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 <!-- https://kalymnosola.com/2017/06/07/θερινό-σχολείο-και-φέτος-στην-κάλυμνο/ -->
+
+[decra2021]: https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/219
