@@ -96,12 +96,11 @@ In August 2021, I was part of the Atlas of Life South Coast National Science Wee
 I gave a lecture on August 14th titled “The ocean currents in a changing climate” as part of 
 the symposium [“Our East Australian Ocean Hotspot -- What is it and how will it change our coastal ecology”](https://atlasoflife.org.au/science-week-2021-presentations/#Navid/){:target="_blank"}. (Both the [slides](../presentations/SapphireCoastEACSymposium_Aug2021.pdf){:target="_blank"} and the [recording](https://youtu.be/Xib_t66Mqt8?t=421){:target="_blank"} of the presentation are available.)
 
-Starting on June 2021, I begun working on my [DECRA project][decra2021]{:target="_blank"} on
-using machine learning algorithms to enhance climate and ocean models. I wrote up a pice in
+On June 2021 I begun working on my [DECRA project][decra2021]{:target="_blank"} to use machine
+learning algorithms to enhance climate and ocean models. I wrote up a pice in
 [The Conversation](https://theconversation.com/how-machine-lbearning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"} explaining how machine learning
-can help in climate science. Then, next time we chatted with Simon our chat revolved around 
-that piece.
-s
+can help in climate science. Then, next time we chatted with Simon we talked about this.
+
 <figure>
     <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 25 August 2021</figcaption>
     <audio
