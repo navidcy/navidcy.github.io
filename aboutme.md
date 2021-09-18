@@ -26,7 +26,7 @@ Have a look at my [vitae (CV)][cv-pdf] or read more about my [research](../resea
 
 
 {: .center}
-<img src="/img/navid_underwater.jpg" alt="me somewhere in the Pacific" class="circular-image" />
+<img src="/img/navid_underwater.jpg" alt="me somewhere in the Pacific" title="me somewhere in the Pacific" class="circular-image" />
 
 [lefkosia-site]: http://en.wikipedia.org/wiki/Nicosia
 [bill-site]: http://pordlabs.ucsd.edu/wryoung/
