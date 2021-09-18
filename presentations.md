@@ -7,6 +7,8 @@ title: Presentations
 
 ## Conferences
 
+- Machine learning algorithms for ocean eddy parametrizations. _Conference on "Machine Learning for Climate"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara CA, USA, 1-4 Nov. 2021. (**invited talk**)
+
 - Cause-and-effect of linear mechanisms in wall turbulence. _73rd APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD20-site]{:target="_blank"}, Chicago, IL, USA, 22–24 Nov., 2020. (virtual) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APSDFD20]  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][APSDFD20-youtube]{:target="_blank"}
 
 - Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM_Feb2020]
