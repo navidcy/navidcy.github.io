@@ -7,9 +7,9 @@ title: Presentations
 
 ## Conferences
 
-- Machine learning algorithms for ocean eddy parametrizations. _Conference on "Machine Learning for Climate"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara CA, USA, 1-4 Nov. 2021. (**invited talk**)
+- A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Conference on "Machine Learning for Climate"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara CA, USA, 1-4 Nov. 2021. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP21] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][KITP21-video]{:target="_blank"}
 
-- Cause-and-effect of linear mechanisms in wall turbulence. _73rd APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD20-site]{:target="_blank"}, Chicago, IL, USA, 22–24 Nov., 2020. (virtual) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APSDFD20]  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][APSDFD20-youtube]{:target="_blank"}
+- Cause-and-effect of linear mechanisms in wall turbulence. _73rd APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD20-site]{:target="_blank"}, Chicago, IL, USA, 22–24 Nov., 2020. (virtual) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APSDFD20] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][APSDFD20-youtube]{:target="_blank"}
 
 - Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Ocean Sciences Meeting 2020_, San Diego, CA, USA, 16-21 Feb., 2020. (poster) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM_Feb2020]
 
@@ -118,6 +118,8 @@ title: Presentations
 [APSDFD16]: APS-DFD-2016.pdf
 [APSDFD20]: APS-DFD-2020.pdf
 [APSDFD20-youtube]: https://youtu.be/tDV6j9WjhIY
+[KITP21]: KITP_Nov2021.pdf
+[KITP21-video]: https://online.kitp.ucsb.edu/online/climate-c21/constantinou/
 [AGU16-poster]: AGU2016_poster.pdf
 [KITP17-talk]: KITP_Jan2017.pdf
 [AOFD17-talk]: AOFD_Jun2017.pdf
