@@ -13,10 +13,11 @@ title: Publications
 convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
  [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"}
+-->
 
 ### Submitted
 
--->
+- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in review, revised on Nov. 2021) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
 
 
 ### In press/Published
@@ -136,6 +137,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[objectdrift]: objectdrift.pdf
 [geophysicalflows]: geophysicalflows.pdf
 [intrinsic-ocean-var]: intrinsic-oceanic-decadal-variability.pdf
 [global-eke-trends]: global-eke-trends.pdf
