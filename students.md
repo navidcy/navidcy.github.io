@@ -18,7 +18,7 @@ title: Students
 
 - Elise Palethorpe <br/>
   February 2022 - ; Australian National University (**Honors**) <br/>
-  Implementing a multi-grid pressure solver in CliMA’s ocean model and use data-driven methods to accelerate its performance
+  Implementing a multi-grid pressure solver in CliMA’s ocean model and use data-driven methods to accelerate the pressure solver's performance
 
 - Elise Palethorpe <br/>
   July 2020 - November 2020; Australian National University (**2nd year undergraduate**) <br/>
