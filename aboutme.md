@@ -40,4 +40,4 @@ Have a look at my [vitae (CV)][cv-pdf] or read more about my [research](../resea
 [andy-site]: http://rses.anu.edu.au/people/academics/prof-andy-hogg
 [arc-profile]: http://climateextremes.org.au/member-profile/?memberID=251
 [decra2021]: https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/219
-[cv-pdf]: http://nbviewer.jupyter.org/github/navidcy/NavidVitae/blob/master/cv.pdf
+[cv-pdf]: http://nbviewer.jupyter.org/github/navidcy/NavidVitae/blob/main/cv.pdf
