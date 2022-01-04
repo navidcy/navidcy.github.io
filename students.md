@@ -17,11 +17,15 @@ title: Students
 ## Masters/Honors/Undergraduate students
 
 - Elise Palethorpe <br/>
-  July 2020 - November 2020; Australian National University (2nd year undergraduate) <br/>
+  February 2022 - ; Australian National University (**Honors**) <br/>
+  Implementing a multi-grid pressure solver in CliMA’s ocean model and use data-driven methods to accelerate its performance
+
+- Elise Palethorpe <br/>
+  July 2020 - November 2020; Australian National University (**2nd year undergraduate**) <br/>
   Numerical methods for partial differential equations: high-order accurate weighted essentially non-oscillatory (WENO) schemes
 
 - Fabian Antonio Circelli <br/>
-  November 2019 - February 2020; Australian National University (3rd year undergraduate) <br/>
+  November 2019 - February 2020; Australian National University (**3rd year undergraduate**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
 
