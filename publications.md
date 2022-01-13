@@ -9,15 +9,17 @@ title: Publications
 
 <!--
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. Nusselt number scaling in horizontal
-convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2022) Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
  [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"}
+
 -->
 
 ### Submitted
 
-- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in review, revised on Nov. 2021) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
+ - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J  (2022) Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (in review, submitted on Jan. 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] 
+
+- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in review, revised on Nov. 2021) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
 
 
 ### In press/Published
@@ -137,6 +139,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[occiput-SO]: occiput-SO.pdf
 [objectdrift]: objectdrift.pdf
 [geophysicalflows]: geophysicalflows.pdf
 [intrinsic-ocean-var]: intrinsic-oceanic-decadal-variability.pdf
@@ -226,4 +229,4 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
 [trackeddies-clexbrief]: https://climateextremes.org.au/research-brief-southern-ocean-vortices-are-changing/
 [EddySat-BtBc-clexbrief]: https://climateextremes.org.au/research-brief-features-on-ocean-floor-play-major-role-in-the-strength-of-acc/
-[clex-site]: https://climateextremes.org.au/publications/
+[clex-site]: https://climateextremes.org.au/
