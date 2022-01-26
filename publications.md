@@ -19,7 +19,7 @@ title: Publications
 
  - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J  (2022) Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (in review, submitted on Jan. 2022, preprint at doi:<a href="https://doi.org/10.1002/essoar.10510178.1">10.1002/essoar.10510178.1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] 
 
-- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in review, revised on Nov. 2021) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
+- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in review, last revised on Jan. 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
 
 
 ### In press/Published
