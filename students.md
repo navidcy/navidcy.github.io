@@ -14,18 +14,28 @@ title: Students
   October 2020 - ; Australian National University <br/>
   The interplay between wind stress and surface buoyancy in driving large-scale oceanic gyres
 
-## Masters/Honors/Undergraduate students
+## Masters/Honors
 
 - Elise Palethorpe <br/>
   February 2022 - ; Australian National University (**Honors**) <br/>
   Implementing a multi-grid pressure solver in CliMA’s ocean model and use data-driven methods to accelerate the pressure solver's performance
 
+## Undergraduate students
+
+- Oliver Balfour <br/>
+  February 2022 - June 2022; Australian National University (**3rd year**) <br/>
+  Predicting cyclone genesis, trajectory, and intensity with machine learning
+
+- Jack Miller <br/>
+  February 2022 - June 2022; Australian National University (**3rd year**) <br/>
+  Predicting cyclone genesis, trajectory, and intensity with machine learning
+
 - Elise Palethorpe <br/>
-  July 2020 - November 2020; Australian National University (**2nd year undergraduate**) <br/>
+  July 2020 - November 2020; Australian National University (**2nd year**) <br/>
   Numerical methods for partial differential equations: high-order accurate weighted essentially non-oscillatory (WENO) schemes
 
 - Fabian Antonio Circelli <br/>
-  November 2019 - February 2020; Australian National University (**3rd year undergraduate**) <br/>
+  November 2019 - February 2020; Australian National University (**3rd year**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
 
