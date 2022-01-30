@@ -22,11 +22,11 @@ title: Students
 
 ## Undergraduate students
 
-- Oliver Balfour <br/>
+- [Oliver Balfour][oliver-github]{:target="_blank"} <br/>
   February 2022 - June 2022; Australian National University (**3rd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
-- Jack Miller <br/>
+- [Jack Miller][jack-github]{:target="_blank"} <br/>
   February 2022 - June 2022; Australian National University (**3rd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
@@ -41,3 +41,5 @@ title: Students
 
 [ellie-website]: https://ongqingyee.github.io
 [dhruv-website]: https://earthsciences.anu.edu.au/people/students/dhruv-bhagtani
+[oliver-github]: https://github.com/OliverBalfour
+[jack-github]: https://github.com/jackmiller2003
