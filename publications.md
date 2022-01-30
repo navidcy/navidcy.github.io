@@ -9,7 +9,7 @@ title: Publications
 
 <!--
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2022) Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2022) Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
  [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"}
 
@@ -17,13 +17,13 @@ title: Publications
 
 ### Submitted
 
- - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J  (2022) Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (in review, submitted on Jan. 2022, preprint at doi:<a href="https://doi.org/10.1002/essoar.10510178.1">10.1002/essoar.10510178.1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] 
+ - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J. (2022) Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (in review, submitted on Jan. 2022, preprint at doi:<a href="https://doi.org/10.1002/essoar.10510178.1">10.1002/essoar.10510178.1</a>) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] 
 
 ### In press/Published
 
 - Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (accepted on Jan. 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
 
-- **Constantinou, N. C.** and  Hogg, A. McC. (2021) Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
+- **Constantinou, N. C.** and Hogg, A. McC. (2021) Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][JClimateUOHC-clexbrief]{:target="_blank"} press news)
 
 
@@ -32,7 +32,7 @@ title: Publications
 Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Guardian</b></span>](https://www.theguardian.com/environment/2021/apr/23/changes-to-giant-ocean-eddies-could-have-devastating-effects-globally){:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Sydney Morning Herald</b></span>](https://www.smh.com.au/environment/climate-change/world-s-oceans-changing-as-currents-show-new-patterns-20210422-p57lcw.html){:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>Cosmos Magazine</b></span>](https://cosmosmagazine.com/earth/oceans/energetic-ocean-eddies-on-the-rise/){:target="_blank"}
 
 
-- **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. (2021) GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._, **6(60)**, 3053. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][geophysicalflows-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.03053"></span>  <br/>
+- **Constantinou, N. C.**, Wagner, G. L., Siegelman, L., Pearson, B. C., and Palóczy, A. (2021) GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs & GPUs. _J. Open Source Softw._, **6(60)**, 3053. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][GeophysicalFlows-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][GeophysicalFlows-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][geophysicalflows-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][geophysicalflows] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.03053"></span><br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][geophysicalflows-clexbrief]{:target="_blank"} press news; read also the related [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>blog post</b></span>][geophysicalflows-blog]{:target="_blank"})
 
 
@@ -42,10 +42,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2020). Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. _J. Phys.: Conf. Ser._, **1522**, 012003. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1088/1742-6596/1522/1/012003"></span> <br/>
 
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and  Young, W. R. (2020) The Nusselt numbers of horizontal convection. _J. Fluid Mech._ **894**, A24. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][HCNuDefinition-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.269"></span> <br/>
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2020) The Nusselt numbers of horizontal convection. _J. Fluid Mech._ **894**, A24. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][HCNuDefinition-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.269"></span> <br/>
 
 
-- **Constantinou, N. C.** and  Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**, 12202–12212. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][GRLEddySat-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">model animantion</span>][twolayer-mom6-movie]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span> <br/>
+- **Constantinou, N. C.** and Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**, 12202–12212. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][GRLEddySat-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">model animantion</span>][twolayer-mom6-movie]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span> <br/>
 (best Early Career Researcher paper within [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][clex-site]{:target="_blank"} for year 2019; also featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][EddySat-BtBc-clexbrief]{:target="_blank"} press news)
 
 
@@ -54,18 +54,18 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 
 - Parker, J. B. and **Constantinou, N. C.** (2019). Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. _Phys. Rev. Fluids_, **4**, 083701. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-doi="10.1103/PhysRevFluids.4.083701"></span> <br/>
-(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magneticviscosity]{:target="_blank"},  [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magneticviscosity]{:target="_blank"}, and [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][magneticviscosity-clexbrief]{:target="_blank"} press news) 
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magneticviscosity]{:target="_blank"}, [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magneticviscosity]{:target="_blank"}, and [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][magneticviscosity-clexbrief]{:target="_blank"} press news) 
 
 
 - Bakas, N. A., **Constantinou, N. C.**, and Ioannou, P. J. (2019). Statistical state dynamics of weak jets in barotropic beta-plane turbulence. _J. Atmos. Sci._, **76 (3)**, 919-945. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ssd-eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ssd-eckaus] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JAS-D-18-0148.1"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][SSDEckhaus-clexbrief]{:target="_blank"} press news)
 
 
-- **Constantinou, N. C.** and Parker, J. B. (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, **863**, 46. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticZF-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF]  <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-doi="10.3847/1538-4357/aace53"></span> <br/>
+- **Constantinou, N. C.** and Parker, J. B. (2018). Magnetic suppression of zonal flows on a beta plane. _Astrophys. J._, **863**, 46. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticZF-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticZF] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-doi="10.3847/1538-4357/aace53"></span> <br/>
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>ANU</b></span>][anu-press-magnetic]{:target="_blank"}, [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>LLNL</b></span>][llnl-press-magnetic]{:target="_blank"}, and [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][magneticZI-clexbrief]{:target="_blank"} press news; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation]{:target="_blank"})
 
 
-- **Constantinou, N. C.** (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._,  **48 (2)**, 397-411. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-17-0182.1"></span>
+- **Constantinou, N. C.** (2018). A barotropic model of eddy saturation. _J. Phys. Oceanogr._, **48 (2)**, 397-411. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySaturationJPO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-17-0182.1"></span>
 
 
 - **Constantinou, N. C.** and Young, W. R. (2017). Beta-plane turbulence above monoscale topography. _J. Fluid. Mech._, **827**, 415-447. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][barotropic-topo-mono-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topo-1layer] <span align="right" data-hide-less-than="2" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2017.482"></span>
@@ -83,10 +83,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 - **Constantinou, N. C.**, Lozano-Durán, A., Nikolaidis, M.-A., Farrell, B. F., Ioannou, P. J., and Jiménez, J. (2014). Turbulence in the highly restricted dynamics of a closure at second order: comparison with DNS. _J. Phys.: Conf. Ser._, **506**, 012004. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1088/1742-6596/506/1/012004"></span>
 
 
-- **Constantinou, N. C.**, Farrell, B. F., and Ioannou, P. J. (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JAS-D-13-076.1"></span>
+- **Constantinou, N. C.**, Farrell, B. F., and Ioannou, P. J. (2014). Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory, _J. Atmos. Sci._, **71 (5)**, 1818-1842. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][s3t-jets-jas-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][s3t-jets-jas] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JAS-D-13-076.1"></span>
 
 
-- **Constantinou, N. C.** and Ioannou, P. J. (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"}  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1063/1.3609283"></span>
+- **Constantinou, N. C.** and Ioannou, P. J. (2011). Optimal excitation of two dimensional Holmboe instabilities. _Phys. Fluids_, **23**, 074102. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][holmboe-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][holmboe] <span align="right" class='altmetric-embed' data-condensed="true" data-hide-less-than="2" data-doi="10.1063/1.3609283"></span>
 
 
 <br>
@@ -112,10 +112,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
-- **Constantinou, N. C.** (2021) How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
+- **Constantinou, N. C.** (2021) How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
 
 
-- **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
+- **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
 
 
 - Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
@@ -124,7 +124,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 - Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
 
 
-- **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018.  [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
+- **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
 
 
 <br>
@@ -152,7 +152,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [magneticviscosity]: magneticviscosity-2019.pdf
 [magneticZF]: magneticZF-2018.pdf
 [eddysaturation]: EddySaturation-JPO-2018.pdf
-[topo-1layer]:  betaplane-topo-1.pdf
+[topo-1layer]: betaplane-topo-1.pdf
 [vlsm-poiseuille]: VLSM-Poiseuille.pdf
 [ssd-jet-wave]: SSD_JetWave.pdf
 [ssd-eckaus]: SSD_Eckhaus.pdf
