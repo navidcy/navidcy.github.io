@@ -30,14 +30,15 @@ title: Students
   February 2022 - June 2022; Australian National University (**3rd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
+## Alumni
+
 - Elise Palethorpe <br/>
-  July 2020 - November 2020; Australian National University (**2nd year**) <br/>
+  July 2020 - November 2020; Australian National University (**2nd year  undergraduate**) <br/>
   Numerical methods for partial differential equations: high-order accurate weighted essentially non-oscillatory (WENO) schemes
 
 - Fabian Antonio Circelli <br/>
-  November 2019 - February 2020; Australian National University (**3rd year**) <br/>
-  Fourier-based pseudospectral methods for solving partial differential equations
-
+  November 2019 - February 2020; Australian National University (**3rd year  undergraduate**) <br/>
+  Fourier-based ps eudospectral methods for solving partial differential equations
 
 [ellie-website]: https://ongqingyee.github.io
 [dhruv-website]: https://earthsciences.anu.edu.au/people/students/dhruv-bhagtani
