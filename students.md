@@ -38,7 +38,7 @@ title: Students
 
 - Fabian Antonio Circelli <br/>
   November 2019 - February 2020; Australian National University (**3rd year  undergraduate**) <br/>
-  Fourier-based ps eudospectral methods for solving partial differential equations
+  Fourier-based pseudospectral methods for solving partial differential equations
 
 [ellie-website]: https://ongqingyee.github.io
 [dhruv-website]: https://earthsciences.anu.edu.au/people/students/dhruv-bhagtani
