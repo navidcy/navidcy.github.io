@@ -22,7 +22,7 @@ title: Publications
 
 ### In press/Published
 
-- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (accepted on Jan. 2022; doi:<a href="https://doi.org/10.1175/JPO-D-20-0275.1">10.1175/JPO-D-20-0275.1</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][objectdrift-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
+- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022) How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._ (in press; doi:<a href="https://doi.org/10.1175/JPO-D-20-0275.1">10.1175/JPO-D-20-0275.1</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][objectdrift-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] 
 
 
 - **Constantinou, N. C.** and Hogg, A. McC. (2021) Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
