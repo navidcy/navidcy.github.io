@@ -84,7 +84,7 @@ title: Presentations
 
 - Emergence of large-scale structure in planetary turbulence as an instability of the of the homogeneous turbulent state. IPAM, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][IPAM-site]{:target="_blank"}, Los Angeles CA, USA, 21 Oct. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][IPAM_Oct2014]
 
-- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus[<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OCC-site]{:target="_blank"}, Nicosia, Cyprus, 7 Jan. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_Jan2014]
+- Emergence and equilibration of zonal winds in turbulent planetary atmospheres. Cyprus Oceanography Center, University of Cyprus [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][OCC-site]{:target="_blank"}, Nicosia, Cyprus, 7 Jan. 2014. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCY_Jan2014]
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
