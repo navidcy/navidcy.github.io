@@ -7,6 +7,10 @@ title: Presentations
 
 ## Conferences
 
+- Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022., USA. (**invited talk**)
+
+- A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022., USA.
+
 - A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Conference on "Machine Learning for Climate"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara CA, USA, 1-4 Nov. 2021. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP21] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][KITP21-video]{:target="_blank"}
 
 - Cause-and-effect of linear mechanisms in wall turbulence. _73rd APS Division of Fluid Dynamics Meeting_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][APSDFD20-site]{:target="_blank"}, Chicago, IL, USA, 22–24 Nov., 2020. (virtual) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][APSDFD20] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][APSDFD20-youtube]{:target="_blank"}
