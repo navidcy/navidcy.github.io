@@ -25,8 +25,8 @@ I use Github develop software, work, and collaborate via [Github][github-profile
 
 [fourierflows-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
 [geophysicalflows-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
-[oceananigans-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
-[oceanturbulenceparameterestimation-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
+[oceananigans-repo]: https://www.github.com/CliMA/Oceananigans.jl
+[oceanturbulenceparameterestimation-repo]: https://www.github.com/CliMA/OceanTurbulenceParameterEstimation.jl
 
 [fourierflows-docs]: https://fourierflows.github.io/FourierFlowsDocumentation/stable/
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
