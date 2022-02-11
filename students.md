@@ -8,7 +8,7 @@ title: Students
 
 - [Ellie Ong][ellie-website]{:target="_blank"}<br/>
   February 2021 - ; University of New South Wales <br/>
-  Investigation into local drivers of change at the Antarctic Continental Margin
+  Investigation into local drivers of change at the Antarctic continental margin
 
 - [Dhruv Bhagtani][dhruv-website]{:target="_blank"} <br/>
   October 2020 - ; Australian National University <br/>
