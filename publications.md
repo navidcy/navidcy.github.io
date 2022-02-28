@@ -120,8 +120,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 - **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
 
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence] 
-
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][modallystableturbulence-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence]
 
 - Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
 
@@ -166,7 +165,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
-[occiput-SO-preprint-doi]: https://doi.org/ 10.1002/essoar.10510178.1
+[occiput-SO-preprint-doi]: https://doi.org/10.1002/essoar.10510178.1
+[modallystableturbulence-doi]: https://doi.org/10.48550/arXiv.1909.05490
 [objectdrift-doi]: https://doi.org/10.1175/JPO-D-20-0275.1
 [intrinsic-ocean-var-doi]: https://doi.org/10.1175/JCLI-D-20-0962.1
 [geophysicalflows-doi]: https://doi.org/10.21105/joss.03053
@@ -197,6 +197,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [comecap2014-zonal]: bakas-etal-comecap-2014.pdf
 
 [phd_eng]: ../theses/PhD_thesis_Navid.pdf
+
 
 [arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
 [arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
