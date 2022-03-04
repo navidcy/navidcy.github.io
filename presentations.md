@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conferences
 
-- Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022., USA. (**invited talk**)
+- Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022., USA. (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-github-video]{:target="_blank"}
 
 - A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022., USA. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM22-datadriven] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-datadriven-video]{:target="_blank"}
 
@@ -124,6 +124,7 @@ title: Presentations
 [APSDFD20-youtube]: https://youtu.be/tDV6j9WjhIY
 [OSM22-datadriven]: OSM_Feb2022-talk.pdf
 [OSM22-datadriven-video]: https://youtu.be/hwuArUBboR8
+[OSM22-github-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w
 [KITP21]: KITP_Nov2021.pdf
 [KITP21-video]: https://online.kitp.ucsb.edu/online/climate-c21/constantinou/
 [AGU16-poster]: AGU2016_poster.pdf
