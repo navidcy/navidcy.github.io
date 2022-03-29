@@ -14,7 +14,7 @@ A few open-source software packages I'm currently involved in their development 
 
 - <tt>Oceananigans.jl</tt>: Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs. [repository][oceananigans-repo]{:target="_blank"}, [documentation][oceananigans-docs]{:target="_blank"}
 
-- <tt>OceanTurbulenceParameterEstimation.jl</tt>: Julia software for calibration of ocean turbulence parameterizations using Ensemble Kalman Inversion. [repository][oceanturbulenceparameterestimation-repo]{:target="_blank"}, [documentation][oceanturbulenceparameterestimation-docs]{:target="_blank"}
+- <tt>ParameterEstimocean.jl</tt>: Julia software for calibration of ocean turbulence parameterizations using Ensemble Kalman Inversion. [repository][parameterestimocean-repo]{:target="_blank"}, [documentation][parameterestimocean-docs]{:target="_blank"}
 
 - <tt>FourierFlows.jl</tt>: Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains on CPUs and GPUs. [repository][fourierflows-repo]{:target="_blank"}, [documentation][fourierflows-docs]{:target="_blank"}
 
@@ -28,9 +28,9 @@ A few open-source software packages I'm currently involved in their development 
 [fourierflows-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
 [geophysicalflows-repo]: https://www.github.com/FourierFlows/GeophysicalFlows.jl
 [oceananigans-repo]: https://www.github.com/CliMA/Oceananigans.jl
-[oceanturbulenceparameterestimation-repo]: https://www.github.com/CliMA/OceanTurbulenceParameterEstimation.jl
+[parameterestimocean-repo]: https://www.github.com/CliMA/ParameterEstimocean.jl
 
 [fourierflows-docs]: https://fourierflows.github.io/FourierFlowsDocumentation/stable/
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [oceananigans-docs]: https://clima.github.io/OceananigansDocumentation/stable/
-[oceanturbulenceparameterestimation-docs]: https://clima.github.io/OceanTurbulenceParameterEstimation.jl/dev/
+[parameterestimocean-docs]: https://clima.github.io/ParameterEstimocean.jl/dev/
