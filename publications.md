@@ -22,7 +22,7 @@ title: Publications
 
 ### In press/Published
 
-- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022). How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._, **52(5)**, 907-916. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][objectdrift-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-20-0275.1"></span> <br/>
+- Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022). How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._, **52(5)**, 907-916. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][objectdrift-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-20-0275.1"></span>
 
 
 - **Constantinou, N. C.** and Hogg, A. McC. (2021). Intrinsic oceanic decadal variability of upper-ocean heat content. _J. Climate_, **34 (15)**, 6175-6189. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][JClimateUOHC-repo]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][intrinsic-ocean-var-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][intrinsic-ocean-var] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JCLI-D-20-0962.1"></span> <br/>
@@ -38,13 +38,13 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 (featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>CLEX</b></span>][geophysicalflows-clexbrief]{:target="_blank"} press news; read also the related [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>blog post</b></span>][geophysicalflows-blog]{:target="_blank"})
 
 
-- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. (2021). Cause-and-effect of linear mechanisms sustaining wall turbulence. _J. Fluid Mech._, **914**, A8. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][cause-effect-linearmechanism-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.902"></span> <br/>
+- Lozano-Durán, A., **Constantinou, N. C.**, Nikolaidis, M.-A., and Karp, M. (2021). Cause-and-effect of linear mechanisms sustaining wall turbulence. _J. Fluid Mech._, **914**, A8. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][cause-effect-linearmechanism-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cause-effect-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.902"></span>
 
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2020). Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. _J. Phys.: Conf. Ser._, **1522**, 012003. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1088/1742-6596/1522/1/012003"></span> <br/>
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2020). Alternative physics to understand wall turbulence: Navier–Stokes equations with modified linear dynamics. _J. Phys.: Conf. Ser._, **1522**, 012003. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][multiflow2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][multiflow2019-linearmechanism] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1088/1742-6596/1522/1/012003"></span>
 
 
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2020). The Nusselt numbers of horizontal convection. _J. Fluid Mech._ **894**, A24. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][HCNuDefinition-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.269"></span> <br/>
+- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2020). The Nusselt numbers of horizontal convection. _J. Fluid Mech._ **894**, A24. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][HCNuDefinition-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2020.269"></span>
 
 
 - **Constantinou, N. C.** and Hogg, A. McC. (2019). Eddy saturation of the Southern Ocean: a baroclinic versus barotropic perspective. _Geophys. Res. Lett._, **46**, 12202–12212. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][GRLEddySat-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">model animantion</span>][twolayer-mom6-movie]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][EddySat-BtBc-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eddysaturation-BC-BT] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2019GL084117"></span> <br/>
@@ -114,24 +114,27 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
-- **Constantinou, N. C.** (2021) How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
+- **Constantinou, N. C.** (2021). How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
 
 
-- **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021) Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
+- **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021). Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
 
 
-- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019) Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][modallystableturbulence-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence]
-
-- Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018) Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
+- Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][modallystableturbulence-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence]
 
 
-- **Constantinou, N. C.** (2018) Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
+- Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018). Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
+
+
+- **Constantinou, N. C.** (2018). Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
 
 
 <br>
 
 ## Doctoral thesis
+
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
+
 
 [GRLEddySat-repo]: https://github.com/navidcy/EddySaturation-BtBc-GRL
 [JClimateUOHC-repo]: https://github.com/navidcy/IntrinsicOceanicLFVariabilityUOHC
