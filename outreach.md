@@ -114,6 +114,10 @@ can help in climate science. Next time I was on Simon's show we talked about thi
     </audio>
 </figure>
 
+<br/>
+
+Sometimes I go on the radio and talk about [non-science-related things](https://www.abc.net.au/radio/melbourne/programs/afternoons/omicron-covid-varient-prompts-greek-alphabet-discussion/13653848){:target="_blank"}...
+
 <!-- https://kalymnosola.com/2017/06/07/θερινό-σχολείο-και-φέτος-στην-κάλυμνο/ -->
 
 [decra2021]: https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/219
