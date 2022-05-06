@@ -19,7 +19,7 @@ title: Publications
 
 ### In press/Published
 
-- Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J. (2022). Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (accepted on May 2022; preprint at doi:<a href="https://doi.org/10.1002/essoar.10510178.1">10.1002/essoar.10510178.1</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][occiput-SO-preprint-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] 
+- Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J. (2022). Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_ (accepted on May 2022; doi:<a href="https://doi.org/10.1029/2022JC018440">10.1029/2022JC018440</a>) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][occiput-SO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO]
 
 
 - Wagner, T. J. W., Eisenman, I., Ceroli, A. M., and **Constantinou, N. C.** (2022). How winds and ocean currents influence the drift of floating objects. _J. Phys. Oceanogr._, **52(5)**, 907-916. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][objectdrift-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][objectdrift] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-20-0275.1"></span>
@@ -168,7 +168,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
-[occiput-SO-preprint-doi]: https://doi.org/10.1002/essoar.10510178.1
+[occiput-SO-doi]: https://doi.org/10.1029/2022JC018440
 [modallystableturbulence-doi]: https://doi.org/10.48550/arXiv.1909.05490
 [objectdrift-doi]: https://doi.org/10.1175/JPO-D-20-0275.1
 [intrinsic-ocean-var-doi]: https://doi.org/10.1175/JCLI-D-20-0962.1
