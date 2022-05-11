@@ -5,6 +5,19 @@ title: Teaching
 ---
 
 
+### Computational Geosciences (Course Co-Convener along w/ [Louis Moresi](http://www.moresi.info))
+#### [Undergraduate/Honors EMSC4033; Masters EMSC8033]
+##### Research School of Earth Sciences, Australian National University
+##### Semester 1
+##### 2021 - to date
+
+Syllabus: Fundamental concepts of computer programming and the Python programming language. Aims include: *(i)* develop students' problem-solving skills; *(ii)* give students a clear understanding of the fundamental concepts of computer programming, such that they are in a good position to learn any programming language required for their research; and *(iii)* ensure that all students have core competencies in the Python programming language, which will later be utilized in their research for tasks such as modeling, scripting, analyzing and processing data and generating high-quality figures for presentations and publications.
+
+[Class Github Repository][EMSC4033-repo]{:target="_blank"} and [Online Book][EMSC4033-book]{:target="_blank"}
+
+<br>
+
+
 ### Atmosphere and Ocean Dynamics Winter School 2021 (main lecturer along w/ [Annie Foppert](https://scholar.google.com/citations?user=kZ8lBdoAAAAJ&hl=en){:target="_blank"} and [Martin Singh](http://singh.sci.monash.edu){:target="_blank"})
 ##### ARC Centre for Climate Extremes, Australian National University
 ##### June 21-25, 2021
@@ -15,16 +28,6 @@ Syllabus: Basics of atmosphere and ocean dynamics.
 
 <br>
 
-### Computational Geosciences (Course Co-Convener along w/ [Louis Moresi](http://www.moresi.info))
-#### [Undergraduate/Honors EMSC4033; Masters EMSC8033]
-##### Research School of Earth Sciences, Australian National University
-##### Semester 1, 2021
-
-Syllabus: Fundamental concepts of computer programming and the Python programming language. Aims include: *(i)* develop students' problem-solving skills; *(ii)* give students a clear understanding of the fundamental concepts of computer programming, such that they are in a good position to learn any programming language required for their research; and *(iii)* ensure that all students have core competencies in the Python programming language, which will later be utilized in their research for tasks such as modeling, scripting, analyzing and processing data and generating high-quality figures for presentations and publications.
-
-[Class Github Repository][EMSC4033-repo]{:target="_blank"} and [Online Book][EMSC4033-book]{:target="_blank"}
-
-<br>
 
 ### Atmosphere and Ocean Dynamics Winter School 2020 (main lecturer along w/ [Annie Foppert](https://scholar.google.com/citations?user=kZ8lBdoAAAAJ&hl=en){:target="_blank"} and [Martin Singh](http://singh.sci.monash.edu){:target="_blank"})
 ##### ARC Centre for Climate Extremes, University of Tasmania
