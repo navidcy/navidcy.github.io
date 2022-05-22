@@ -50,6 +50,8 @@ title: Presentations
 
 ## Seminars
 
+- “From little things big things grow”: how mesoscale eddies affect the global ocean circulation and climate, Scripps Institution of Oceanography [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, University of California San Diego, La Jolla, California, United States, 12 May 2022. (**invited talk**)
+
 - From small swirls up to the global ocean circulation: how ocean eddies affect the Earth’s climate, Research School of Earth Sciences [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][RSES-site]{:target="_blank"}, Australian National University, Canberra, Australia, 25 Mar. 2021. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RSES-Mar2021] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][RSES-Mar2021-youtube]{:target="_blank"}
 
 - Cause-and-effect of linear mechanisms in wall turbulence. Shear Flow Instability, Transition and Turbulence Seminar Series, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, (via Zoom), 7 Oct. 2020. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][Monash_Oct2020]
