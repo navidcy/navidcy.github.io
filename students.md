@@ -22,15 +22,19 @@ title: Students
 
 ## Undergraduate students
 
+- [Jack Miller][jack-github]{:target="_blank"} <br/>
+  July 2022 - December 2022; Australian National University (**2nd year**) <br/>
+  Modeling with Koopman Autoencoders for Data Synthesis with application to cyclones
+
+## Alumni
+
 - [Oliver Balfour][oliver-github]{:target="_blank"} <br/>
-  February 2022 - June 2022; Australian National University (**3rd year**) <br/>
+  February 2022 - June 2022; Australian National University (**2nd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
 - [Jack Miller][jack-github]{:target="_blank"} <br/>
-  February 2022 - June 2022; Australian National University (**3rd year**) <br/>
+  February 2022 - June 2022; Australian National University (**2nd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
-
-## Alumni
 
 - Elise Palethorpe <br/>
   July 2020 - November 2020; Australian National University (**2nd year  undergraduate**) <br/>
