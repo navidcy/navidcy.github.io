@@ -172,7 +172,7 @@ title: Presentations
 [UoA-site]: http://en.uoa.gr
 [RSAA-site]: https://rsaa.anu.edu.au
 [RSES-site]: https://earthsciences.anu.edu.au
-[ARC2019workshop-site]: https://test2.ntechhosting.com/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
+[ARC2019workshop-site]: https://climateextremes.org.au/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
 
 [APSDFD20-site]: https://dfd2020chicago.org
 [APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27

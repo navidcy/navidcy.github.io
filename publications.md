@@ -220,10 +220,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
-[JClimateUOHC-clexbrief]: https://test2.ntechhosting.com/can-the-oceans-intrinsic-dynamics-feedback-on-the-atmosphere/
-[geophysicalflows-clexbrief]: https://test2.ntechhosting.com/research-brief-new-julia-package-solves-geophysical-fluid-dynamics-problems/
-[geophysicalflows-blog]: https://test2.ntechhosting.com/developing-and-publishing-open-source-software-and-my-experience-with-an-open-peer-review-process/
-[globaleketrends-clexbrief]: https://test2.ntechhosting.com/changing-ocean-eddies-reorganise-ocean-energy/
+[JClimateUOHC-clexbrief]: https://climateextremes.org.au/can-the-oceans-intrinsic-dynamics-feedback-on-the-atmosphere/
+[geophysicalflows-clexbrief]: https://climateextremes.org.au/research-brief-new-julia-package-solves-geophysical-fluid-dynamics-problems/
+[geophysicalflows-blog]: https://climateextremes.org.au/developing-and-publishing-open-source-software-and-my-experience-with-an-open-peer-review-process/
+[globaleketrends-clexbrief]: https://climateextremes.org.au/changing-ocean-eddies-reorganise-ocean-energy/
 [anu-press-magneticviscosity]: https://www.anu.edu.au/news/all-news/wind-mystery-inside-gas-giant-saturn-begins-to-unravel
 [llnl-press-magneticviscosity]: https://www.llnl.gov/news/jupiter-shows-its-true-stripes
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
@@ -231,9 +231,9 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [theconversation-mlclimate]: https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818
 [theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
-[magneticZI-clexbrief]: https://test2.ntechhosting.com/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
-[magneticviscosity-clexbrief]: https://test2.ntechhosting.com/research-brief-how-magnetic-fields-can-make-water-behave-like-honey/
-[SSDEckhaus-clexbrief]: https://test2.ntechhosting.com/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
-[trackeddies-clexbrief]: https://test2.ntechhosting.com/research-brief-southern-ocean-vortices-are-changing/
-[EddySat-BtBc-clexbrief]: https://test2.ntechhosting.com/research-brief-features-on-ocean-floor-play-major-role-in-the-strength-of-acc/
-[clex-site]: https://test2.ntechhosting.com/
+[magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
+[magneticviscosity-clexbrief]: https://climateextremes.org.au/research-brief-how-magnetic-fields-can-make-water-behave-like-honey/
+[SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
+[trackeddies-clexbrief]: https://climateextremes.org.au/research-brief-southern-ocean-vortices-are-changing/
+[EddySat-BtBc-clexbrief]: https://climateextremes.org.au/research-brief-features-on-ocean-floor-play-major-role-in-the-strength-of-acc/
+[clex-site]: https://climateextremes.org.au/

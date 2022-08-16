@@ -101,8 +101,8 @@ Held tutorials on basic numerical methods for solving ODEs.
 
 
 
-[clexwinterschool2020]: https://test2.ntechhosting.com/clex-virtual-winter-school-2020/
-[clexwinterschool2021]: https://test2.ntechhosting.com/winter-school-2021-atmosphere-and-ocean-dynamics/
+[clexwinterschool2020]: https://climateextremes.org.au/clex-virtual-winter-school-2020/
+[clexwinterschool2021]: https://climateextremes.org.au/winter-school-2021-atmosphere-and-ocean-dynamics/
 [clexwinterschool2020repo]: https://github.com/navidcy/CLExWinterSchool2020
 [dynamicaslsystems-anu]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory
 [DSlectures]: https://github.com/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/tree/master/lectures
