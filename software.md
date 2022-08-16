@@ -8,6 +8,8 @@ I am also a strong believer of open-source software and reproducible science.
 
 I develop software, work, and collaborate via [Github][github-profile]{:target="_blank"} [<img src="/img/github-logo.png" height=20>][github-profile]{:target="_blank"}.
 
+(Have a look at the [video presentation][github-osm-video]{:target="_blank"} on Github and how it enhances collaboration presented at Ocean Sciences Meeting 2022.)
+
 I enjoy coding in [Julia][julia-website]{:target="_blank"} [<img src="/img/julia-logo.png" height=20>][julia-website]{:target="_blank"} and also often use [Python][python-website]{:target="_blank"} [<img src="/img/python-logo.png" height=20>][python-website]{:target="_blank"} for data analysis.
 
 A few open-source software packages I'm currently involved in their development are:
@@ -34,3 +36,5 @@ A few open-source software packages I'm currently involved in their development 
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [oceananigans-docs]: https://clima.github.io/OceananigansDocumentation/stable/
 [parameterestimocean-docs]: https://clima.github.io/ParameterEstimocean.jl/dev/
+
+[github-osm-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w
