@@ -4,10 +4,9 @@ title: About me
 #subtitle: Short biographical note
 ---
 
-<p align=center>
-<!-- <iframe src="https://player.vimeo.com/video/740918473?autoplay=1&loop=1&title=0&byline=0&portrait=0" width="409" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-<iframe src="https://player.vimeo.com/video/740918473?h=c17b64f3df?autoplay=1&loop=1&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</p>
+<div align=right style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/740918473?h=c17b64f3df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Navid Constantinou in 60 secs"></iframe> <br/>
+<small><small>[made with Miriam Pickard]</small></small></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
 I am a physicist by education and a geophysical fluid dynamicist at heart.
 
