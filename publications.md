@@ -13,13 +13,13 @@ title: Publications
 
  [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"}
 
-### Submitted
-
 -->
 
-### In press/Published
+### Submitted
 
-- Wagner, G. L. **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
+- Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
+
+### In press/Published
 
 - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J. (2022). Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_, **127**, e2022JC018440. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][occiput-SO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2022JC018440"></span>
 
