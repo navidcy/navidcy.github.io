@@ -11,13 +11,12 @@ title: Publications
 
 - Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2022) Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
 
- [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2012.08025]{:target="_blank"}
 
 -->
 
 ### Submitted
 
-- Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
+- Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
 
 ### In press/Published
 
@@ -220,6 +219,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2005.05303]: http://arxiv.org/abs/2005.05303
 [arXiv:2012.08025]: http://arxiv.org/abs/2012.08025
 [arXiv:2201.12688]: http://arxiv.org/abs/2201.12688
+[arXiv:2210.08552]: http://arxiv.org/abs/2210.08552
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
