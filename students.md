@@ -22,7 +22,7 @@ title: Students
 
 ## Undergraduate students
 
-- Phoebe Grosser<br/>
+- [Phoebe Grosser][phoebe-github]{:target="_blank"} <br/>
   Dec 2022 - March 2023; Australian National University (**2nd year**) <br/>
   Ocean’s tidal response with high-fidelity bathymetry and investigation on physical mechanisms
 
@@ -50,3 +50,4 @@ title: Students
 [dhruv-website]: https://earthsciences.anu.edu.au/people/students/dhruv-bhagtani
 [oliver-github]: https://github.com/OliverBalfour
 [jack-github]: https://github.com/jackmiller2003
+[phoebe-github]: https://github.com/pgrosser1
