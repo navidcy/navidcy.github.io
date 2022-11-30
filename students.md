@@ -17,31 +17,33 @@ title: Students
 ## Masters/Honors
 
 - Elise Palethorpe <br/>
-  February 2022 - ; Australian National University (**Honors**) <br/>
-  Implementing a multi-grid pressure solver in CliMA’s ocean model and use data-driven methods to accelerate the pressure solver's performance
+  February 2022 - November 2022; Australian National University (**Honors**) <br/>
+  Implementing a multigrid pressure solver in CliMA’s ocean general circulation model
 
 ## Undergraduate students
+
+- Phoebe Grosser<br/>
+  Dec 2022 - March 2023; Australian National University (**2nd year**) <br/>
+  Ocean’s tidal response with high-fidelity bathymetry and investigation on physical mechanisms
 
 - [Jack Miller][jack-github]{:target="_blank"} <br/>
   July 2022 - December 2022; Australian National University (**2nd year**) <br/>
   Modeling with Koopman Autoencoders for Data Synthesis with application to cyclones
 
-## Alumni
-
 - [Oliver Balfour][oliver-github]{:target="_blank"} <br/>
-  February 2022 - June 2022; Australian National University (**2nd year undergraduate**) <br/>
+  February 2022 - June 2022; Australian National University (**2nd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
 - [Jack Miller][jack-github]{:target="_blank"} <br/>
-  February 2022 - June 2022; Australian National University (**2nd year undergraduate**) <br/>
+  February 2022 - June 2022; Australian National University (**2nd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
 - Elise Palethorpe <br/>
-  July 2020 - November 2020; Australian National University (**2nd year undergraduate**) <br/>
+  July 2020 - November 2020; Australian National University (**2nd year**) <br/>
   Numerical methods for partial differential equations: high-order accurate weighted essentially non-oscillatory (WENO) schemes
 
 - Fabian Antonio Circelli <br/>
-  November 2019 - February 2020; Australian National University (**3rd year undergraduate**) <br/>
+  November 2019 - February 2020; Australian National University (**3rd year**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
 [ellie-website]: https://ongqingyee.github.io
