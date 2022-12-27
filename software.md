@@ -4,7 +4,7 @@ title: Software
 #subtitle:
 ---
 
-I am also a strong believer of open-source software and reproducible science.
+I am a strong believer of open-source software and reproducible science.
 
 I develop software, work, and collaborate via [Github][github-profile]{:target="_blank"} [<img src="/img/github-logo.png" height=20>][github-profile]{:target="_blank"}.
 
