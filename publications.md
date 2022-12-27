@@ -115,6 +115,9 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
+- Miller, J. W., O'Neil, C., **Constantinou, N. C.**, and Anzecot, O. (2022). Eigenvalue initialisation and regularisation for Koopman autoencoders. [arXiv:2212.12086][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][eigeninit-eigenloss-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eigeninit-eigenloss]
+
+
 - **Constantinou, N. C.** (2021). How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
 
 
@@ -143,6 +146,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[eigeninit-eigenloss]: eigeninit-eigenloss.pdf
 [StokesDrift]: stokes-drift.pdf
 [occiput-SO]: occiput-SO.pdf
 [objectdrift]: objectdrift.pdf
@@ -172,6 +176,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 [occiput-SO-doi]: https://doi.org/10.1029/2022JC018440
 [modallystableturbulence-doi]: https://doi.org/10.48550/arXiv.1909.05490
+[eigeninit-eigenloss-doi]: https://doi.org/10.48550/arXiv.2212.12086
 [objectdrift-doi]: https://doi.org/10.1175/JPO-D-20-0275.1
 [intrinsic-ocean-var-doi]: https://doi.org/10.1175/JCLI-D-20-0962.1
 [geophysicalflows-doi]: https://doi.org/10.21105/joss.03053
@@ -220,6 +225,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2012.08025]: http://arxiv.org/abs/2012.08025
 [arXiv:2201.12688]: http://arxiv.org/abs/2201.12688
 [arXiv:2210.08552]: http://arxiv.org/abs/2210.08552
+[arXiv:2212.12086]: http://arxiv.org/abs/2212.12086
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
