@@ -7,14 +7,10 @@ title: Publications
 
 ## Journal articles
 
-<!--
-
-- Rocha, C. B., **Constantinou, N. C.**, Llewellyn Smith, S. G., and Young, W. R. (2022) Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on ...) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:1912.05229]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuDefinition] 
-
-
--->
 
 ### Submitted
+
+- **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023) Nusselt number scaling in horizontal convection: boundary conditions and dimensionality. _J. Fluid Mech._ (submitted on January 2023). [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling] 
 
 - Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
 
@@ -146,6 +142,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[HCNuScaling]: HCNuScaling.pdf
 [eigeninit-eigenloss]: eigeninit-eigenloss.pdf
 [StokesDrift]: stokes-drift.pdf
 [occiput-SO]: occiput-SO.pdf
