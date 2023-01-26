@@ -10,6 +10,8 @@ title: Publications
 
 ### Submitted
 
+- Bhagtani, D., Hogg, A. McC., Holmes, R., and **Constantinou, N. C.** (2023) Surface heating steers planetary-scale ocean circulation., _J. Phys. Oceanogr._, (submitted on January 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres] 
+
 - **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023) Nusselt number scaling in horizontal convection: boundary conditions and dimensionality. _J. Fluid Mech._ (submitted on January 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling] 
 
 - Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
@@ -142,6 +144,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[buoyancygyres]: buoyancygyres.pdf
 [HCNuScaling]: HCNuScaling.pdf
 [eigeninit-eigenloss]: eigeninit-eigenloss.pdf
 [StokesDrift]: stokes-drift.pdf
