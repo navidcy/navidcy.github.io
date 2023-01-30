@@ -9,7 +9,7 @@ title: Publications
 
 ### Submitted
 
-- Bhagtani, D., Hogg, A. McC., Holmes, R., and **Constantinou, N. C.** (2023) Surface heating steers planetary-scale ocean circulation., _J. Phys. Oceanogr._, (submitted on January 2023; arXiv:[2301.11474][arXiv:2301.11474]{:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.11474]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres] 
+- Bhagtani, D., Hogg, A. McC., Holmes, R., and **Constantinou, N. C.** (2023) Surface heating steers planetary-scale ocean circulation., _J. Phys. Oceanogr._, (submitted on January 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.11474){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.11474]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres] 
 
 - **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023) Nusselt number scaling in horizontal convection: boundary conditions and dimensionality. _J. Fluid Mech._ (submitted on January 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling] 
 
