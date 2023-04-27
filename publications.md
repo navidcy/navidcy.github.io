@@ -9,7 +9,7 @@ title: Publications
 
 ### Submitted
 
-- Ong, E. Q. Y., Doddridge, E. W., **Constantinou, N. C.**, England, M. H., and Hogg, A. McC. (2023) Episodic Antarctic shelf intrusions of circumpolar deep water via canyons. _J. Phys. Oceanogr._ (submitted on April 2023)  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ascintrusions]
+- Ong, E. Q. Y., Doddridge, E. W., **Constantinou, N. C.**, Hogg, A. McC. and England, M. H. (2023) Episodic Antarctic shelf intrusions of circumpolar deep water via canyons. _J. Phys. Oceanogr._ (submitted on April 2023; doi:[10.48550/arXiv.2304.13225](https://doi.org/10.48550/arXiv.2304.13225){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2304.13225]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ascintrusions]
 
 
 - Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2023) Surface heating steers planetary-scale ocean circulation., _J. Phys. Oceanogr._, (submitted on January 2023; doi:[10.48550/arXiv.2301.11474](https://doi.org/10.48550/arXiv.2301.11474){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.11474]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres]
@@ -234,6 +234,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2212.12086]: http://arxiv.org/abs/2212.12086
 [arXiv:2301.03122]: http://arxiv.org/abs/2301.03122
 [arXiv:2301.11474]: http://arxiv.org/abs/2301.11474
+[arXiv:2304.13225]: http://arxiv.org/abs/2304.13225
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
