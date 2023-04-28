@@ -18,7 +18,7 @@ title: Publications
 - **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023) Nusselt number scaling in horizontal convection: boundary conditions and dimensionality. _J. Fluid Mech._ (submitted on January 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling] 
 
 
-- Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2022) Ocean general circulation models simulate total ocean transport averaged over surface waves. _Geophys. Res. Lett._ (submitted on Oct 2022; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
+- Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023) Stokes drift should not be added to ocean general circulation model velocities. _Geophys. Res. Lett._ (submitted on Oct 2022, revised on Apr 2023; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift] 
 
 
 ### In press/Published
