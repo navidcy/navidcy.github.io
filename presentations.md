@@ -49,6 +49,7 @@ title: Presentations
 
 
 ## Seminars
+- Open-source and reproducibility workflow within the Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA). Pangeo Showcase [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][pangeo-showcase-site]{:target="_blank"}, (via Zoom), 10 May 2023. (**invited talk**)
 
 - “From little things big things grow”: how mesoscale eddies affect the global ocean circulation and climate, Scripps Institution of Oceanography [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, University of California San Diego, La Jolla, California, United States, 12 May 2022. (**invited talk**)
 
@@ -149,6 +150,7 @@ title: Presentations
 [KITP-site]: http://www.kitp.ucsb.edu/
 [CEAFM-site]: http://pages.jh.edu/~ceafm/
 [Scripps-site]: http://scripps.ucsd.edu/
+[pangeo-showcase-site]: https://pangeo.io/pangeo-showcase.html
 [UCY-site]: http://www.ucy.ac.cy/phy/en/
 [OCC-site]: http://www.oceanography.ucy.ac.cy/
 [ISSI-site]: http://www.issibern.ch/teams/zonaljets/
