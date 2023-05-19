@@ -8,6 +8,8 @@ title: Publications
 ## Journal articles
 
 ### Submitted
+- Bennetts, L. G., Shakespeare, C. J., Vreugdenhil, C. A., Foppert, A., Gayen, B., Meyer, A., Morrison, A. K., Padman, L., Phillips, H. E., Stevens, C. L., Toffoli, A., **Constantinou, N. C.**, Cusack, J., Cyriak, A., Doddridge, E. W., Domingues, C. M., England, M. H., Evans, D. G., Heil, P., Hogg, A. McC., Holmes, R. M., Huneke, W. G. C., Jones, N. L., Keating, S. R., Kiss, A. E., Kraitzman, N., Malyarenko, A., McConnochie, C. D., Meucci, A., Montiel, F., Neme, J., Nikurashin, M., Patel, R. S., Peng, J.-P., Rayson, M., Rosevear, M. G., Sohail, T., Spence, P., Stanley, G. J. (2023) Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. _Rev. Geophys._ (submitted on May 2023) <!-- [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][review-multiscale-SO] -->
+
 
 - Ong, E. Q. Y., Doddridge, E. W., **Constantinou, N. C.**, Hogg, A. McC. and England, M. H. (2023) Episodic Antarctic shelf intrusions of circumpolar deep water via canyons. _J. Phys. Oceanogr._ (submitted on April 2023; doi:[10.48550/arXiv.2304.13225](https://doi.org/10.48550/arXiv.2304.13225){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2304.13225]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ascintrusions]
 
@@ -149,6 +151,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[review-multiscale-SO]: review-multiscale-SO.pdf
 [ascintrusions]: asc_canyon_intrusions.pdf
 [buoyancygyres]: buoyancygyres.pdf
 [HCNuScaling]: HCNuScaling.pdf
