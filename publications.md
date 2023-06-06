@@ -8,6 +8,9 @@ title: Publications
 ## Journal articles
 
 ### Submitted
+- Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Ramadhan, A., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2023) CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment.  _J. Adv. Model. Earth Sy._ (submitted on June 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+
+
 - Bennetts, L. G., Shakespeare, C. J., Vreugdenhil, C. A., Foppert, A., Gayen, B., Meyer, A., Morrison, A. K., Padman, L., Phillips, H. E., Stevens, C. L., Toffoli, A., **Constantinou, N. C.**, Cusack, J., Cyriak, A., Doddridge, E. W., Domingues, C. M., England, M. H., Evans, D. G., Heil, P., Hogg, A. McC., Holmes, R. M., Huneke, W. G. C., Jones, N. L., Keating, S. R., Kiss, A. E., Kraitzman, N., Malyarenko, A., McConnochie, C. D., Meucci, A., Montiel, F., Neme, J., Nikurashin, M., Patel, R. S., Peng, J.-P., Rayson, M., Rosevear, M. G., Sohail, T., Spence, P., Stanley, G. J. (2023) Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. _Rev. Geophys._ (submitted on May 2023) <!-- [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][review-multiscale-SO] -->
 
 
@@ -151,6 +154,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 
+[catke-physics]: catke-physics.pdf
 [review-multiscale-SO]: review-multiscale-SO.pdf
 [ascintrusions]: asc_canyon_intrusions.pdf
 [buoyancygyres]: buoyancygyres.pdf
