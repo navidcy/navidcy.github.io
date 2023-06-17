@@ -179,5 +179,5 @@ title: Presentations
 [RSES-site]: https://earthsciences.anu.edu.au
 [ARC2019workshop-site]: https://climateextremes.org.au/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
 [APSDFD20-site]: https://dfd2020chicago.org
-[APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27\
+[APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
 [ALCS23-site]: https://opus.nci.org.au/display/ALCS/ALCS2023
