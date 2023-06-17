@@ -9,6 +9,11 @@ title: Publications
 
 ### Submitted
 
+<!--
+- Strong-Wright, J., Taylor, J. R., Chen, S., Wagner, G. L., and **Constantinou, N. C.**. (2023) OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics.  _J. Open Source Softw._ (submitted on Jun 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+-->
+
+
 - Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Ramadhan, A., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2023) CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment.  _J. Adv. Model. Earth Sy._ (submitted on Jun 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
 
