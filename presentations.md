@@ -7,9 +7,11 @@ title: Presentations
 
 ## Conferences
 
-- Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022, USA. (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-github-video]{:target="_blank"}
+- Oceananigans.jl: breakthrough resolution, memory, and energy efficiency in global ocean simulations. _Australasian Leadership Computing Symposium 2023_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ALCS23-site]{:target="_blank"}, Australian Academy of Sciences, Canberra, Australia, 14-16 Jun. 2023. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ALCS23-oceananigans]
 
-- A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar., 2022, USA. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM22-datadriven] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-datadriven-video]{:target="_blank"}
+- Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, USA, 28 Feb.-4 Mar. 2022. (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-github-video]{:target="_blank"}
+
+- A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Ocean Sciences Meeting 2022_, Virtual, 28 Feb.-4 Mar. 2022, USA. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][OSM22-datadriven] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-datadriven-video]{:target="_blank"}
 
 - A data-driven approach for developing and calibrating a parameterization of the ocean mesoscale eddy fluxes. _Conference on "Machine Learning for Climate"_, KITP, UC Santa Barbara [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][KITP-site]{:target="_blank"}, Santa Barbara CA, USA, 1-4 Nov. 2021. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][KITP21] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][KITP21-video]{:target="_blank"}
 
@@ -95,6 +97,7 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[ALCS23-oceananigans]: ALCS23-Oceananigans.pdf
 [RSES-Mar2021]: RSES-EddiesClimate_Mar2021.pdf
 [RSES-Mar2021-youtube]: https://www.youtube.com/watch?v=PPz8bD-vJmI&list=PLyZME1ti5Gk3RzPpheCQmtA7XUlqNT7LY&index=26
 [Monash_Oct2020]: Monash-ShearTurbulence-Oct2020.pdf
@@ -175,6 +178,6 @@ title: Presentations
 [RSAA-site]: https://rsaa.anu.edu.au
 [RSES-site]: https://earthsciences.anu.edu.au
 [ARC2019workshop-site]: https://climateextremes.org.au/arc-centre-of-excellence-for-climate-extremes-workshop-2019-hobart/
-
 [APSDFD20-site]: https://dfd2020chicago.org
-[APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
+[APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27\
+[ALCS23-site]: https://opus.nci.org.au/display/ALCS/ALCS2023
