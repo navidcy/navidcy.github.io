@@ -19,7 +19,7 @@ I am interested on how the ocean responds to climate-change forcing at different
 
 Climate models cannot resolve all length scales of oceanic fluid motions and, therefore, they rely on parametrizing the collective effect the small-scale unresolved motions have on the larger scales that the models resolve. Understanding the underlying dynamics is crucial for developing and improving these parametrizations. I've been investigating the role that the [intrinsic ocean dynamics][intrinsic-ocean-var-paper]{:target="_blank"} (i.e., mesoscale flows and smaller; typically unresolved by coupled climate models) have shaping the  large-scale ocean flow at decadal time scales and the effect that these then have on feed back back to the atmosphere via air-sea interactions.
 
-In an attempt to bridge the [gap between theory and simulation in climate science][BAMS-Held-paper]{:target="_blank"}, my work has been focusing on probing the dynamics by which the ocean mesoscale eddies and bathymetric features interact with large-scale currents, like the ACC. I emphasize on understanding using theoretical tools aided with a series of conceptual models of increasing complexity, for example, [quasi-geostrophic turbulence on a beta plane][topo-1layer-paper]{:target="_blank"} or [a primitive equations-model with modest stratification in a channel][eddysaturation-BC-BT-paper]{:target="_blank"}.s
+In an attempt to bridge the [gap between theory and simulation in climate science][BAMS-Held-paper]{:target="_blank"}, my work has been focusing on probing the dynamics by which the ocean mesoscale eddies and bathymetric features interact with large-scale currents, like the ACC. I emphasize on understanding using theoretical tools aided with a series of conceptual models of increasing complexity, for example, [quasi-geostrophic turbulence on a beta plane][topo-1layer-paper]{:target="_blank"} or [a primitive equations-model with modest stratification in a channel][eddysaturation-BC-BT-paper]{:target="_blank"}.
 
 
 
@@ -43,7 +43,7 @@ Climate is the statistics of the weather; as such, one often identifies climate 
 
 Despite the effect that mesoscale eddies have in climate, the lateral resolution needed for climate models to resolve mesoscale motions is restrictive for climate projection. Climate projections require climate model runs of hundreds of years. Therefore, climate projections rely on parametrizations. The development of novel parametrizations or the improvement of those currently implemented in climate models relies on a better understanding of the underlying dynamics. Currently, I'm developing a novel parametrization for the ocean's mesoscale eddy fluxes using data-driven methods and machine learning algorithms.
 
-On 2021, I was awarded a Discovery Early Career Research Award from the Australian Research Council to work on a novel parametrization for the ocean mesoscale using machine learning and data-driven methods. I am using output from eddy-resolving ocean model and physics-informed machine learning techniques to develop better eddy parametrization. Towards this goal, I am actively involved with the ocean modeling team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, in developing new [software](../software) tools that enable seamless interaction between ocean modeling software and machine learning tools. We are currently using these tools to develop and calibrate parametrizations for the mesoscale fluxes and the ocean's surface boundary layer.
+On 2021, I was awarded a Discovery Early Career Research Award from the Australian Research Council to work on a novel parametrization for the ocean mesoscale using machine learning and data-driven methods. I am using output from eddy-resolving ocean model and physics-informed machine learning techniques to develop better eddy parametrization. Towards this goal, I am actively involved with the ocean modeling team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, in developing new [software](../software) tools that enable seamless interaction between ocean modeling software and machine learning tools. We are currently using these tools to develop and calibrate parametrizations for the mesoscale fluxes and the [ocean's surface boundary layer][catke-physics-paper].
 
 Read more about how machine learning can enhance the accuracy of climate and ocean models in
 [The Conversation](https://theconversation.com/how-machine-lbearning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"}.
@@ -63,14 +63,13 @@ With my collaborator [Jeffrey Parker][jeffsite]{:target="_blank"}, we studied ho
 
 <div style="width:450 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/boundarylayer.png" alt="Jupiter by Hubble; August 2019" width="450" style="padding-bottom:0.5em;" /><br/>Credit: A. Lozano-Durán</div>
 
-
 With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and others), we have been studying the [dynamics of very-large-scale roll--streak motions][vlsm-poiseuille-paper]{:target="_blank"} in three-dimensional flows in regions away from boundaries. The mechanism by which energy feeds from the large-scale motions back to the turbulent fluctuations, thus closing the loop in the self-sustained regeneration cycle of turbulence, remains outstanding. In an attempt to resolve the enigma, we recently demonstrated that the modal instabilities of the streaky coherent structures [are *not* the main players involved in this energy transfer][ModallyStableTurb-paper]{:target="_blank"}.
 
 
-
-[jeffsite]: https://jeffreybparker.com
-[adriansite]: https://sites.google.com/view/adrianlozanoduran/
+[jeffsite]: https://scholar.google.com/citations?user=_w6i1bEAAAAJ&hl=en
+[adriansite]: https://aeroastro.mit.edu/people/adrian-lozano-duran/
 [stabilitywiki]: https://en.wikipedia.org/wiki/Hydrodynamic_stability
+[catke-physics-paper]: ../publications/catke-physics.pdf
 [magneticviscosity-paper]: ../publications/magneticviscosity-2019.pdf
 [magneticZF-paper]: ../publications/magneticZF-2018.pdf
 [ModallyStableTurb-paper]: ../publications/ModallyStableTurb.pdf
