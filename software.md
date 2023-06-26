@@ -16,6 +16,8 @@ A few open-source software packages I'm currently involved in their development 
 
 - <tt>Oceananigans.jl</tt>: Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs. [repository][oceananigans-repo]{:target="_blank"}, [documentation][oceananigans-docs]{:target="_blank"}
 
+- <tt>OceanBioME.jl</tt>: A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics. [repository][oceanbiome-repo]{:target="_blank"}, [documentation][oceanbiome-docs]{:target="_blank"}
+
 - <tt>ParameterEstimocean.jl</tt>: Julia software for calibration of ocean turbulence parameterizations using Ensemble Kalman Inversion. [repository][parameterestimocean-repo]{:target="_blank"}, [documentation][parameterestimocean-docs]{:target="_blank"}
 
 - <tt>FourierFlows.jl</tt>: Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains on CPUs and GPUs. [repository][fourierflows-repo]{:target="_blank"}, [documentation][fourierflows-docs]{:target="_blank"}
@@ -31,10 +33,12 @@ A few open-source software packages I'm currently involved in their development 
 [geophysicalflows-repo]: https://www.github.com/FourierFlows/GeophysicalFlows.jl
 [oceananigans-repo]: https://www.github.com/CliMA/Oceananigans.jl
 [parameterestimocean-repo]: https://www.github.com/CliMA/ParameterEstimocean.jl
+[oceanbiome]: https://github.com/OceanBioME/OceanBioME.jl
 
 [fourierflows-docs]: https://fourierflows.github.io/FourierFlowsDocumentation/stable/
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [oceananigans-docs]: https://clima.github.io/OceananigansDocumentation/stable/
 [parameterestimocean-docs]: https://clima.github.io/ParameterEstimocean.jl/dev/
+[oceanbiome-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
 
 [github-osm-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w

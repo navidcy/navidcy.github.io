@@ -7,12 +7,12 @@ title: Publications
 
 ## Journal articles
 
-### Submitted
+### Submitted/In review
 
-<!-- - Strong-Wright, J., Chen, S., **Constantinou, N. C.**, Silvestri, S., Wagner, G. L., and Taylor, J. R. (2023). OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics.  _J. Open Source Softw._ (submitted on Jun 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceanbiome] -->
+<!-- - Strong-Wright, J., Chen, S., **Constantinou, N. C.**, Silvestri, S., Wagner, G. L., and Taylor, J. R. (2023). OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics.  _J. Open Source Softw._ (submitted on Jun 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][OceanBioME-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][OceanBioME-docs]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][OceanBioME-JOSS-review]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceanbiome] -->
 
 
-- Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Ramadhan, A., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2023). CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+- Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Ramadhan, A., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2023). CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
 
 - Bennetts, L. G., Shakespeare, C. J., Vreugdenhil, C. A., Foppert, A., Gayen, B., Meyer, A., Morrison, A. K., Padman, L., Phillips, H. E., Stevens, C. L., Toffoli, A., **Constantinou, N. C.**, Cusack, J., Cyriak, A., Doddridge, E. W., Domingues, C. M., England, M. H., Evans, D. G., Heil, P., Hogg, A. McC., Holmes, R. M., Huneke, W. G. C., Jones, N. L., Keating, S. R., Kiss, A. E., Kraitzman, N., Malyarenko, A., McConnochie, C. D., Meucci, A., Montiel, F., Neme, J., Nikurashin, M., Patel, R. S., Peng, J.-P., Rayson, M., Rosevear, M. G., Sohail, T., Spence, P., Stanley, G. J. (2023). Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. _Rev. Geophys._ (submitted on May 2023) <!-- [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][review-multiscale-SO] -->
@@ -157,7 +157,11 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-repo]: https://github.com/FourierFlows/GeophysicalFlows.jl
 [GeophysicalFlows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
+[OceanBioME-repo]: https://github.com/OceanBioME/OceanBioME.jl
+[OceanBioME-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
+[OceanBioME-JOSS-review]: 
 
+[oceanbiome]: oceanbiome.pdf
 [catke-physics]: catke-physics.pdf
 [review-multiscale-SO]: review-multiscale-SO.pdf
 [ascintrusions]: asc_canyon_intrusions.pdf
@@ -246,6 +250,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2301.03122]: http://arxiv.org/abs/2301.03122
 [arXiv:2301.11474]: http://arxiv.org/abs/2301.11474
 [arXiv:2304.13225]: http://arxiv.org/abs/2304.13225
+[arXiv:2306.13204]: http://arxiv.org/abs/2306.13204
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
