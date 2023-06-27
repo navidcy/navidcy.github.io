@@ -159,7 +159,6 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [GeophysicalFlows-JOSS-review]: https://joss.theoj.org/papers/a8cdf26beae8bcecc751ab4ded53b308
 [OceanBioME-repo]: https://github.com/OceanBioME/OceanBioME.jl
 [OceanBioME-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
-[OceanBioME-JOSS-review]: 
 
 [oceanbiome]: oceanbiome.pdf
 [catke-physics]: catke-physics.pdf
