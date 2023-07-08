@@ -15,22 +15,27 @@ I enjoy coding in [Julia][julia-website]{:target="_blank"} [<img src="/img/julia
 A few open-source software packages I'm currently involved in their development are:
 
 - <tt>Oceananigans.jl</tt><br/>
+  [https://github.com/CliMA/Oceananigans.jl][oceananigans-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceananigans-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceananigans-docs]{:target="_blank"} <br/>
   Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs.
 
 - <tt>OceanBioME.jl</tt><br/>
+  [https://github.com/OceanBioME/OceanBioME.jl][oceanbiome-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceanbiome-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceanbiome-docs]{:target="_blank"} <br/>
   A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics.
 
 - <tt>ParameterEstimocean.jl</tt><br/>
+  [https://github.com/CliMA/ParameterEstimocean.jl][parameterestimocean-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][parameterestimocean-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][parameterestimocean-docs]{:target="_blank"} <br/>
   Julia software for calibration of ocean turbulence parameterizations using Ensemble Kalman Inversion.
 
 - <tt>FourierFlows.jl</tt><br/>
+  [https://github.com/FourierFlows/FourierFlows.jl][fourierflows-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][fourierflows-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][fourierflows-docs]{:target="_blank"} <br/>
   Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains on CPUs and GPUs.
 
 - <tt>GeophysicalFlows.jl</tt><br/>
+  [https://github.com/FourierFlows/GeophysicalFlows.jl][geophysicalflows-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][geophysicalflows-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][geophysicalflows-docs]{:target="_blank"} <br/>
   Geophysical fluid dynamics pseudospectral solvers with Julia and FourierFlows.jl on CPUs and GPUs.
 
