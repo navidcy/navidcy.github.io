@@ -51,7 +51,8 @@ title: Presentations
 
 
 ## Seminars
-- Open-source and reproducibility workflow within the Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA). Pangeo Showcase [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][pangeo-showcase-site]{:target="_blank"}, (via Zoom), 10 May 2023. (**invited talk**)
+
+- Open-source and reproducibility workflow within the Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA). Pangeo Showcase [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][pangeo-showcase-site]{:target="_blank"}, (via Zoom), 10 May 2023. doi:[10.5281/zenodo.8109041](https://doi.org/10.5281/zenodo.8109041) (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.5281/zenodo.8109041){:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][pangeo-showcase-youtube]{:target="_blank"}
 
 - “From little things big things grow”: how mesoscale eddies affect the global ocean circulation and climate, Scripps Institution of Oceanography [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Scripps-site]{:target="_blank"}, University of California San Diego, La Jolla, California, United States, 12 May 2022. (**invited talk**)
 
@@ -97,6 +98,7 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[pangeo-showcase-youtube]: https://youtu.be/48A9_AxbvUg
 [ALCS23-oceananigans]: ALCS23-Oceananigans.pdf
 [RSES-Mar2021]: RSES-EddiesClimate_Mar2021.pdf
 [RSES-Mar2021-youtube]: https://www.youtube.com/watch?v=PPz8bD-vJmI&list=PLyZME1ti5Gk3RzPpheCQmtA7XUlqNT7LY&index=26
