@@ -29,7 +29,8 @@ title: Publications
 
 ### In press/Published
 
-- Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2023). Surface heating steers planetary-scale ocean circulation. _J. Phys. Oceanogr._, (accepted on July 2023; doi:[10.48550/arXiv.2301.11474](https://doi.org/10.48550/arXiv.2301.11474){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.11474]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres]
+- Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2023). Surface heating steers planetary-scale ocean circulation. _J. Phys. Oceanogr._, (in press; doi:[10.1175/JPO-D-23-0016.1](https://doi.org/10.1175/JPO-D-23-0016.1){:target="_blank"}) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][buoyancygyres-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][buoyancygyres] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-23-0016.1"></span>
+
 
 
 - Hogg, A. McC., Penduff, T., Close, S. E., Dewar, W. K., **Constantinou, N. C.**, and Martínez-Moreno, J. (2022). Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics. _J. Geophys. Res.-Oceans_, **127**, e2022JC018440. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][occiput-SO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][occiput-SO] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2022JC018440"></span>
@@ -195,6 +196,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
+[buoyancygyres-doi]: https://doi.org/10.1175/JPO-D-23-0016.1
 [occiput-SO-doi]: https://doi.org/10.1029/2022JC018440
 [modallystableturbulence-doi]: https://doi.org/10.48550/arXiv.1909.05490
 [eigeninit-eigenloss-doi]: https://doi.org/10.48550/arXiv.2212.12086
