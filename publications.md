@@ -9,6 +9,8 @@ title: Publications
 
 ### Submitted/In review
 
+<!-- - Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity, extensibility and composability.  _J. Open Source Softw._ (submitted on Oct 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][SpeedyWeather-JOSS-review]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather] -->
+
 - Strong-Wright, J., Chen, S., **Constantinou, N. C.**, Silvestri, S., Wagner, G. L., and Taylor, J. R. (2023). OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics.  _J. Open Source Softw._ (submitted on Jun 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][OceanBioME-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][OceanBioME-docs]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][OceanBioME-JOSS-review]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceanbiome]
 
 
@@ -128,6 +130,9 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
+- Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A model that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
+
+
 - Miller, J. W., O'Neil, C., **Constantinou, N. C.**, and Anzecot, O. (2022). Eigenvalue initialisation and regularisation for Koopman autoencoders. [arXiv:2212.12086][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][eigeninit-eigenloss-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eigeninit-eigenloss]
 
 
@@ -161,13 +166,18 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [OceanBioME-repo]: https://github.com/OceanBioME/OceanBioME.jl
 [OceanBioME-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
 [OceanBioME-JOSS-review]: https://joss.theoj.org/papers/f991f4a8f0fc5ab1aba3dd1ac51f20bd
+[SpeedyWeather-repo]: https://github.com/SpeedyWeather/SpeedyWeather.jl
+[SpeedyWeather-docs]: https://speedyweather.github.io/SpeedyWeather.jl/stable/
+[SpeedyWeather-JOSS-review]: https://joss.theoj.org/papers/f991f4a8f0fc5ab1aba3dd1ac51f20bd
 
+[speedyweather]: speedyweather.pdf
 [oceanbiome]: oceanbiome.pdf
 [catke-physics]: catke-physics.pdf
 [review-multiscale-SO]: review-multiscale-SO.pdf
 [ascintrusions]: asc_canyon_intrusions.pdf
 [buoyancygyres]: buoyancygyres.pdf
 [HCNuScaling]: HCNuScaling.pdf
+[oceananigans-scalings]: oceananigans-scalings.pdf
 [eigeninit-eigenloss]: eigeninit-eigenloss.pdf
 [StokesDrift]: stokes-drift.pdf
 [occiput-SO]: occiput-SO.pdf
@@ -199,6 +209,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [buoyancygyres-doi]: https://doi.org/10.1175/JPO-D-23-0016.1
 [occiput-SO-doi]: https://doi.org/10.1029/2022JC018440
 [modallystableturbulence-doi]: https://doi.org/10.48550/arXiv.1909.05490
+[oceananigans-scalings-doi]: https://doi.org/10.48550/arXiv.2309.06662
 [eigeninit-eigenloss-doi]: https://doi.org/10.48550/arXiv.2212.12086
 [objectdrift-doi]: https://doi.org/10.1175/JPO-D-20-0275.1
 [intrinsic-ocean-var-doi]: https://doi.org/10.1175/JCLI-D-20-0962.1
@@ -253,6 +264,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2301.11474]: http://arxiv.org/abs/2301.11474
 [arXiv:2304.13225]: http://arxiv.org/abs/2304.13225
 [arXiv:2306.13204]: http://arxiv.org/abs/2306.13204
+[arXiv:2309.06662]: http://arxiv.org/abs/2309.06662
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
