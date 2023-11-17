@@ -10,11 +10,13 @@ title: Publications
 ### Submitted/In review
 
 <!--
-0. Silvestri, S., Wagner, G. L., Campin, J.-M., **Constantinou, N. C.**, Hill, C., Souza, A., and Ferrari, R. (2023). A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence. _J. Adv. Model. Earth Sy._ (submitted on Oct 2023; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2023). Unravelling wind and buoyancy control of Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Dec 2023; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
 
 0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and composability.  _J. Open Source Softw._ (submitted on Nov 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather]
 -->
+
+0. Silvestri, S., Wagner, G. L., Campin, J.-M., **Constantinou, N. C.**, Hill, C., Souza, A., and Ferrari, R. (2023). A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence. _J. Adv. Model. Earth Sy._ (submitted on Nov 2023) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][weno-advection]
 
 
 0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2023). Topographically-generated near-internal waves as a response to winds over the ocean surface. _J. Phys. Oceanogr._ (submitted on Nov 2023; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
@@ -179,6 +181,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [SpeedyWeather-docs]: https://speedyweather.github.io/SpeedyWeather.jl/stable/
 [SpeedyWeather-JOSS-review]: https://joss.theoj.org/papers/f991f4a8f0fc5ab1aba3dd1ac51f20bd
 
+[weno-advection]: weno-advection.pdf
 [topographic-NIWs]: topographic-NIWs.pdf
 [speedyweather]: speedyweather.pdf
 [oceanbiome]: oceanbiome.pdf
