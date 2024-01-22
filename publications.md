@@ -9,11 +9,12 @@ title: Publications
 
 ### Submitted/In review
 
+
 <!--
-0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2023). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Dec 2023; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
 -->
 
-1. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._ (submitted on Dec 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][SpeedyWeather-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather]
+0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._ (submitted on Dec 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][SpeedyWeather-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather]
 
 
 0. Silvestri, S., Wagner, G. L., Campin, J.-M., **Constantinou, N. C.**, Hill, C., Souza, A., and Ferrari, R. (2023). A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence. _J. Adv. Model. Earth Sy._ (submitted on Nov 2023; doi:[10.22541/essoar.170110657.76489860/v1](https://doi.org/10.22541/essoar.170110657.76489860/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.170110657.76489860/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][weno-ILES]
@@ -181,6 +182,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [SpeedyWeather-docs]: https://speedyweather.github.io/SpeedyWeather.jl/stable/
 [SpeedyWeather-JOSS-review]: https://joss.theoj.org/papers/515c81a4d6a69e31cc71ded65ac9c36a
 
+[atlanticMHT]: atlanticMHT.pdf
 [weno-ILES]: weno-ILES.pdf
 [topographic-NIWs]: topographic-NIWs.pdf
 [speedyweather]: speedyweather.pdf
