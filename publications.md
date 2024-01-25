@@ -10,9 +10,8 @@ title: Publications
 ### Submitted/In review
 
 
-<!--
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
--->
+
 
 0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._ (submitted on Dec 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][SpeedyWeather-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather]
 
@@ -124,6 +123,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 ## Conference articles
 
 0. **Constantinou, N. C.**, Ioannou, P. J., and Bakas, N. A. (2016). Structure and stability of low amplitude jet equilibria in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 369-375, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_eckhaus-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_eckhaus]
+
 
 0. Bakas, N. A., **Constantinou, N. C.**, and Ioannou, P. J. (2016). On the dynamics underlying the emergence of coherent structures in barotropic turbulence. In Karacostas, T., Bais, A. and Nastos, T. P. (eds.) _Perspectives on Atmospheric Sciences_, 361-367, Springer International Publishing. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][comecap2016-s3t_stab-doi]{:target="_blank"}
  [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][comecap2016-s3t_stab]
