@@ -10,7 +10,7 @@ title: Publications
 ### Submitted/In review
 
 
-0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
 
 
 0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2023). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._ (submitted on Dec 2023) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][SpeedyWeather-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather]
@@ -259,29 +259,30 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [phd_eng]: ../theses/PhD_thesis_Navid.pdf
 
 
-[arXiv:1503.07644]: http://arxiv.org/abs/1503.07644
-[arXiv:1512.06018]: http://arxiv.org/abs/1512.06018
-[arXiv:1612.03374]: http://arxiv.org/abs/1612.03374
-[arXiv:1703.06594]: http://arxiv.org/abs/1703.06594
-[arXiv:1708.03031]: http://arxiv.org/abs/1708.03031
-[arXiv:1805.09847]: http://arxiv.org/abs/1805.09847
-[arXiv:1902.01105]: http://arxiv.org/abs/1902.01105
-[arXiv:1906.01929]: http://arxiv.org/abs/1906.01929
-[arXiv:1906.08442]: http://arxiv.org/abs/1906.08442
-[arXiv:1909.05490]: http://arxiv.org/abs/1909.05490
-[arXiv:1912.05229]: http://arxiv.org/abs/1912.05229
-[arXiv:1912.07532]: http://arxiv.org/abs/1912.07532
-[arXiv:2005.05303]: http://arxiv.org/abs/2005.05303
-[arXiv:2012.08025]: http://arxiv.org/abs/2012.08025
-[arXiv:2201.12688]: http://arxiv.org/abs/2201.12688
-[arXiv:2210.08552]: http://arxiv.org/abs/2210.08552
-[arXiv:2212.12086]: http://arxiv.org/abs/2212.12086
-[arXiv:2301.03122]: http://arxiv.org/abs/2301.03122
-[arXiv:2301.11474]: http://arxiv.org/abs/2301.11474
-[arXiv:2304.13225]: http://arxiv.org/abs/2304.13225
-[arXiv:2306.13204]: http://arxiv.org/abs/2306.13204
-[arXiv:2309.06662]: http://arxiv.org/abs/2309.06662
+[arXiv:1503.07644]: https://arxiv.org/abs/1503.07644
+[arXiv:1512.06018]: https://arxiv.org/abs/1512.06018
+[arXiv:1612.03374]: https://arxiv.org/abs/1612.03374
+[arXiv:1703.06594]: https://arxiv.org/abs/1703.06594
+[arXiv:1708.03031]: https://arxiv.org/abs/1708.03031
+[arXiv:1805.09847]: https://arxiv.org/abs/1805.09847
+[arXiv:1902.01105]: https://arxiv.org/abs/1902.01105
+[arXiv:1906.01929]: https://arxiv.org/abs/1906.01929
+[arXiv:1906.08442]: https://arxiv.org/abs/1906.08442
+[arXiv:1909.05490]: https://arxiv.org/abs/1909.05490
+[arXiv:1912.05229]: https://arxiv.org/abs/1912.05229
+[arXiv:1912.07532]: https://arxiv.org/abs/1912.07532
+[arXiv:2005.05303]: https://arxiv.org/abs/2005.05303
+[arXiv:2012.08025]: https://arxiv.org/abs/2012.08025
+[arXiv:2201.12688]: https://arxiv.org/abs/2201.12688
+[arXiv:2210.08552]: https://arxiv.org/abs/2210.08552
+[arXiv:2212.12086]: https://arxiv.org/abs/2212.12086
+[arXiv:2301.03122]: https://arxiv.org/abs/2301.03122
+[arXiv:2301.11474]: https://arxiv.org/abs/2301.11474
+[arXiv:2304.13225]: https://arxiv.org/abs/2304.13225
+[arXiv:2306.13204]: https://arxiv.org/abs/2306.13204
+[arXiv:2309.06662]: https://arxiv.org/abs/2309.06662
 [arXiv:2311.02275]: https://arxiv.org/abs/2311.02275
+[arXiv:2401.14230]: https://arxiv.org/abs/2401.14230
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
