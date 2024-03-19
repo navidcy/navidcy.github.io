@@ -28,9 +28,6 @@ title: Publications
 0. Bennetts, L. G., Shakespeare, C. J., Vreugdenhil, C. A., Foppert, A., Gayen, B., Meyer, A., Morrison, A. K., Padman, L., Phillips, H. E., Stevens, C. L., Toffoli, A., **Constantinou, N. C.**, Cusack, J., Cyriak, A., Doddridge, E. W., Domingues, C. M., England, M. H., Evans, D. G., Heil, P., Hogg, A. McC., Holmes, R. M., Huneke, W. G. C., Jones, N. L., Keating, S. R., Kiss, A. E., Kraitzman, N., Malyarenko, A., McConnochie, C. D., Meucci, A., Montiel, F., Neme, J., Nikurashin, M., Patel, R. S., Peng, J.-P., Rayson, M., Rosevear, M. G., Sohail, T., Spence, P., Stanley, G. J. (2023). Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. _Rev. Geophys._ (submitted on May 2023; doi:[10.22541/essoar.168882017.73914213/v1](https://doi.org/10.22541/essoar.168882017.73914213/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://essopenarchive.org/users/521305/articles/651899-closing-the-loops-on-southern-ocean-dynamics-from-the-circumpolar-current-to-ice-shelves-and-from-bottom-mixing-to-surface-waves){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][review-multiscale-SO]
 
 
-0. Ong, E. Q. Y., Doddridge, E. W., **Constantinou, N. C.**, Hogg, A. McC. and England, M. H. (2023). Episodic Antarctic shelf intrusions of circumpolar deep water via canyons. _J. Phys. Oceanogr._ (submitted on Apr 2023; revised Oct 2023 and on Feb 2024; doi:[10.48550/arXiv.2304.13225](https://doi.org/10.48550/arXiv.2304.13225){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2304.13225]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ascintrusions]
-
-
 0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on Jan 2023, revised on Jun 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
 
 
@@ -39,6 +36,9 @@ title: Publications
 
 
 ### In press/Published
+
+0. Ong, E. Q. Y., Doddridge, E. W., **Constantinou, N. C.**, Hogg, A. McC. and England, M. H. (2024). Episodic Antarctic shelf intrusions of circumpolar deep water via canyons. _J. Phys. Oceanogr._ (in press; doi:[10.1175/JPO-D-23-0067.1](https://doi.org/10.1175/JPO-D-23-0067.1){:target="_blank"}). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ascintrusions-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ascintrusions] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-23-0067.1"></span><br/>
+
 
 0. Strong-Wright, J., Chen, S., **Constantinou, N. C.**, Silvestri, S., Wagner, G. L., and Taylor, J. R. (2023). OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics.  _J. Open Source Softw._, **8(90)**, 5669. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][OceanBioME-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][OceanBioME-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceanbiome-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceanbiome] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.05669"></span><br/>
 
@@ -221,6 +221,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
+[ascintrusions-doi]: https://doi.org/10.1175/JPO-D-23-0067.1
 [oceanbiome-doi]: https://doi.org/10.21105/joss.05669
 [buoyancygyres-doi]: https://doi.org/10.1175/JPO-D-23-0016.1
 [occiput-SO-doi]: https://doi.org/10.1029/2022JC018440
