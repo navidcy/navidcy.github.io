@@ -13,7 +13,7 @@ title: Publications
 mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024; doi:[10.22541/essoar.170110657.76489860/v2](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][weno-ILES] -->
 
 
-0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reily, C., and  Bhagtani, D. (2024) regional-mom6: A Python package for Automatic generation of regional configurations for the Modular Ocean Model v6, _J. Open Source Softw._  (submitted on Apr 2024) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6]
+0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, C., and  Bhagtani, D. (2024) regional-mom6: A Python package for Automatic generation of regional configurations for the Modular Ocean Model v6, _J. Open Source Softw._ (submitted on Apr 2024) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][regional-mom6-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6]
 
 
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
@@ -189,6 +189,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [SpeedyWeather-JOSS-review]: https://joss.theoj.org/papers/515c81a4d6a69e31cc71ded65ac9c36a
 [regional-mom6-repo]: https://github.com/COSIMA/regional-mom6.jl
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
+[regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
 [regional-mom6]: regional-mom6.pdf
 [atlanticMHT]: atlanticMHT.pdf
