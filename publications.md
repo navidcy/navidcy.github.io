@@ -9,8 +9,8 @@ title: Publications
 
 ### Submitted/In review
 
-<!-- 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2024). A GPU-based ocean dynamical core for routine
-mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024; doi:[10.22541/essoar.170110657.76489860/v2](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][weno-ILES] -->
+0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2024). A GPU-based ocean dynamical core for routine
+mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024) <!--; doi:[10.22541/essoar.170110657.76489860/v2](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.170110657.76489860/v2){:target="_blank"}--> [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu]
 
 
 0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., and  Bhagtani, D. (2024) regional-mom6: A Python package for Automatic generation of regional configurations for the Modular Ocean Model v6, _J. Open Source Softw._ (submitted on Apr 2024) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">open review</span>][regional-mom6-JOSS-review]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6]
@@ -191,6 +191,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+[mesoscale-gpu]: mesoscale-gpu.pdf
 [regional-mom6]: regional-mom6.pdf
 [atlanticMHT]: atlanticMHT.pdf
 [weno-ILES]: weno-ILES.pdf
