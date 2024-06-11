@@ -7,6 +7,8 @@ title: Presentations
 
 ## Conferences
 
+- Oceananigans: an ocean-flavoured fluid dynamics library. _JuliaCon 2024_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][juliacon2024-site]{:target="_blank"}, Philips Stadion, Eindhoven, Netherlands, 9-13 Jul. 2024. (talk)
+
 - Oceananigans.jl: breakthrough resolution, memory, and energy efficiency in global ocean simulations. _Australasian Leadership Computing Symposium 2023_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ALCS23-site]{:target="_blank"}, Australian Academy of Sciences, Canberra, Australia, 14-16 Jun. 2023. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ALCS23-oceananigans]
 
 - Open-source, reproducible workflow in physical oceanography and geophysical fluid dynamics. _Ocean Sciences Meeting 2022_, Virtual, USA, 28 Feb.-4 Mar. 2022. (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][OSM22-github-video]{:target="_blank"}
@@ -186,4 +188,5 @@ title: Presentations
 [APSDFD20-site]: https://dfd2020chicago.org
 [APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
 [ALCS23-site]: https://opus.nci.org.au/display/ALCS/ALCS2023
+[juliacon2024-site]: https://juliacon.org/2024/
 [sgeas-site]: https://sgeas.unimelb.edu.au
