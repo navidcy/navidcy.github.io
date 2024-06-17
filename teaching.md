@@ -4,9 +4,21 @@ title: Teaching
 #subtitle:
 ---
 
+### Modern and Future Climate (Course Coordinator)
+#### [3rd year Undergraduate ATOC30006]
+##### School of Geography, Earth and Atmospheric Sciences, University of Melbourne
+##### Semester 2
+##### 2024
+
+Syllabus: Examination of the key processes that maintain our present climate and how these may change into the future with climate change. We examine this by studying the controlling mechanisms for key conserved quantities in the Earth System such as energy, moisture, angular momentum and key trace gases.
+
+The subject also introduces the various techniques used for climate predictions globally and locally. These include the modelling of climate change and the use of emission scenarios. Interpretation and statistical analysis of future-climate scenarios and the use of ensemble simulations.
+
+[University Handbook][atoc30006-handbook]{:target="_blank"}
+
 
 ### Computational Geosciences (Course Co-Convener along w/ [Louis Moresi](http://www.moresi.info))
-#### [Undergraduate/Honors EMSC4033; Masters EMSC8033]
+#### [Undergraduate/Honours EMSC4033; Masters EMSC8033]
 ##### Research School of Earth Sciences, Australian National University
 ##### Semester 1
 ##### 2021 - to date
@@ -100,7 +112,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
 
-
+[atoc30006-handbook]: https://handbook.unimelb.edu.au/2024/subjects/atoc30006/print
 [clexwinterschool2020]: https://climateextremes.org.au/clex-virtual-winter-school-2020/
 [clexwinterschool2021]: https://climateextremes.org.au/winter-school-2021-atmosphere-and-ocean-dynamics/
 [clexwinterschool2020repo]: https://github.com/navidcy/CLExWinterSchool2020
