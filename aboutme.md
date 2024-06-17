@@ -21,7 +21,8 @@ On May 2018, I moved down under at the [Australian National University][anu-site
 [ARC Centre of Excellence for Climate Extremes][arc-site] as a Research Fellow
 working mainly with [Andy Hogg][andy-site].
 After that, on 2021 I transitioned to a [Discovery Early Career Researcher Award][decra2021] Research Fellow working on ocean eddy parametrizations and also heavily involved in [ocean model development][oceananigans-repo] in collaboration with the [Climate Modelling Alliance][clima-site].
-Since June 2024 I am a Senior Lecturer at the [School of Geography, Earth and Atmospheric Sciences][sgseas-site] at the [University of Melbourne][unimelb-site].
+
+Since June 2024, I am a [Senior Lecturer](https://findanexpert.unimelb.edu.au/profile/1064377-navid-constantinou) at the [School of Geography, Earth and Atmospheric Sciences][sgseas-site] at the [University of Melbourne][unimelb-site] and also chief investigator at the [ARC Centre of Excellence for the Weather of the 21st Century](https://www.21centuryweather.org.au).
 
 Besides research I enjoy surfing 🏄🏽, biking 🚲, horse riding 🐎, dancing 💃🏼, and photography 📷.
 I also like telling stories (science-related or not) and I am an avid story listener.
