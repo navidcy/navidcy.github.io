@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conferences
 
-- Oceananigans: an ocean-flavoured fluid dynamics library. _JuliaCon 2024_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][juliacon2024-site]{:target="_blank"}, Philips Stadion, Eindhoven, Netherlands, 9-13 Jul. 2024. (talk)
+- Oceananigans: an ocean-flavoured fluid dynamics library. _JuliaCon 2024_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][juliacon2024-site]{:target="_blank"}, Philips Stadion, Eindhoven, Netherlands, 9-13 Jul. 2024. ([talk](https://pretalx.com/juliacon2024/talk/BYQWXK/))
 
 - Oceananigans.jl: breakthrough resolution, memory, and energy efficiency in global ocean simulations. _Australasian Leadership Computing Symposium 2023_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ALCS23-site]{:target="_blank"}, Australian Academy of Sciences, Canberra, Australia, 14-16 Jun. 2023. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ALCS23-oceananigans]
 
