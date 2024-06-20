@@ -9,6 +9,9 @@ title: Publications
 
 ### Submitted/In review
 
+0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2024). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023, revised on Jun 2024; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+
+
 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2024). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024; doi:[10.22541/essoar.171708158.82342448/v1](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore]
 
 
@@ -19,9 +22,6 @@ title: Publications
 
 
 0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2023). Topographically-generated near-internal waves as a response to winds over the ocean surface. _J. Phys. Oceanogr._ (submitted on Nov 2023; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
-
-
-0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Ramadhan, A., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2023). CATKE: a turbulent-kinetic-energy-based parameterization for ocean microturbulence with dynamic convective adjustment. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
 
 0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on Jan 2023, revised on Jun 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
