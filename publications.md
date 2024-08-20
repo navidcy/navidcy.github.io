@@ -186,7 +186,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [SpeedyWeather-repo]: https://github.com/SpeedyWeather/SpeedyWeather.jl
 [SpeedyWeather-docs]: https://speedyweather.github.io/SpeedyWeather.jl/stable/
 [SpeedyWeather-JOSS-review]: https://joss.theoj.org/papers/515c81a4d6a69e31cc71ded65ac9c36a
-[regional-mom6-repo]: https://github.com/COSIMA/regional-mom6.jl
+[regional-mom6-repo]: https://github.com/COSIMA/regional-mom6
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
