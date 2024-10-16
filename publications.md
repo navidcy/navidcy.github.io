@@ -37,6 +37,7 @@ title: Publications
 
 
 0. Bennetts, L. G., Shakespeare, C. J., Vreugdenhil, C. A., Foppert, A., Gayen, B., Meyer, A., Morrison, A. K., Padman, L., Phillips, H. E., Stevens, C. L., Toffoli, A., **Constantinou, N. C.**, Cusack, J., Cyriak, A., Doddridge, E. W., Domingues, C. M., England, M. H., Evans, D. G., Heil, P., Hogg, A. McC., Holmes, R. M., Huneke, W. G. C., Jones, N. L., Keating, S. R., Kiss, A. E., Kraitzman, N., Malyarenko, A., McConnochie, C. D., Meucci, A., Montiel, F., Neme, J., Nikurashin, M., Patel, R. S., Peng, J.-P., Rayson, M., Rosevear, M. G., Sohail, T., Spence, P., Stanley, G. J. (2024). Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves. _Rev. Geophys._, **62**, e2022RG000781. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][review-multiscale-SO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][review-multiscale-SO] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2022RG000781"></span><br/>
+(featured in the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>issue's cover</b></span>][soreivew-issuecover-doi]{:target="_blank"}; also read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-so-review]{:target="_blank"})<br/>
 
 
 0. Silvestri, S., Wagner, G. L., Campin, J.-M., **Constantinou, N. C.**, Hill, C., Souza, A., and Ferrari, R. (2024). A new WENO-based momentum advection scheme for simulations of ocean mesoscale turbulence. _J. Adv. Model. Earth Sy._, **16 (7)**, e2023MS004130. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][weno-ILES-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][weno-ILES] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2023MS004130"></span>
@@ -311,6 +312,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
 [theconversation-mlclimate]: https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818
 [theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
+[theconversation-so-review]: https://theconversation.com/giant-waves-monster-winds-and-earths-strongest-current-heres-why-the-southern-ocean-is-a-global-engine-room-233669
+[soreivew-issuecover-doi]: https://doi.org/10.1002/rog.20326
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
 [magneticviscosity-clexbrief]: https://climateextremes.org.au/research-brief-how-magnetic-fields-can-make-water-behave-like-honey/
