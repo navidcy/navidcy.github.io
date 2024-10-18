@@ -9,6 +9,8 @@ title: Publications
 
 ### Submitted/In review
 
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
+
 0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2024). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023, revised on Jun 2024; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
 
@@ -30,7 +32,7 @@ title: Publications
 
 ### In press/Published
 
-1. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., Bhagtani, D., and Yang, L. (2024) regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6, _J. Open Source Softw._, **9(100)**, 6857. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][regional-mom6-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06857"></span><br/>
+0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., Bhagtani, D., and Yang, L. (2024) regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6, _J. Open Source Softw._, **9(100)**, 6857. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][regional-mom6-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06857"></span><br/>
 
 
 0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2024). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._, **9(98)**, 6323, doi:[10.21105/joss.06323](https://doi.org/10.21105/joss.06323). [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][speedyweather-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06323"></span><br/>
@@ -191,6 +193,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+[gyres-NAO]: gyres-NAO.pdf
 [mesoscale-gpu-dycore]: mesoscale-gpu-dycore.pdf
 [regional-mom6]: regional-mom6.pdf
 [atlanticMHT]: atlanticMHT.pdf
