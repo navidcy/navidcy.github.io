@@ -9,7 +9,7 @@ title: Publications
 
 ### Submitted/In review
 
-0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
 
 0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2024). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023, revised on Jun 2024; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
