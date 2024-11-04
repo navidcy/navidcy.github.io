@@ -7,4 +7,4 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-paginate"
 gem "kramdown", ">= 2.3.0"
 gem "faraday", "~> 2.10"
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
