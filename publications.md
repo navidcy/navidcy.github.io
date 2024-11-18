@@ -9,6 +9,9 @@ title: Publications
 
 ### Submitted/In review
 
+0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2024). Rapid near-inertial wave generation at topography in response to surface wind forcing. _J. Phys. Oceanogr._ (submitted on Nov 2023; resubmitted Nov 2024; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
+
+
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
 
 
@@ -19,9 +22,6 @@ title: Publications
 
 
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024; revised on May 2024; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
-
-
-0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2023). Topographically-generated near-internal waves as a response to winds over the ocean surface. _J. Phys. Oceanogr._ (submitted on Nov 2023; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
 
 
 0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on Jan 2023, revised on Jun 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
