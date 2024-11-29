@@ -9,6 +9,9 @@ title: Publications
 
 ### Submitted/In review
 
+0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2024). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._ (submitted on Nov 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater]
+
+
 0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2024). Rapid near-inertial wave generation at topography in response to surface wind forcing. _J. Phys. Oceanogr._ (submitted on Nov 2023; resubmitted Nov 2024; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
 
 
@@ -194,6 +197,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+[asc-meltwater]: asc-meltwater.pdf
 [gyres-NAO]: gyres-NAO.pdf
 [mesoscale-gpu-dycore]: mesoscale-gpu-dycore.pdf
 [regional-mom6]: regional-mom6.pdf
