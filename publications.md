@@ -9,7 +9,7 @@ title: Publications
 
 ### Submitted/In review
 
-0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2024). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._ (submitted on Nov 2024) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater]
+0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2024). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._ (submitted on Nov 2024; doi:[10.22541/essoar.173386140.05935937/v1](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater]
 
 
 0. Barnes, A., Shakespeare, C., Hogg, A. McC., and **Constantinou, N. C.** (2024). Rapid near-inertial wave generation at topography in response to surface wind forcing. _J. Phys. Oceanogr._ (submitted on Nov 2023; resubmitted Nov 2024; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
