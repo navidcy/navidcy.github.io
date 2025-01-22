@@ -9,6 +9,13 @@ title: Publications
 
 ### Submitted/In review
 
+<!--
+0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Campin, J.-M., Hill, C., Ramadhan, A., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales.  _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+
+
+0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Feb 2025; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
+-->
+
 0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2024). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._ (submitted on Nov 2024; doi:[10.22541/essoar.173386140.05935937/v1](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater]
 
 

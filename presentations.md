@@ -54,6 +54,8 @@ title: Presentations
 
 ## Seminars
 
+- Waves of the future 🏄🏽: how modern software transforms ocean research and teaching. _3rd Annual Sean Haney Memorial Symposium_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][sh2025-site], Scripps Institution of Oceanography, La Jolla, CA, USA, 13-14 Feb. 2025. (**invited talk**)
+
 - “From little things big things grow”: how small-scale ocean turbulence affects the global ocean circulation 🌊 and climate 🌎. School of Geography, Earth, and Atmospheric Sciences [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][sgeas-site]{:target="_blank"}, University of Melbourne, 16 Nov 2023. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][SGEAS-Nov2023]
 
 - Open-source and reproducibility workflow within the Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA). Pangeo Showcase [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][pangeo-showcase-site]{:target="_blank"}, (via Zoom), 10 May 2023. doi:[10.5281/zenodo.8109041](https://doi.org/10.5281/zenodo.8109041) (**invited talk**) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.5281/zenodo.8109041){:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][pangeo-showcase-youtube]{:target="_blank"}
@@ -189,4 +191,5 @@ title: Presentations
 [APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
 [ALCS23-site]: https://opus.nci.org.au/display/ALCS/ALCS2023
 [juliacon2024-site]: https://juliacon.org/2024/
+[sh2025-site]: https://www.mod.ucsd.edu/haney2025
 [sgeas-site]: https://sgeas.unimelb.edu.au
