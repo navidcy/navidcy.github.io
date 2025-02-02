@@ -161,7 +161,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
-0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A model that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
+0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A Julia library that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
 
 
 0. Miller, J. W., O'Neil, C., **Constantinou, N. C.**, and Anzecot, O. (2022). Eigenvalue initialisation and regularisation for Koopman autoencoders. [arXiv:2212.12086][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][eigeninit-eigenloss-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eigeninit-eigenloss]
