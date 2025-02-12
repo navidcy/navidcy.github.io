@@ -25,9 +25,6 @@ title: Publications
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
 
 
-0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2024). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (submitted on Jun 2023, revised on Jun 2024; revised again on Nov 2024; revised once more on Feb 2025; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
-
-
 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2024). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024; revised on Sep 2024; doi:[10.22541/essoar.171708158.82342448/v1](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore]
 
 
@@ -42,6 +39,9 @@ title: Publications
 
 
 ### In press/Published
+
+0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2025). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (accepted on Feb 2025; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
+
 
 0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., Bhagtani, D., and Yang, L. (2024) regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6, _J. Open Source Softw._, **9(100)**, 6857. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][regional-mom6-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06857"></span><br/>
 
