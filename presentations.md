@@ -54,7 +54,7 @@ title: Presentations
 
 ## Seminars
 
-- Waves of the future 🏄🏽: how modern software transforms ocean research and teaching. _3rd Annual Sean Haney Memorial Symposium_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][sh2025-site], Scripps Institution of Oceanography, La Jolla, CA, USA, 13-14 Feb. 2025. (**invited talk**)
+- Waves of the future 🏄🏽: how modern software transforms ocean research and teaching. _3rd Annual Sean Haney Memorial Symposium_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][sh2025-site], Scripps Institution of Oceanography, La Jolla, CA, USA, 13-14 Feb. 2025. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][SH2025-Feb2025] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][SH2025-youtube]{:target="_blank"}
 
 - “From little things big things grow”: how small-scale ocean turbulence affects the global ocean circulation 🌊 and climate 🌎. School of Geography, Earth, and Atmospheric Sciences [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][sgeas-site]{:target="_blank"}, University of Melbourne, 16 Nov 2023. (**invited talk**) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][SGEAS-Nov2023]
 
@@ -76,9 +76,9 @@ title: Presentations
 
 - How does the Antarctic Circumpolar Current respond to the increasing winds over the Southern Ocean?: Barotropic versus Baroclinic Eddy Saturation. Department of Physics and Physical Oceanography Seminar, University of North Carolina Wilmington [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UNCW-site]{:target="_blank"}, Wilmington NC, USA, 11 Apr. 2019.
 
-- How does the Antarctic Circumpolar Current respond to the increasing winds over the Southern Ocean?: Barotropic versus Baroclinic Eddy Saturation. Department of Mathematics Fluids Seminar, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, Melbourne, Australia, 12 Feb. 2019. 
+- How does the Antarctic Circumpolar Current respond to the increasing winds over the Southern Ocean?: Barotropic versus Baroclinic Eddy Saturation. Department of Mathematics Fluids Seminar, Monash University [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][Monash-site]{:target="_blank"}, Melbourne, Australia, 12 Feb. 2019.
 
-- Statistical state dynamics: a new framework for understanding turbulent flows. Fluid Mechanics Research Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelbFluids-site]{:target="_blank"}, The University of Melbourne [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelb-site]{:target="_blank"}, Melbourne, Australia, 8 Feb. 2019. 
+- Statistical state dynamics: a new framework for understanding turbulent flows. Fluid Mechanics Research Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelbFluids-site]{:target="_blank"}, The University of Melbourne [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UMelb-site]{:target="_blank"}, Melbourne, Australia, 8 Feb. 2019.
 
 - Magnetic suppression of zonal flows on a beta plane. SpinLab Group Seminar [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][SpinLab-site]{:target="_blank"}, UC Los Angeles [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][UCLA-site]{:target="_blank"}, Los Angeles CA, USA, 11 Jan. 2019. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][UCLA-Jan2019]
 
@@ -104,7 +104,9 @@ title: Presentations
 
 - Verification of the predictions of SSST in nonlinear simulations. 2nd  Meeting of "Zonal Jets and Eddies" team, International Space Science Institute (ISSI) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ISSI-site]{:target="_blank"}, Bern, Switzerland, 2-5 Apr. 2013. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ISSI_Apr2013]
 
+[SH2025-Feb2025]: SH2025_Feb2025.pdf
 [SGEAS-Nov2023]: SGEAS_2023.pdf
+[SH2025-youtube]: https://www.youtube.com/watch?v=5TfGeuNE2zY
 [pangeo-showcase-youtube]: https://youtu.be/48A9_AxbvUg
 [ALCS23-oceananigans]: ALCS23-Oceananigans.pdf
 [RSES-Mar2021]: RSES-EddiesClimate_Mar2021.pdf
