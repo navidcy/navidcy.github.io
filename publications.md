@@ -9,11 +9,15 @@ title: Publications
 
 ### Submitted/In review
 
-<!--
-0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Feb 2025; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs]
--->
+
+<!-- 0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Feb 2025; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs] -->
+
+
+1. Wagner, G. L. and **Constantinou, N. C.** (2025). Decaying turbulence beneath surface waves.  _J. Fluid Mech. Earth Sy._ (submitted on Feb 2025) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves]
+
 
 0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Ramadhan, A., Campin, J.-M., Hill, C., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales with Oceananigans.  _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
+
 
 0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2024). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._ (submitted on Nov 2024; doi:[10.22541/essoar.173386140.05935937/v1](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.173386140.05935937/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater]
 
@@ -22,9 +26,6 @@ title: Publications
 
 
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2024). Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres. _J. Geophys. Res. Oceans_ (submitted on Oct 2024; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
-
-
-0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2024). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (submitted on May 2024; revised on Sep 2024; revised again on Feb 2025; doi:[10.22541/essoar.171708158.82342448/v1](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore]
 
 
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2024). Unravelling how winds and surface heat fluxes control the Atlantic meridional heat transport. _Geophys. Res. Lett._ (submitted on Jan 2024; revised on May 2024; revised on Dec 2024; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
@@ -38,6 +39,9 @@ title: Publications
 
 
 ### In press/Published
+
+0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2025). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._ (accepted on Feb 2025; doi:[10.22541/essoar.171708158.82342448/v1](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.171708158.82342448/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore]
+
 
 0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2025). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (accepted on Feb 2025; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
 
@@ -203,6 +207,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+[betaplane-surface-waves]: betaplane-surface-waves.pdf
 [oceananigans-overview]: oceananigans-overview.pdf
 [asc-meltwater]: asc-meltwater.pdf
 [gyres-NAO]: gyres-NAO.pdf
