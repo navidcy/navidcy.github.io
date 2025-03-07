@@ -13,7 +13,7 @@ title: Publications
 <!-- 0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Feb 2025; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs] -->
 
 
-0. Wagner, G. L. and **Constantinou, N. C.** (2025). Decaying turbulence beneath surface waves.  _J. Fluid Mech. Earth Sy._ (submitted on Feb 2025) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves]
+0. Wagner, G. L. and **Constantinou, N. C.** (2025). Decaying turbulence beneath surface waves.  _J. Fluid Mech. Earth Sy._ (submitted on Feb 2025; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2503.03871)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2503.03871]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves]
 
 
 0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Ramadhan, A., Campin, J.-M., Hill, C., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales with Oceananigans.  _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
@@ -40,11 +40,6 @@ title: Publications
 
 
 ### In press/Published
-
-0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2025). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._ (accepted on Feb 2025; doi:[10.48550/arXiv.2306.13204](https://doi.org/10.48550/arXiv.2306.13204){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2306.13204]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics]
-
-
-0. Barnes, A. J., **Constantinou, N. C.**, Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., Bhagtani, D., and Yang, L. (2024) regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6, _J. Open Source Softw._, **9(100)**, 6857. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][regional-mom6-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][regional-mom6-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][regional-mom6-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][regional-mom6] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06857"></span><br/>
 
 
 0. Klöwer, M., Gelbrecht, M., Hotta, D., Silvestri, S., Wagner, G. L., White, A., Hatfield, S., Meyer, D., Kimpson, T., **Constantinou, N. C.**, and Hill, C. (2024). SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility.  _J. Open Source Softw._, **9(98)**, 6323, doi:[10.21105/joss.06323](https://doi.org/10.21105/joss.06323). [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repository</span>][SpeedyWeather-repo]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">documentation</span>][SpeedyWeather-docs]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][speedyweather-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][speedyweather] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.21105/joss.06323"></span><br/>
@@ -318,6 +313,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2311.02275]: https://arxiv.org/abs/2311.02275
 [arXiv:2401.14230]: https://arxiv.org/abs/2401.14230
 [arXiv:2502.14148]: https://arxiv.org/abs/2502.14148
+[arXiv:2503.03871]: https://arxiv.org/abs/2503.03871
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
