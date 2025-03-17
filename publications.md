@@ -10,7 +10,7 @@ title: Publications
 ### Submitted/In review
 
 
-<!-- 0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Feb 2025; doi:[10.48550/arXiv.2311.02275](https://doi.org/10.48550/arXiv.2311.02275)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2311.02275]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topographic-NIWs] -->
+0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Mar 2025) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
 
 
 0. Wagner, G. L. and **Constantinou, N. C.** (2025). Decaying turbulence beneath surface waves.  _J. Fluid Mech._ (submitted on Feb 2025; doi:[10.48550/arXiv.2502.03871](https://doi.org/10.48550/arXiv.2503.03871)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2503.03871]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves]
@@ -208,6 +208,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+[internal-tide-parameterizations]: internal-tide-parameterizations.pdf
 [betaplane-surface-waves]: betaplane-surface-waves.pdf
 [oceananigans-overview]: oceananigans-overview.pdf
 [asc-meltwater]: asc-meltwater.pdf
