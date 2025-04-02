@@ -17,6 +17,10 @@ The subject also introduces the various techniques used for climate predictions 
 [University Handbook][atoc30006-handbook]{:target="_blank"}
 
 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/kUdYGcUVPcc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### Computational Geosciences (Course Co-Convener along w/ [Louis Moresi](http://www.moresi.info))
 #### [Undergraduate/Honours EMSC4033; Masters EMSC8033]
 ##### Research School of Earth Sciences, Australian National University
@@ -112,7 +116,7 @@ Held tutorials on basic numerical methods for solving ODEs.
 [Class Website (greek)][nonlin-nkua]{:target="_blank"}
 
 
-[atoc30006-handbook]: https://handbook.unimelb.edu.au/2024/subjects/atoc30006/print
+[atoc30006-handbook]: https://handbook.unimelb.edu.au/2025/subjects/atoc30006/print
 [clexwinterschool2020]: https://climateextremes.org.au/clex-virtual-winter-school-2020/
 [clexwinterschool2021]: https://climateextremes.org.au/winter-school-2021-atmosphere-and-ocean-dynamics/
 [clexwinterschool2020repo]: https://github.com/navidcy/CLExWinterSchool2020
