@@ -31,7 +31,7 @@ Whenever I get the chance I hop into the ocean in person.
 Have a look at my [vitae (CV)][cv-pdf] or read more about my [research](../research/).
 
 {: .center}
-<img src="/img/navid_underwater.jpg" alt="me somewhere in the Pacific" title="me somewhere in the Pacific" class="circular-image" />
+<img src="/img/navid_underwater.jpg" alt="me somewhere in the Pacific, 2014" title="me somewhere in the Pacific, 2014" class="circular-image" />
 
 [lefkosia-site]: http://en.wikipedia.org/wiki/Nicosia
 [bill-site]: http://pordlabs.ucsd.edu/wryoung/
