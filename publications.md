@@ -40,6 +40,7 @@ title: Publications
 
 
 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2025). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._, **17**, e2024MS004465. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][mesoscale-gpu-dycore-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024MS004465"></span><br/>
+(highlighted by [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>EOS</b></span>][mesoscale-gpu-dycore-eos]{:target="_blank"})<br/>
 
 
 0. Wagner, G. L., Hillier, A., **Constantinou, N. C.**, Silvestri, S., Souza, A., Burns, K., Hill, C., Campin, J.-M., Marshall, J., and Ferrari, R. (2025). Formulation and calibration of CATKE, a one-equation parameterization for microscale ocean mixing. _J. Adv. Model. Earth Sy._, **17**, e2024MS004522. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][catke-physics-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][catke-physics] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024MS004522"></span><br/>
@@ -346,3 +347,4 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [trackeddies-clexbrief]: https://climateextremes.org.au/research-brief-southern-ocean-vortices-are-changing/
 [EddySat-BtBc-clexbrief]: https://climateextremes.org.au/research-brief-features-on-ocean-floor-play-major-role-in-the-strength-of-acc/
 [clex-site]: https://climateextremes.org.au/
+[mesoscale-gpu-dycore-eos]: https://eos.org/editor-highlights/a-leap-toward-next-generation-ocean-models
