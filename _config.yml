@@ -31,7 +31,7 @@ navbar-links:
   Teaching: "teaching"
   Students: "students"
   Outreach: "outreach"
-  
+
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -48,7 +48,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Navid Constantinou
-  email: "navid.constantinou@anu.edu.au"
+  email: "navid.constantinou@unimelb.edu.au"
   github: navidcy    # eg. navidcsy
   vimeo: navidcy   # eg. navidcy
   gscolar: Hf4FZvQAAAAJ    # google scholar profile
