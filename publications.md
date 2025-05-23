@@ -36,8 +36,8 @@ title: Publications
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2025). Asymmetric response of the North Atlantic gyres to the North Atlantic Oscillation. _J. Geophys. Res. Oceans_ (accepted on May 2025; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
 
 
-1. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._, **52**, e2024GL113983. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][asc-meltwater-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024GL113983"></span><br/>
-
+0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._, **52**, e2024GL113983. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][asc-meltwater-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024GL113983"></span><br/>
+(read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-asc-meltwater]{:target="_blank"})
 
 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2025). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._, **17**, e2024MS004465. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][mesoscale-gpu-dycore-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024MS004465"></span><br/>
 (highlighted by [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>EOS</b></span>][mesoscale-gpu-dycore-eos]{:target="_blank"})<br/>
@@ -163,6 +163,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 <br>
 
 ## Other Publications
+
+0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Antarctica has its own ‘shield’ against warm water - but this could now be under threat, _The Conversation_, May 23rd, 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-asc-meltwater]{:target="_blank"}
 
 0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A Julia library that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
 
@@ -329,6 +331,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
+[theconversation-asc-meltwater]: https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738
 [JClimateUOHC-clexbrief]: https://climateextremes.org.au/can-the-oceans-intrinsic-dynamics-feedback-on-the-atmosphere/
 [geophysicalflows-clexbrief]: https://climateextremes.org.au/research-brief-new-julia-package-solves-geophysical-fluid-dynamics-problems/
 [geophysicalflows-blog]: https://climateextremes.org.au/developing-and-publishing-open-source-software-and-my-experience-with-an-open-peer-review-process/
