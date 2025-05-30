@@ -33,11 +33,12 @@ title: Publications
 
 ### In press/Published
 
-0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2025). Asymmetric response of the North Atlantic gyres to the North Atlantic Oscillation. _J. Geophys. Res. Oceans_ (accepted on May 2025; doi:[10.22541/essoar.172938986.66856327/v1](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">essoar</span>](https://doi.org/10.22541/essoar.172938986.66856327/v1){:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO]
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., **Constantinou, N. C.**, and Khatri, H. (2025). Asymmetric response of the North Atlantic gyres to the North Atlantic Oscillation. _J. Geophys. Res. Oceans_, **130**, e2024JC021997. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][gyres-NAO-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][gyres-NAO] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024JC021997"></span><br/>
 
 
 0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Transient Antarctic Slope Current response to climate change including meltwater. _Geophys. Res. Lett._, **52**, e2024GL113983. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][asc-meltwater-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][asc-meltwater] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024GL113983"></span><br/>
 (read about it in [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>The Conversation</b></span>][theconversation-asc-meltwater]{:target="_blank"})
+
 
 0. Silvestri, S., Wagner, G. L., **Constantinou, N. C.**, Hill, C., Campin, J.-M., Souza, A., Bishnu, S., Churavy, V., Marshall, J., and Ferrari, R. (2025). A GPU-based ocean dynamical core for routine mesoscale-resolving climate simulations. _J. Adv. Model. Earth Sy._, **17**, e2024MS004465. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][mesoscale-gpu-dycore-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][mesoscale-gpu-dycore] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1029/2024MS004465"></span><br/>
 (highlighted by [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>EOS</b></span>][mesoscale-gpu-dycore-eos]{:target="_blank"})<br/>
@@ -255,6 +256,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
+[gyres-NAO-doi]: https://doi.org/10.1029/2024JC021997
 [asc-meltwater-doi]: https://doi.org/10.1029/2024GL113983
 [mesoscale-gpu-dycore-doi]: https://doi.org/10.1029/2024MS004465
 [catke-physics-doi]: https://doi.org/10.1029/2024MS004522
