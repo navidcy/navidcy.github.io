@@ -11,7 +11,7 @@ title: Students
   Investigation into local drivers of change at the Antarctic continental margin
 
 - [Dhruv Bhagtani][dhruv-website]{:target="_blank"} <br/>
-  October 2020 - ; Australian National University <br/>
+  October 2020 - June 2025; Australian National University <br/>
   The interplay between wind stress and surface buoyancy in driving large-scale oceanic gyres
 
 ## Masters/Honors
