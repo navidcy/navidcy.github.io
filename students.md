@@ -7,7 +7,7 @@ title: Students
 ## Ph.D. students
 
 - [Ellie Ong][ellie-website]{:target="_blank"}<br/>
-  February 2021 - ; University of New South Wales <br/>
+  February 2021 - June 2025; University of New South Wales <br/>
   Investigation into local drivers of change at the Antarctic continental margin
 
 - [Dhruv Bhagtani][dhruv-website]{:target="_blank"} <br/>
