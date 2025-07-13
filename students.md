@@ -7,12 +7,13 @@ title: Students
 ## Ph.D. students
 
 - [Ellie Ong][ellie-website]{:target="_blank"}<br/>
-  February 2021 - June 2025; University of New South Wales <br/>
-  Investigation into local drivers of change at the Antarctic continental margin
+  February 2021 - June 2025; University of New South Wales Sydney<br/>
+  Variability of the Antarctic Slope and Coastal currents [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.26190/unsworks/31214)
+
 
 - [Dhruv Bhagtani][dhruv-website]{:target="_blank"} <br/>
   October 2020 - June 2025; Australian National University <br/>
-  The interplay between wind stress and surface buoyancy in driving large-scale oceanic gyres
+  Ocean gyres driven by wind stress and surface buoyancy forcing [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.25911/ATMF-QH58)
 
 ## Masters/Honors
 
