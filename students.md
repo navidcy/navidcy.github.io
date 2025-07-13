@@ -6,6 +6,14 @@ title: Students
 
 ## Ph.D. students
 
+- James Thompson<br/>
+  February 2025 - ; University of Melbourne
+
+
+- Md Ayshik Rahman Khan<br/>
+  July 2024 - ; University of Melbourne
+
+
 - [Ellie Ong][ellie-website]{:target="_blank"}<br/>
   February 2021 - June 2025; University of New South Wales Sydney<br/>
   Variability of the Antarctic Slope and Coastal currents [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.26190/unsworks/31214)
