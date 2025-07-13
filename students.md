@@ -23,12 +23,16 @@ title: Students
   October 2020 - June 2025; Australian National University <br/>
   Ocean gyres driven by wind stress and surface buoyancy forcing [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.25911/ATMF-QH58)
 
-## Masters/Honors
+## Masters/Honours
+
+- Tatiana Prada Lopez <br/>
+  July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
+
 
 - Elise Palethorpe <br/>
-  February 2022 - November 2022; Australian National University (**Honors**) <br/>
+  February 2022 - November 2022; Australian National University (**Honours**) <br/>
   Implementing a multigrid pressure solver in [CliMA][clima]{:target="_blank"}’s ocean general circulation model<br/>
-  _First Class Honors_
+  _First Class Honours_
 
 ## Undergraduate students
 
