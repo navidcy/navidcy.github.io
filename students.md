@@ -61,7 +61,7 @@ title: Students
   Fourier-based pseudospectral methods for solving partial differential equations
 
 [ellie-website]: https://ongqingyee.github.io
-[dhruv-website]: https://earthsciences.anu.edu.au/people/students/dhruv-bhagtani
+[dhruv-website]: https://geosciences.princeton.edu/people/dhruv-bhagtani
 [oliver-github]: https://github.com/OliverBalfour
 [jack-github]: https://github.com/jackmiller2003
 [phoebe-github]: https://github.com/pgrosser1
