@@ -7,6 +7,8 @@ title: Presentations
 
 ## Conferences
 
+- Dark Oceanography: A climate model made from music; co-presented with [Louise Devenish](https://www.louisedevenish.com.au){:target="_blank"} and [Kate Milligan](https://www.katemilligan.com.au){:target="_blank"}. _ACCESS Community Workshop 2025_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][accesscommunity2025-site]{:target="_blank"}, Melbourne, Australia, 8-12 Sep. 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">video</span>][ACCESS-Community2025-video]{:target="_blank"}
+
 - Oceananigans: an ocean-flavoured fluid dynamics library. _JuliaCon 2024_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][juliacon2024-site]{:target="_blank"}, Philips Stadion, Eindhoven, Netherlands, 9-13 Jul. 2024. ([talk](https://pretalx.com/juliacon2024/talk/BYQWXK/))
 
 - Oceananigans.jl: breakthrough resolution, memory, and energy efficiency in global ocean simulations. _Australasian Leadership Computing Symposium 2023_ [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">url</span>][ALCS23-site]{:target="_blank"}, Australian Academy of Sciences, Canberra, Australia, 14-16 Jun. 2023. (talk) [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ALCS23-oceananigans]
@@ -142,6 +144,7 @@ title: Presentations
 [OSM22-datadriven]: OSM_Feb2022-talk.pdf
 [OSM22-datadriven-video]: https://youtu.be/hwuArUBboR8
 [OSM22-github-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w
+[ACCESS-Community2025-video]: https://www.youtube.com/watch?v=3cO2Qb9Dxt0
 [KITP21]: KITP_Nov2021.pdf
 [KITP21-video]: https://online.kitp.ucsb.edu/online/climate-c21/constantinou/
 [AGU16-poster]: AGU2016_poster.pdf
@@ -193,5 +196,6 @@ title: Presentations
 [APSDFD20-abstract]: https://meetings.aps.org/Meeting/DFD20/Session/S10.27
 [ALCS23-site]: https://opus.nci.org.au/display/ALCS/ALCS2023
 [juliacon2024-site]: https://juliacon.org/2024/
+[accesscommunity2025-site]: https://www.access-nri.org.au/archive/access-community-workshop-2025/
 [sh2025-site]: https://www.mod.ucsd.edu/haney2025
 [sgeas-site]: https://sgeas.unimelb.edu.au
