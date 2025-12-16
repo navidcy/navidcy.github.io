@@ -12,9 +12,6 @@ title: Publications
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2025). Unravelling how winds and surface heat fluxes control the Atlantic Ocean's meridional heat transport. _Clim. Dyn._ (submitted on May 2025; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
 
 
-0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (submitted on Mar 2025; revised on Oct 2025; doi:[10.48550/arXiv.2503.12845](https://doi.org/10.48550/arXiv.2503.12845)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2503.12845]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
-
-
 0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Ramadhan, A., Campin, J.-M., Hill, C., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Souza, A., Burns, K. J., Bishnu, S., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales with Oceananigans. _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; revised on Nov 2025; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
 
 
@@ -26,6 +23,9 @@ title: Publications
 
 
 ### In press/Published
+
+0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2025). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (accepted on Dec 2025; doi:[10.48550/arXiv.2503.12845](https://doi.org/10.48550/arXiv.2503.12845)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2503.12845]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
+
 
 0. Wagner, G. L. and **Constantinou, N. C.** (2025). Phenomenology of decaying turbulence beneath surface waves. _J. Fluid Mech._, **1020**, A51. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][betaplane-surface-waves-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][betaplane-surface-waves-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2025.10649"></span>
 (featured on the [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;"><b>issue cover</b></span>][betaplane-surface-waves-issuecover-doi]{:target="_blank"})
