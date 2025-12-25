@@ -6,11 +6,19 @@ title: Students
 
 ## Ph.D. students
 
+- [Brodie Ellis][brodie-website]<br/>
+  February 2026 - ; Victorian College of the Arts, University of Melbourne
+
+
+- [Waylon Wu][waylon-github]<br/>
+  August 2025 - ; School of Mathematics and Statistics, University of Melbourne
+
+
 - James Thompson<br/>
   February 2025 - ; University of Melbourne
 
 
-- Md Ayshik Rahman Khan<br/>
+- [Md Ayshik Rahman Khan][ayshik-scholar]<br/>
   July 2024 - ; University of Melbourne
 
 
@@ -60,6 +68,9 @@ title: Students
   November 2019 - February 2020; Australian National University (**3rd year**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
+[ayshik-scholar]: https://scholar.google.com/citations?user=4s75ALIAAAAJ
+[waylon-github]: https://github.com/waylonwh
+[brodie-website]: https://www.brodieellis.com
 [ellie-website]: https://ongqingyee.github.io
 [dhruv-website]: https://geosciences.princeton.edu/people/dhruv-bhagtani
 [oliver-github]: https://github.com/OliverBalfour
