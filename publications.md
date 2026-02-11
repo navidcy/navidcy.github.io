@@ -9,6 +9,13 @@ title: Publications
 
 ### Submitted/In review
 
+<!--
+0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ submitted on Jan 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
+
+
+0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, and Ferrari, R. (2026). A low-storage Runge-Kutta framework for non-linear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Jan 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
+-->
+
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2025). Unravelling how winds and surface heat fluxes control the Atlantic Ocean's meridional heat transport. _Clim. Dyn._ (submitted on May 2025; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
 
 
@@ -24,7 +31,7 @@ title: Publications
 
 ### In press/Published
 
-1. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2026). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._ (in press; doi:[10.1175/JPO-D-25-0064.1](https://doi.org/10.1175/JPO-D-25-0064.1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][internal-tide-parameterizations-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][internal-tide-parameterizations-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
+1. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2026). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._, **56(3)**, 643–664. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][internal-tide-parameterizations-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][internal-tide-parameterizations-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
 
 
 0. Wagner, G. L. and **Constantinou, N. C.** (2025). Phenomenology of decaying turbulence beneath surface waves. _J. Fluid Mech._, **1020**, A51. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][betaplane-surface-waves-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][betaplane-surface-waves-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2025.10649"></span>
