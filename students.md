@@ -22,6 +22,19 @@ title: Students
   July 2024 - ; University of Melbourne
 
 
+## Masters/Honours
+
+- Lara Buhagiar<br />
+  February 2026 - November 2027; University of Melbourne (**Masters**) <br/>
+
+
+- Tatiana Prada Lopez <br/>
+  July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
+
+
+# Alumni
+
+### Ph.D. students
 - [Ellie Ong][ellie-website]{:target="_blank"}<br/>
   February 2021 - June 2025; University of New South Wales Sydney<br/>
   Variability of the Antarctic Slope and Coastal currents [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.26190/unsworks/31214)
@@ -31,18 +44,15 @@ title: Students
   October 2020 - June 2025; Australian National University <br/>
   Ocean gyres driven by wind stress and surface buoyancy forcing [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.25911/ATMF-QH58)
 
-## Masters/Honours
+### Masters/Honours
 
-- Tatiana Prada Lopez <br/>
-  July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
-
-
-- Elise Palethorpe <br/>
+- [Elise Palethorpe][elise-website] <br/>
   February 2022 - November 2022; Australian National University (**Honours**) <br/>
   Implementing a multigrid pressure solver in [CliMA][clima]{:target="_blank"}’s ocean general circulation model<br/>
   _First Class Honours_
 
-## Undergraduate students
+
+### Undergraduate students
 
 - [Phoebe Grosser][phoebe-github]{:target="_blank"} <br/>
   Dec 2022 - March 2023; Australian National University (**2nd year**) <br/>
@@ -60,11 +70,11 @@ title: Students
   February 2022 - June 2022; Australian National University (**2nd year**) <br/>
   Predicting cyclone genesis, trajectory, and intensity with machine learning
 
-- Elise Palethorpe <br/>
+- [Elise Palethorpe][elise-website] <br/>
   July 2020 - November 2020; Australian National University (**2nd year**) <br/>
   Numerical methods for partial differential equations: high-order accurate weighted essentially non-oscillatory (WENO) schemes
 
-- Fabian Antonio Circelli <br/>
+- [Fabian Antonio Circelli][fabian-website] <br/>
   November 2019 - February 2020; Australian National University (**3rd year**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
@@ -73,6 +83,8 @@ title: Students
 [brodie-website]: https://www.brodieellis.com
 [ellie-website]: https://ongqingyee.github.io
 [dhruv-website]: https://geosciences.princeton.edu/people/dhruv-bhagtani
+[elise-website]: https://comp.anu.edu.au/people/elise-palethorpe/
+[fabian-website]: https://fabian.owlstown.net
 [oliver-github]: https://github.com/OliverBalfour
 [jack-github]: https://github.com/jackmiller2003
 [phoebe-github]: https://github.com/pgrosser1
