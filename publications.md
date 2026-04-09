@@ -11,10 +11,11 @@ title: Publications
 
 <!--
 0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ submitted on Jan 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
-
-
-0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, and Ferrari, R. (2026). A low-storage Runge-Kutta framework for non-linear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Jan 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
 -->
+
+
+0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, and Ferrari, R. (2026). A low-storage Runge-Kutta framework for nonlinear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Apr 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][RK-timestepper-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RK-timestepper]
+
 
 0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2025). Unravelling how winds and surface heat fluxes control the Atlantic Ocean's meridional heat transport. _Clim. Dyn._ (submitted on May 2025; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
 
@@ -202,6 +203,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
+[RK-timestepper-repo]: https://github.com/simone-silvestri/TimestepperTestCases.jl
 [oceananigans-overview-repo]: https://github.com/glwagner/OceananigansPaper
 [internal-tide-parameterizations-repo]: https://github.com/DJmath1729/Ocean-hill-stress
 [betaplane-surface-waves-repo]: https://github.com/glwagner/WaveAveragedDecayingTurbulence
@@ -224,6 +226,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
+
+[RK-timestepper]: RK-timestepper.pdf
 [internal-tide-parameterizations]: internal-tide-parameterizations.pdf
 [betaplane-surface-waves]: betaplane-surface-waves.pdf
 [oceananigans-overview]: oceananigans-overview.pdf
