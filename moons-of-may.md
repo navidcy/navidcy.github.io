@@ -52,6 +52,13 @@ sitemap: false
     margin-top: 2em;
   }
 
+  .diary-countdown {
+    display: block;
+    margin-top: 4em;
+    font-size: 0.82em;
+    color: #aeb6c2;
+  }
+
   #diary-locked {
     color: #d9dde3;
     border-color: #515966;
@@ -130,9 +137,11 @@ sitemap: false
   <p style="text-align: right; margin: 1em 0 1.25rem 0; font-size: 0.9em; font-style: italic; color: #aeb6c2;">for Gemma mou</p>
 
   <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
-    Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of me — thinking of you, thinking of us. <br/>
+    Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of things I notice, moments that linger — thinking of you, thinking of us. <br/>
     <br/>
     ✨ 🦒 ❤️ 🦦 🔥
+    <br/>
+    <span id="diary-countdown" class="diary-countdown">Calculating the next moonlit arrival...</span>
   </p>
 
   <!-- <p class="diary-note">
@@ -146,7 +155,7 @@ sitemap: false
 
   <h3>11 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.320&p=5.081&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
   <img src="/img/photo-diary/photo-may11.jpg" alt="Photo for 11 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>An errand dream-team; back at the USD exchange shop 7 months later.</em></p>
+  <p class="diary-phrase"><em>An errand dream-team; at the USD exchange shop 7 months later.</em></p>
 
   <!--
   <hr />
@@ -272,6 +281,7 @@ sitemap: false
     var msg = document.getElementById("diary-msg");
     var locked = document.getElementById("diary-locked");
     var content = document.getElementById("diary-content");
+    var countdown = document.getElementById("diary-countdown");
 
     function getAltPhotoCandidates(src) {
       var match = src.match(/^(.*?)(\.[^.\/]+)$/);
@@ -359,7 +369,11 @@ sitemap: false
 
         var nodes = [children[i]];
         var j = i + 1;
-        while (j < children.length && children[j].tagName !== "HR") {
+        while (
+          j < children.length &&
+          children[j].tagName !== "HR" &&
+          !children[j].classList.contains("diary-disclaimer")
+        ) {
           nodes.push(children[j]);
           j++;
         }
@@ -383,12 +397,60 @@ sitemap: false
       });
     }
 
+    function formatCountdown(milliseconds) {
+      var totalSeconds = Math.max(0, Math.floor(milliseconds / 1000));
+      var days = Math.floor(totalSeconds / 86400);
+      var hours = Math.floor((totalSeconds % 86400) / 3600);
+      var minutes = Math.floor((totalSeconds % 3600) / 60);
+      var seconds = totalSeconds % 60;
+      var parts = [];
+
+      if (days > 0) {
+        parts.push(days + "d");
+      }
+      parts.push(String(hours).padStart(2, "0") + "h");
+      parts.push(String(minutes).padStart(2, "0") + "m");
+      parts.push(String(seconds).padStart(2, "0") + "s");
+
+      return parts.join(" ");
+    }
+
+    function updateDiaryCountdown() {
+      if (!countdown) {
+        return;
+      }
+
+      var now = Date.now();
+      var nextBlock = getDiaryDayBlocks()
+        .map(function (block) {
+          return {
+            day: block.day,
+            releaseTime: releaseTimeForMelbourneMay2026(block.day)
+          };
+        })
+        .filter(function (block) {
+          return now < block.releaseTime;
+        })
+        .sort(function (a, b) {
+          return a.releaseTime - b.releaseTime;
+        })[0];
+
+      if (!nextBlock) {
+        countdown.textContent = "All available photo entries are visible.";
+        return;
+      }
+
+      countdown.textContent = "Next photo entry in " + formatCountdown(nextBlock.releaseTime - now) + ".";
+    }
+
     function unlock() {
       locked.style.display = "none";
       content.style.display = "block";
       makeDiaryPhotosClickable();
       applyDiaryReleaseGate();
+      updateDiaryCountdown();
       setInterval(applyDiaryReleaseGate, 30000);
+      setInterval(updateDiaryCountdown, 1000);
       sessionStorage.setItem(STORAGE_KEY, "1");
     }
 
