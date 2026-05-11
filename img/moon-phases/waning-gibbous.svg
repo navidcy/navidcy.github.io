@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Waning Gibbous">
+  <defs>
+    <clipPath id="moon-clip">
+      <circle cx="16" cy="16" r="14"/>
+    </clipPath>
+  </defs>
+  <circle cx="16" cy="16" r="14" fill="#f7f7f2" stroke="#666" stroke-width="1.2"/>
+  <ellipse cx="21.5" cy="16" rx="5.8" ry="13.4" fill="#171717" clip-path="url(#moon-clip)"/>
+</svg>
