@@ -130,7 +130,8 @@ sitemap: false
   <p style="text-align: right; margin: 1em 0 1.25rem 0; font-size: 0.9em; font-style: italic; color: #aeb6c2;">for Gemma mou</p>
 
   <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
-    Each day, precisely on midnight Melbourne time, a photo and a word or short phrase (or longer?) will appear, giving you a small moonlit window of me while thinking of you and thinking of us. <br/>
+    Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of me — thinking of you, thinking of us. <br/>
+    <br/>
     ✨ 🦒 ❤️ 🦦 🔥
   </p>
 
@@ -386,8 +387,8 @@ sitemap: false
       locked.style.display = "none";
       content.style.display = "block";
       makeDiaryPhotosClickable();
-      // applyDiaryReleaseGate();
-      // setInterval(applyDiaryReleaseGate, 30000);
+      applyDiaryReleaseGate();
+      setInterval(applyDiaryReleaseGate, 30000);
       sessionStorage.setItem(STORAGE_KEY, "1");
     }
 
