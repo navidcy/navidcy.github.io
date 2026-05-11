@@ -22,7 +22,7 @@ On May 2018, I moved down under at the [Australian National University][anu-site
 working mainly with [Andy Hogg][andy-site].
 After that, on 2021 I transitioned to a [Discovery Early Career Researcher Award][decra2021] Research Fellow working on ocean eddy parametrizations and also heavily involved in [ocean model development][oceananigans-repo] in collaboration with the [Climate Modelling Alliance][clima-site].
 
-Since June 2024, I am a [Senior Lecturer](https://findanexpert.unimelb.edu.au/profile/1064377-navid-constantinou) at the [School of Geography, Earth and Atmospheric Sciences][sgseas-site] at the [University of Melbourne][unimelb-site] and also chief investigator at the [ARC Centre of Excellence for the Weather of the 21st Century](https://www.21centuryweather.org.au).
+Currently, I am a [Senior Lecturer][unimelb-profile] at the [School of Geography, Earth and Atmospheric Sciences][sgseas-site] at the [University of Melbourne][unimelb-site] and also chief investigator at the [ARC Centre of Excellence for the Weather of the 21st Century](https://www.21centuryweather.org.au). I am also a [co-chair in the COSIMA (Ocean-Sea Ice) Modelling Community Working Group][cosima-cochair].
 
 Besides research I enjoy surfing 🏄🏽, biking 🚲, horse riding 🐎, dancing 💃🏼, and photography 📷.
 I also like telling stories (science-related or not) and I am an avid story listener.
@@ -49,3 +49,5 @@ Have a look at my [vitae (CV)][cv-pdf] or read more about my [research](../resea
 [sgseas-site]: https://sgeas.unimelb.edu.au
 [unimelb-site]: https://www.unimelb.edu.au
 [clima-site]: https://clima.caltech.edu
+[cosima-cochair]: https://www.access-nri.org.au/cosima-working-group/
+[unimelb-profile]: https://findanexpert.unimelb.edu.au/profile/1064377-navid-constantinou
