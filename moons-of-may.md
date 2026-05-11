@@ -8,14 +8,6 @@ noindex: true
 sitemap: false
 ---
 
-<h1 style="text-align: center; margin: 1em 0 0.35rem 0;">Moons of May</h1>
-<p style="text-align: right; margin: 0 0 1.25rem 0; font-size: 0.9em; font-style: italic; color: #aeb6c2;">for Gemma mou</p>
-
-<p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
-  Each day, precisely on midnight Melbourne time, a photo with one word or short phrase (or longer?) will be added, giving you a small moonlit window into my life while I am thinking of you.
-</p>
-
-
 <style>
   html,
   body {
@@ -55,6 +47,7 @@ sitemap: false
   }
 
   #diary-passphrase {
+    font-family: "Courier New", Courier, monospace;
     color: #eef1f4;
     border: 1px solid #626b78;
     background: #1b2027;
@@ -75,7 +68,8 @@ sitemap: false
 </style>
 
 <div id="diary-locked" style="max-width: 680px; margin: 0 auto 2rem auto; padding: 1.25rem; border-radius: 8px;">
-  <p><strong>Private diary.</strong> Enter the phrase to unlock.</p>
+  <h1 style="text-align: center; margin: 0 0 1.25rem 0;">Secret webpage 🫆</h1>
+  <p><strong>Private website.</strong> Enter the phrase to unlock.</p>
   <input id="diary-passphrase" type="password" placeholder="Enter passphrase" autocomplete="off" style="width: 100%; margin: 0.5rem 0; padding: 0.6rem;" />
   <label style="display: block; margin: 0 0 0.75rem 0; font-weight: normal;">
     <input id="diary-toggle-passphrase" type="checkbox" />
@@ -90,6 +84,14 @@ sitemap: false
 </div>
 
 <div id="diary-content" style="display: none;">
+  <h1 style="text-align: center; margin: 1em 0 0.35rem 0;">Moons of May</h1>
+  <p style="text-align: right; margin: 0 0 1.25rem 0; font-size: 0.9em; font-style: italic; color: #aeb6c2;">for Gemma mou</p>
+
+  <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
+    Each day, precisely on midnight Melbourne time, a photo and a word or short phrase (or longer?) will appear, giving you a small moonlit window of me while thinking of you and thinking of us. <br/>
+    ✨ 🦒 ❤️ 🦦 🔥
+  </p>
+
   <!-- <p class="diary-note">
     Moon icons are local files in <code>/img/moon-phases/</code>, so you can tweak size/style anytime.
   </p>
@@ -103,6 +105,7 @@ sitemap: false
   <p><em>First day of this little experiment.</em></p>
   <img src="/img/photo-diary/photo-may11.jpg" alt="Photo for 11 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
 
+  <!--
   <hr />
   <h3>12 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.225&p=5.294&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
   <p><em>Write your phrase for today.</em></p>
@@ -192,6 +195,7 @@ sitemap: false
   <h3>29 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.936&p=2.628&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Full Moon</small></h3>
   <p><em>Write your phrase for today.</em></p>
   <img src="/img/photo-diary/photo-may29.jpg" alt="Photo for 29 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  -->
 
   <!--
   <hr />
