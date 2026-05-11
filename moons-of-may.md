@@ -111,7 +111,7 @@ sitemap: false
 
 <div id="diary-locked" style="max-width: 680px; margin: 0 auto 2rem auto; padding: 1.25rem; border-radius: 8px;">
   <h1 style="text-align: center; margin: 0 0 1.25rem 0;">Secret webpage 🫆</h1>
-  <p><strong>Private website.</strong> Enter the phrase to unlock.</p>
+  <p>Enter the phrase to unlock.</p>
   <input id="diary-passphrase" type="password" placeholder="Enter passphrase" autocomplete="off" style="width: 100%; margin: 0.5rem 0; padding: 0.6rem;" />
   <label style="display: block; margin: 0 0 0.75rem 0; font-weight: normal;">
     <input id="diary-toggle-passphrase" type="checkbox" />
