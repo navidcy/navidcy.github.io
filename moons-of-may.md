@@ -118,7 +118,7 @@ sitemap: false
   .heart-beat {
     display: inline-block;
     position: relative;
-    animation: heart-beat-pulse 0.97s ease-in-out infinite;
+    animation: heart-beat-pulse 0.84s ease-in-out infinite;
   }
 
   .heart-beat .heart-alt {
