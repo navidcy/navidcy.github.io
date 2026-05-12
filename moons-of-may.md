@@ -195,97 +195,97 @@ sitemap: false
   <hr />
 
   <h3>11 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.320&p=5.081&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may11.jpg" alt="Photo for 11 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may11.jpg" title="I'm not used to taking mirror selfies.." style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>An errand dream-team; at the USD exchange shop 7 months later.</em></p>
 
   <hr />
   <h3>12 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.225&p=5.294&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may12.jpg" alt="Photo for 12 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may12.jpg" title="Walking to the tram with a motorcycle helmet.." style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Stark contrast; brisk and rust.</em></p>
 
   <hr />
   <h3>13 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.143&p=5.507&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may13.jpg" alt="Photo for 13 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may13.jpg" title="Photo for 13 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>14 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.077&p=5.720&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may14.jpg" alt="Photo for 14 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may14.jpg" title="Photo for 14 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>15 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.030&p=5.932&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may15.jpg" alt="Photo for 15 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may15.jpg" title="Photo for 15 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>16 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.005&p=6.145&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may16.jpg" alt="Photo for 16 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may16.jpg" title="Photo for 16 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>17 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.001&p=0.075&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may17.jpg" alt="Photo for 17 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may17.jpg" title="Photo for 17 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>18 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.021&p=0.288&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may18.jpg" alt="Photo for 18 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may18.jpg" title="Photo for 18 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>19 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.061&p=0.500&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may19.jpg" alt="Photo for 19 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may19.jpg" title="Photo for 19 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>20 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.122&p=0.713&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may20.jpg" alt="Photo for 20 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may20.jpg" title="Photo for 20 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>21 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.199&p=0.926&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may21.jpg" alt="Photo for 21 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may21.jpg" title="Photo for 21 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>22 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.291&p=1.139&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may22.jpg" alt="Photo for 22 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may22.jpg" title="Photo for 22 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>23 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.391&p=1.351&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may23.jpg" alt="Photo for 23 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may23.jpg" title="Photo for 23 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>24 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.497&p=1.564&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may24.jpg" alt="Photo for 24 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may24.jpg" title="Photo for 24 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>25 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.602&p=1.777&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may25.jpg" alt="Photo for 25 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may25.jpg" title="Photo for 25 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>26 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.703&p=1.990&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may26.jpg" alt="Photo for 26 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may26.jpg" title="Photo for 26 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>27 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.795&p=2.203&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may27.jpg" alt="Photo for 27 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may27.jpg" title="Photo for 27 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>28 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.874&p=2.415&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may28.jpg" alt="Photo for 28 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may28.jpg" title="Photo for 28 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <hr />
   <h3>29 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.936&p=2.628&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Full Moon</small></h3>
-  <img src="/img/photo-diary/photo-may29.jpg" alt="Photo for 29 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <img src="/img/photo-diary/photo-may29.jpg" title="Photo for 29 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
   <p class="diary-phrase"><em>Write your phrase for today.</em></p>
 
   <!--
