@@ -118,14 +118,7 @@ sitemap: false
   .heart-beat {
     display: inline-block;
     position: relative;
-    animation: heart-beat-pulse 0.84s ease-in-out infinite;
-  }
-
-  .heart-beat .heart-alt {
-    position: absolute;
-    inset: 0;
-    opacity: 0;
-    animation: heart-beat-alt 0.97s steps(1, end) infinite;
+    animation: heart-beat-pulse 0.82s ease-in-out infinite;
   }
 
   @keyframes heart-beat-pulse {
@@ -187,7 +180,7 @@ sitemap: false
   <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
     Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of things I notice, moments that linger — thinking of you, thinking of us. <br/>
     <br/>
-    ✨&nbsp;&nbsp;🦒&nbsp;&nbsp;<span class="heart-beat"><span class="heart-main">❤️</span><span class="heart-alt">♥️</span></span>&nbsp;&nbsp;🦦&nbsp;&nbsp;🔥
+    ✨&nbsp;&nbsp;🦒&nbsp;&nbsp;<span class="heart-beat">❤️</span>&nbsp;&nbsp;🦦&nbsp;&nbsp;🔥
     <br/>
     <span id="diary-countdown" class="diary-countdown">Calculating the next moonlit arrival...</span>
   </p>
