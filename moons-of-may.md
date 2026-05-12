@@ -114,6 +114,54 @@ sitemap: false
   .secret-pop:active .secret-pop-text {
     display: block;
   }
+
+  .heart-beat {
+    display: inline-block;
+    position: relative;
+    animation: heart-beat-pulse 0.97s ease-in-out infinite;
+  }
+
+  .heart-beat .heart-alt {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    animation: heart-beat-alt 0.97s steps(1, end) infinite;
+  }
+
+  @keyframes heart-beat-pulse {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+
+    18% {
+      transform: scale(1.18);
+    }
+
+    36% {
+      transform: scale(1);
+    }
+
+    54% {
+      transform: scale(1.1);
+    }
+
+    72% {
+      transform: scale(1);
+    }
+  }
+
+  @keyframes heart-beat-alt {
+    0%,
+    49% {
+      opacity: 0;
+    }
+
+    50%,
+    100% {
+      opacity: 1;
+    }
+  }
 </style>
 
 <div id="diary-locked" style="max-width: 680px; margin: 0 auto 2rem auto; padding: 1.25rem; border-radius: 8px;">
@@ -139,7 +187,7 @@ sitemap: false
   <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
     Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of things I notice, moments that linger — thinking of you, thinking of us. <br/>
     <br/>
-    ✨ 🦒 ❤️ 🦦 🔥
+    ✨&nbsp;&nbsp;🦒&nbsp;&nbsp;<span class="heart-beat"><span class="heart-main">❤️</span><span class="heart-alt">♥️</span></span>&nbsp;&nbsp;🦦&nbsp;&nbsp;🔥
     <br/>
     <span id="diary-countdown" class="diary-countdown">Calculating the next moonlit arrival...</span>
   </p>
