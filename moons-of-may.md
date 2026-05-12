@@ -201,7 +201,7 @@ sitemap: false
   <hr />
   <h3>12 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.225&p=5.294&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
   <img src="/img/photo-diary/photo-may12.jpg" alt="Photo for 12 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Stark contrast, brisk with rusty.</em></p>
+  <p class="diary-phrase"><em>Stark contrast; brisk and rust.</em></p>
 
   <hr />
   <h3>13 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.143&p=5.507&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
