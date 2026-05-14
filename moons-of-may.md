@@ -216,8 +216,8 @@ sitemap: false
 
   <hr />
   <h3>14 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.077&p=5.720&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may14.jpg" title="Photo for 14 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may14.jpg" title="Different liquids; all somehow intimately related to you" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>A panacea.</em></p>
 
   <hr />
   <h3>15 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.030&p=5.932&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
