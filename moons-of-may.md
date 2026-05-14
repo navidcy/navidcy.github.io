@@ -212,7 +212,7 @@ sitemap: false
   <hr />
   <h3>13 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.143&p=5.507&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waning Crescent</small></h3>
   <img src="/img/photo-diary/photo-may13.jpg" title="Came home and found them sleeping like this holding hands... ehm... wheels.." style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Love is (amongst other things) to hold hands while asleep.</em></p>
+  <p class="diary-phrase"><em>Love is (amongst other things) to hold hands while asleep. 💤</em></p>
 
   <hr />
   <h3>14 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.077&p=5.720&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
