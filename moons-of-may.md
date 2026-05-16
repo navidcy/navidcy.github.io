@@ -226,8 +226,8 @@ sitemap: false
 
   <hr />
   <h3>16 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.005&p=6.145&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may16.jpg" title="Photo for 16 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may16.jpg" title="For example, 'Red delicious apples' 🍎: if an apple needs 'delicious' in their name then something's fishy, right?" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Always bit skeptical of over-emphatic statements.</em></p>
 
   <hr />
   <h3>17 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.001&p=0.075&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
