@@ -231,8 +231,8 @@ sitemap: false
 
   <hr />
   <h3>17 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.001&p=0.075&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>New Moon</small></h3>
-  <img src="/img/photo-diary/photo-may17.jpg" title="Photo for 17 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may17.png" title="Always good to have something on the side for emergency situations." style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Rain makes you appreciate windscreen wipers.</em></p>
 
   <hr />
   <h3>18 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.021&p=0.288&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
