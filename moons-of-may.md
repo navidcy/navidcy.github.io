@@ -182,9 +182,11 @@ sitemap: false
 <div id="diary-content" style="display: none;">
   <h1 style="text-align: center; margin: 1em 0 0.35rem 0;">Moons of May</h1>
   <p style="text-align: right; margin: 1em 0 1.25rem 0; font-size: 0.9em; font-style: italic; color: #aeb6c2;">for Gemma mou</p>
+  <p style="text-align: center; margin: 3em 0 0.35rem 0; font-size: 0.95em; color: #ffd27d;">From May 19th onwards, new diary entry will drop at 10:30pm Melbourne time 🐨 ✨</p>
 
   <p style="max-width: 680px; margin: 5em auto 5em auto; text-align: center; font-size: 0.98em; color: #c8ced6;">
-    Each day, precisely at <em>midnight</em> (Melbourne time), a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of things I notice, moments that linger — thinking of you, thinking of us. <br/>
+    Each day, a photo and short (or long?) phrase will appear, giving you a small moonlit glimpse of things I notice, moments that linger — thinking of you, thinking of us. <br/>
+    Release time is <em>midnight</em> (Melbourne time) through 18 May, then <em>10:30pm</em> from 19 May onward. <br/>
     <br/>
     ✨&nbsp;&nbsp;🦒&nbsp;&nbsp;<span class="heart-beat">❤️</span>&nbsp;&nbsp;🦦&nbsp;&nbsp;🔥
     <br/>
@@ -236,13 +238,13 @@ sitemap: false
 
   <hr />
   <h3>18 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.021&p=0.288&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may18.jpg" title="Photo for 18 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may18.jpg" title="We sometimes tend to forget when we are in the midst of it.." style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Clarity emerges from the fog.</em></p>
 
   <hr />
   <h3>19 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.061&p=0.500&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
-  <img src="/img/photo-diary/photo-may19.jpg" title="Photo for 19 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may19.jpg" title="Thanks Gemma mou for teaching me to cook this! 🍚" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Metamorphosis.</em></p>
 
   <hr />
   <h3>20 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.122&p=0.713&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Crescent</small></h3>
@@ -391,6 +393,9 @@ sitemap: false
     }
 
     function releaseTimeForMelbourneMay2026(day) {
+      if (day >= 19) {
+        return Date.UTC(2026, 4, day, 12, 30, 0);
+      }
       return Date.UTC(2026, 4, day, 13, 59, 59);
     }
 
