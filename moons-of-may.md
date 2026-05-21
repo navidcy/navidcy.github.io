@@ -253,8 +253,8 @@ sitemap: false
 
   <hr />
   <h3>21 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.199&p=0.926&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may21.jpg" title="Photo for 21 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may21.jpg" title="Inspired by Holly, I bought a chocolate I would have never bought before.. 🍫" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>The memory of the revolutionary Vivienne Westwood emerged today... 🥼 👗</em></p>
 
   <hr />
   <h3>22 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.291&p=1.139&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
