@@ -263,8 +263,8 @@ sitemap: false
 
   <hr />
   <h3>23 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.391&p=1.351&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
-  <img src="/img/photo-diary/photo-may23.jpg" title="Photo for 23 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may23.jpg" title="That's the real definition of purple 🟣" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Parasitic or symbiotic connections.</em></p>
 
   <hr />
   <h3>24 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.497&p=1.564&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>First Quarter</small></h3>
