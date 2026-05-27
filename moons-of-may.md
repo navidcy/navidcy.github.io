@@ -283,8 +283,8 @@ sitemap: false
 
   <hr />
   <h3>27 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.795&p=2.203&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may27.jpg" title="Photo for 27 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may27.jpg" title="Sharing is caring" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Love is (amongst other things) to read to each other while falling asleep.</em></p>
 
   <hr />
   <h3>28 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.874&p=2.415&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
