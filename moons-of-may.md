@@ -288,8 +288,8 @@ sitemap: false
 
   <hr />
   <h3>28 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.874&p=2.415&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
-  <img src="/img/photo-diary/photo-may28.jpg" title="Photo for 28 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may28.jpg" title="'I don’t want surgery ever again'" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Note to self: don't put 9-volt square batteries and coins in pocket 🔥 ⚡️ 🪫 ‼️</em></p>
 
   <hr />
   <h3>29 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.936&p=2.628&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Full Moon</small></h3>
