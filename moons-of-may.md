@@ -293,8 +293,13 @@ sitemap: false
 
   <hr />
   <h3>29 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.936&p=2.628&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Full Moon</small></h3>
-  <img src="/img/photo-diary/photo-may29.jpg" title="Photo for 29 May 2026" style="max-width: 100%; height: auto; border-radius: 6px;" />
-  <p class="diary-phrase"><em>Write your phrase for today.</em></p>
+  <img src="/img/photo-diary/photo-may29.jpg" title="Yet another 20hrs in Darwin" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Endurance and patience.</em></p>
+
+  <hr />
+  <h3>30 May 2026 <img class="moon-phase-icon" src="https://www.timeanddate.com/scripts/moon.php?i=0.936&p=2.628&r=2.404" alt="Moon phase for Melbourne/Dili" title="Moon phase for Melbourne/Dili" /> <small>Waxing Gibbous</small></h3>
+  <img src="/img/photo-diary/photo-may30.jpg" title="🦒 ❤️ 🦦 ✨ ❤️‍🔥" style="max-width: 100%; height: auto; border-radius: 6px;" />
+  <p class="diary-phrase"><em>Skin contact.</em></p>
 
   <!--
   <hr />
