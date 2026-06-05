@@ -21,7 +21,7 @@ title: Students
 ## Masters/Honours
 
 - Lara Buhagiar<br />
-  February 2026 - November 2027; University of Melbourne (**Masters**) <br/>
+  February 2026 - November 2029; University of Melbourne (**Masters**) <br/>
 
 
 - Tatiana Prada Lopez <br/>
