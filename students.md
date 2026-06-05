@@ -18,10 +18,6 @@ title: Students
   February 2025 - ; University of Melbourne
 
 
-- [Md Ayshik Rahman Khan][ayshik-scholar]<br/>
-  July 2024 - ; University of Melbourne
-
-
 ## Masters/Honours
 
 - Lara Buhagiar<br />
@@ -31,6 +27,9 @@ title: Students
 - Tatiana Prada Lopez <br/>
   July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
 
+
+- [Md Ayshik Rahman Khan][ayshik-scholar] (**Masters**) <br/>
+  July 2024 - ; University of Melbourne
 
 # Alumni
 
