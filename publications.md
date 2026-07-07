@@ -9,9 +9,11 @@ title: Publications
 
 ### Submitted/In review
 
-<!--
-0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ submitted on Jan 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
--->
+
+<!-- 0. **Constantinou, N. C.**, Neme, J., Aguiar, W., Auger, M., Barnes, A. J., Beucher, R., Bhagtani, D., Bull, C. Y. S., Dawson, H., Day, N., Dias, F. B., Doddridge, E. W., Ellepola, A., Fierro-Arcos, D., Gibson, A., Heerdegen, A., Holmes, R. M., Hogg, A. McC., Huguenin, M. F., Huneke, W., Jeffree, J., Kiss, A. E., Li, M., Martínez-Moreno, J., Martin, P., Meijer, J. J., Moore, T., Moorman, R., Morrison, A. K., Munroe, J., Narayanan, A., Oliveira, M., Ong, E. Q. Y., Rosevear, M. G., Schmidt, C., Sohail, T., Spence, P., Squire, D. T., Steketee, A., Turner, C., Vilela da Silva, F., White, M., Yang, L., Yung, C., and Zika, J. (2026). COSIMA Cookbook: a community resource for ocean and sea-ice modelling. _J. Open Source Educ._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repo</span>][cosima-cookbook-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cosima-cookbook-jose] -->
+
+
+1. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][la-nina-flavours-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][la-nina-flavours]
 
 
 0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, Lee, X. K., and Ferrari, R. (2026). A low-storage Runge-Kutta framework for nonlinear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Apr 2026; doi:[10.22541/essoar.15002225/v1](https://doi.org/10.22541/essoar.15002225/v1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][RK-timestepper-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][RK-timestepper-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RK-timestepper]
@@ -202,6 +204,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 - Formation of large-scale structures by turbulence in rotating planets, Ph.D. thesis, National and Kapodistrian University of Athens, 2015. [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][phd_eng]
 
+[la-nina-flavours-repo]: https://github.com/navidcy/LaNina-flavours
+[cosima-cookbook-repo]: https://github.com/COSIMA/cosima-recipes
 [RK-timestepper-repo]: https://github.com/simone-silvestri/TimestepperTestCases.jl
 [oceananigans-overview-repo]: https://github.com/glwagner/OceananigansPaper
 [internal-tide-parameterizations-repo]: https://github.com/DJmath1729/Ocean-hill-stress
@@ -225,7 +229,8 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [regional-mom6-docs]: https://regional-mom6.readthedocs.io/en/latest/
 [regional-mom6-JOSS-review]: https://joss.theoj.org/papers/d396435c09aae4c2f4b62cdbc1493c1e
 
-
+[la-nina-flavours]: LaNina-flavours.pdf
+[cosima-cookbook-jose]: cosima-cookbook-jose.pdf
 [RK-timestepper]: RK-timestepper.pdf
 [internal-tide-parameterizations]: internal-tide-parameterizations.pdf
 [betaplane-surface-waves]: betaplane-surface-waves.pdf
