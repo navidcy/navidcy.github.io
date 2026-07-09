@@ -13,27 +13,17 @@ title: Publications
 <!-- 0. **Constantinou, N. C.**, Neme, J., Aguiar, W., Auger, M., Barnes, A. J., Beucher, R., Bhagtani, D., Bull, C. Y. S., Dawson, H., Day, N., Dias, F. B., Doddridge, E. W., Ellepola, A., Fierro-Arcos, D., Gibson, A., Heerdegen, A., Holmes, R. M., Hogg, A. McC., Huguenin, M. F., Huneke, W., Jeffree, J., Kiss, A. E., Li, M., Martínez-Moreno, J., Martin, P., Meijer, J. J., Moore, T., Moorman, R., Morrison, A. K., Munroe, J., Narayanan, A., Oliveira, M., Ong, E. Q. Y., Rosevear, M. G., Schmidt, C., Sohail, T., Spence, P., Squire, D. T., Steketee, A., Turner, C., Vilela da Silva, F., White, M., Yang, L., Yung, C., and Zika, J. (2026). COSIMA Cookbook: a community resource for ocean and sea-ice modelling. _J. Open Source Educ._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repo</span>][cosima-cookbook-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cosima-cookbook-jose] -->
 
 
-1. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][la-nina-flavours-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][la-nina-flavours]
+0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Nat. Commun._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][la-nina-flavours-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][la-nina-flavours]
 
 
 0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, Lee, X. K., and Ferrari, R. (2026). A low-storage Runge-Kutta framework for nonlinear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Apr 2026; doi:[10.22541/essoar.15002225/v1](https://doi.org/10.22541/essoar.15002225/v1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][RK-timestepper-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][RK-timestepper-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RK-timestepper]
 
-0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2025). Unravelling how winds and surface heat fluxes control the Atlantic Ocean's meridional heat transport. _Clim. Dyn._ (submitted on May 2025; doi:[10.48550/arXiv.2401.14230](https://doi.org/10.48550/arXiv.2401.14230)) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
-
-
 0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Ramadhan, A., Campin, J.-M., Hill, C., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Souza, A., Burns, K. J., Bishnu, S., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales with Oceananigans. _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; revised on Nov 2025; revised again on May 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
-
-
-0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. _J. Fluid Mech._ (submitted on Jan 2023, revised on Jun 2023; doi:[10.48550/arXiv.2301.03122](https://doi.org/10.48550/arXiv.2301.03122){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
-
-
-0. Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023). Stokes drift should not be added to ocean general circulation model velocities. _Geophys. Res. Lett._ (submitted on Oct 2022, revised on Apr 2023; doi:[10.48550/arXiv.2210.08552](https://doi.org/10.48550/arXiv.2210.08552){:target="_blank"}) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift]
 {: reversed="reversed"}
-
 
 ### In press/Published
 
-1. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2026). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._, **56(3)**, 643–664. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][internal-tide-parameterizations-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][internal-tide-parameterizations-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations]
+0. Johnston, D. R., Shakespeare, C. J., and **Constantinou, N. C.** (2026). Evaluating and improving wave and non-wave stress parameterizations for oceanic flows. _J. Phys. Oceanogr._, **56(3)**, 643–664. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][internal-tide-parameterizations-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][internal-tide-parameterizations-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][internal-tide-parameterizations] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1175/JPO-D-25-0064.1"></span>
 
 
 0. Wagner, G. L. and **Constantinou, N. C.** (2025). Phenomenology of decaying turbulence beneath surface waves. _J. Fluid Mech._, **1020**, A51. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][betaplane-surface-waves-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][betaplane-surface-waves-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][betaplane-surface-waves] <span align="right" class='altmetric-embed' data-badge-type="2" data-condensed="true" data-hide-less-than="2" data-doi="10.1017/jfm.2025.10649"></span>
@@ -175,7 +165,17 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
+0. Bhagtani, D., Hogg, A. McC., Holmes, R. M., and **Constantinou, N. C.** (2025). Unravelling how winds and surface heat fluxes control the Atlantic Ocean's meridional heat transport. [arXiv:2401.14230][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2401.14230]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][atlanticMHT]
+
+
+0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. [arXiv:2301.03122][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
+
+
+0. Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023). Stokes drift should not be added to ocean general circulation model velocities. [arXiv:2210.08552][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift]
+
+
 0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Antarctica has its own ‘shield’ against warm water - but this could now be under threat, _The Conversation_, May 23rd, 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-asc-meltwater]{:target="_blank"}
+
 
 0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A Julia library that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
 
