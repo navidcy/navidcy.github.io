@@ -13,13 +13,15 @@ title: Publications
 <!-- 0. **Constantinou, N. C.**, Neme, J., Aguiar, W., Auger, M., Barnes, A. J., Beucher, R., Bhagtani, D., Bull, C. Y. S., Dawson, H., Day, N., Dias, F. B., Doddridge, E. W., Ellepola, A., Fierro-Arcos, D., Gibson, A., Heerdegen, A., Holmes, R. M., Hogg, A. McC., Huguenin, M. F., Huneke, W., Jeffree, J., Kiss, A. E., Li, M., Martínez-Moreno, J., Martin, P., Meijer, J. J., Moore, T., Moorman, R., Morrison, A. K., Munroe, J., Narayanan, A., Oliveira, M., Ong, E. Q. Y., Rosevear, M. G., Schmidt, C., Sohail, T., Spence, P., Squire, D. T., Steketee, A., Turner, C., Vilela da Silva, F., White, M., Yang, L., Yung, C., and Zika, J. (2026). COSIMA Cookbook: a community resource for ocean and sea-ice modelling. _J. Open Source Educ._ (submitted on Jul 2026) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repo</span>][cosima-cookbook-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cosima-cookbook-jose] -->
 
 
-0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Clim. Dynam._ (submitted on Jul 2026; doi:[10.21203/rs.3.rs-10585283/v1](https://doi.org/10.21203/rs.3.rs-10585283/v1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][la-nina-flavours-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][la-nina-flavours]
+0. Freund, M. B., Heidemann, H., Sengupta, A., Lieber, R., and **Constantinou, N. C.** (2026). Characteristics and impacts of La Niña diversity on Pacific teleconnections. _Clim. Dynam._ (submitted on Jul 2026; doi:[10.21203/rs.3.rs-10585283/v1](https://doi.org/10.21203/rs.3.rs-10585283/v1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][la-nina-flavours-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][la-nina-flavours-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][la-nina-flavours]
 
 
 0. Silvestri, S., Campin, J.-M., Wagner, G. L., **Constantinou, N. C.**, Lee, X. K., and Ferrari, R. (2026). A low-storage Runge-Kutta framework for nonlinear free-surface ocean models. _J. Adv. Model. Earth Sy._ (submitted on Apr 2026; doi:[10.22541/essoar.15002225/v1](https://doi.org/10.22541/essoar.15002225/v1)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][RK-timestepper-repo] [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][RK-timestepper-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][RK-timestepper]
 
+
 0. Wagner, G. L., Silvestri, S., **Constantinou, N. C.**, Ramadhan, A., Campin, J.-M., Hill, C., Chor, T., Strong-Wright, J., Lee, X. K., Poulin, F., Souza, A., Burns, K. J., Bishnu, S., Marshall, J., and Ferrari, R. (2025). High-level, high-resolution ocean modeling at all scales with Oceananigans. _J. Adv. Model. Earth Sy._ (submitted on Feb 2025; revised on Nov 2025; revised again on May 2026; doi:[10.48550/arXiv.2502.14148](https://doi.org/10.48550/arXiv.2502.14148)) [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">datasets and notebooks</span>][oceananigans-overview-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2502.14148]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-overview]
 {: reversed="reversed"}
+
 
 ### In press/Published
 
@@ -174,7 +176,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 0. Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023). Stokes drift should not be added to ocean general circulation model velocities. [arXiv:2210.08552][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift]
 
 
-0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Antarctica has its own ‘shield’ against warm water - but this could now be under threat, _The Conversation_, May 23rd, 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-asc-meltwater]{:target="_blank"}
+0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Antarctica has its own ‘shield’ against warm water - but this could now be under threat, _The Conversation_, May 23rd, 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-asc-meltwater]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][theconversation-asc-meltwater-doi]{:target="_blank"}
 
 
 0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A Julia library that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
@@ -183,10 +185,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 0. Miller, J. W., O'Neil, C., **Constantinou, N. C.**, and Anzecot, O. (2022). Eigenvalue initialisation and regularisation for Koopman autoencoders. [arXiv:2212.12086][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][eigeninit-eigenloss-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][eigeninit-eigenloss]
 
 
-0. **Constantinou, N. C.** (2021). How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"}
+0. **Constantinou, N. C.** (2021). How machine learning is helping us fine-tune climate models to reach unprecedented detail, _The Conversation_, August 18th, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-mlclimate]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][theconversation-mlclimate-doi]{:target="_blank"}
 
 
-0. **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021). Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"}
+0. **Constantinou, N. C.**, Martínez-Moreno, J., Hogg, A. McC., England, M. H., Kiss, A. E., and Morrison, A. K. (2021). Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change, _The Conversation_, April 23rd, 2021. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-globaleketrends]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][theconversation-globaleketrends-doi]{:target="_blank"}
 
 
 0. Lozano-Durán, A., Nikolaidis, M.-A., **Constantinou, N. C.**, and Karp, M. (2019). Wall turbulence without modal instability of the streaks. [arXiv:1909.05490][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][modallystableturbulence-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][modallystableturbulence]
@@ -195,7 +197,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 0. Lozano-Durán, A, Karp, M., and **Constantinou, N. C.** (2018). Wall turbulence with constrained energy extraction from the mean flow, _Center for Turbulence Research &ndash; Annual Research Briefs_, 209-220. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][wallturbulencebrief-url] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][wallturbulencebrief]
 
 
-0. **Constantinou, N. C.** (2018). Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"}
+0. **Constantinou, N. C.** (2018). Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant, _The Conversation_, August 10th, 2018. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][theconversation-doi]{:target="_blank"}
 {: reversed="reversed"}
 
 <br>
@@ -278,6 +280,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [wallturbulencebrief]: WallTurbulenceEnergyExtraction.pdf
 [wallturbulencebrief-url]: https://ctr.stanford.edu/annual-research-briefs-2018
 
+[la-nina-flavours-doi]: https://doi.org/10.21203/rs.3.rs-10585283/v1
 [RK-timestepper-doi]: https://doi.org/10.22541/essoar.15002225/v1
 [internal-tide-parameterizations-doi]: https://doi.org/10.1175/JPO-D-25-0064.1
 [betaplane-surface-waves-doi]: https://doi.org/10.1017/jfm.2025.10649
@@ -360,6 +363,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
 [theconversation-asc-meltwater]: https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738
+[theconversation-asc-meltwater-doi]: https://doi.org/10.64628/AA.mfagkmh36
 [JClimateUOHC-clexbrief]: https://climateextremes.org.au/can-the-oceans-intrinsic-dynamics-feedback-on-the-atmosphere/
 [geophysicalflows-clexbrief]: https://climateextremes.org.au/research-brief-new-julia-package-solves-geophysical-fluid-dynamics-problems/
 [geophysicalflows-blog]: https://climateextremes.org.au/developing-and-publishing-open-source-software-and-my-experience-with-an-open-peer-review-process/
@@ -369,11 +373,14 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [anu-press-magnetic]: http://www.anu.edu.au/news/all-news/study-helps-solve-mystery-under-jupiter%E2%80%99s-coloured-bands
 [llnl-press-magnetic]: https://www.llnl.gov/news/lab-researchers-find-magnetic-fields-impact-atmospheric-circulation-gas-giant-planets
 [theconversation-mlclimate]: https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818
+[theconversation-mlclimate-doi]: https://doi.org/10.64628/AA.atedgu7df
 [theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
+[theconversation-globaleketrends-doi]: https://doi.org/10.64628/AA.eh6at6tdr
 [theconversation-so-review]: https://theconversation.com/giant-waves-monster-winds-and-earths-strongest-current-heres-why-the-southern-ocean-is-a-global-engine-room-233669
 [soreview-issuecover-doi]: https://doi.org/10.1002/rog.20326
 [betaplane-surface-waves-issuecover-doi]: https://doi.org/10.1017/jfm.2025.10785
 [theconversation]: https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324
+[theconversation-doi]: https://doi.org/10.64628/AA.fcmtqkn6d
 [magneticZI-clexbrief]: https://climateextremes.org.au/research-brief-magnetic-suppression-of-zonal-flows-on-a-beta-plane/
 [magneticviscosity-clexbrief]: https://climateextremes.org.au/research-brief-how-magnetic-fields-can-make-water-behave-like-honey/
 [SSDEckhaus-clexbrief]: https://climateextremes.org.au/research-brief-new-understanding-reveals-how-jets-and-cyclones-interact/
