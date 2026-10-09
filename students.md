@@ -6,6 +6,10 @@ title: Students
 
 ## Ph.D. students
 
+- [Isaac Miles-Fine][isaac-website]<br/>
+  March 2026 - ; University of Melbourne
+
+
 - [Brodie Ellis][brodie-website]<br/>
   February 2026 - ; Victorian College of the Arts, University of Melbourne
 
@@ -77,6 +81,7 @@ title: Students
   November 2019 - February 2020; Australian National University (**3rd year**) <br/>
   Fourier-based pseudospectral methods for solving partial differential equations
 
+[isaac-website]: https://sgeas.unimelb.edu.au/research/weather-prediction-and-data-assimilation/people
 [ayshik-scholar]: https://scholar.google.com/citations?user=4s75ALIAAAAJ
 [waylon-github]: https://github.com/waylonwh
 [brodie-website]: https://www.brodieellis.com
