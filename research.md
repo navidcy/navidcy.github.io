@@ -49,7 +49,7 @@ Read more about how machine learning can enhance the accuracy of climate and oce
 
 Not all ocean variability is forced by the atmosphere. A significant part is *intrinsic*: it emerges from the ocean's own nonlinear, eddying dynamics. We showed that this intrinsic ocean variability [contributes substantially to decadal variations in upper-ocean heat content][intrinsic-ocean-var-paper]{:target="_blank"}, and can then feed back onto the atmosphere through air–sea interactions. This is something coupled climate models that do not resolve mesoscale eddies cannot capture.
 
-<div class="research-fig full"><img src="../img/eke-trends.jpg" alt="Trends in surface eddy kinetic energy from satellite altimetry, 1993–2020" /><br/>Trends in surface eddy kinetic energy, 1993–2020.<br/>Credit: <a href="https://doi.org/10.1038/s41558-021-01006-9" target="_blank">Martínez-Moreno et al. (2021)</a></div>
+<div class="research-fig full"><img src="../img/eke-trends.jpg" alt="Trends in surface eddy kinetic energy from satellite altimetry, 1993–2020" /><br/>Trends in surface eddy kinetic energy, 1993–2020.<br/>Credit: <a href="../publications">Martínez-Moreno et al. (2021)</a></div>
 
 The ocean's mesoscale is also changing. Using a framework for [estimating the kinetic energy of eddy-like features from satellite altimetry][TrackEddies-SSH-paper]{:target="_blank"}, we found [global changes in oceanic mesoscale currents over the satellite altimetry record][global-eke-trends-paper]{:target="_blank"}: eddy kinetic energy has increased in many energetic regions of the ocean over the past few decades ([read more in The Conversation][theconversation-globaleketrends]{:target="_blank"}).
 
@@ -59,7 +59,7 @@ At the scale of ocean basins, I'm interested in how modes of climate variability
 <h2 id="models"></h2><br/>
 # Next-generation ocean and climate models
 
-<div class="research-fig left"><img src="../img/agulhas-vorticity.jpg" alt="Surface vorticity in the Agulhas region from a 1/48-degree Oceananigans simulation" /><br/>Surface vorticity in the Agulhas region from a 1/48° near-global Oceananigans simulation.<br/>Credit: <a href="https://doi.org/10.1029/2024MS004465" target="_blank">Silvestri et al. (2025)</a></div>
+<div class="research-fig left"><img src="../img/agulhas-vorticity.jpg" alt="Surface vorticity in the Agulhas region from a 1/48-degree Oceananigans simulation" /><br/>Surface vorticity in the Agulhas region from a 1/48° near-global Oceananigans simulation.<br/>Credit: <a href="../publications">Silvestri et al. (2025)</a></div>
 
 How well we understand the climate is limited by the simulations we can afford to run. Over the past few years, a large part of my work has been building a new generation of open-source ocean and climate model components in [Julia](https://julialang.org){:target="_blank"}. These components are designed from scratch to run on GPUs and to be easy to use, extend, and couple to data-driven tools.
 
