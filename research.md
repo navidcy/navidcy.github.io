@@ -3,89 +3,132 @@ layout: page
 title: Research
 ---
 
-I'm a geophysical fluid dynamicist. I'm interested in questions in oceanic, atmospheric, planetary flows, and fluid mechanics. My main research effort is focused on understanding the mean climate state of the atmosphere and ocean. One of my ambitions is to narrow the gap between theory and simulation in climate science.
+<style>
+.research-fig { width: 320px; max-width: 100%; font-size: 70%; text-align: center; margin-bottom: 1em; }
+.research-fig img { width: 100%; padding-bottom: 0.5em; }
+.research-fig.right { float: right; margin-left: 1em; }
+.research-fig.left { float: left; margin-right: 1em; }
+.research-fig.wide { width: 450px; }
+.research-fig.full { width: 80%; max-width: none; margin: 0.5em auto 1.5em; }
+h1 { clear: both; }
+</style>
 
-<h2 id="ocean"></h2><br/>
-# Ocean
-
-<div style="width:320 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/acc.png" alt="The Antarctic Circumpolar Current" width="320" style="padding-bottom:0.5em;" /><br/>Credit: NASA/JPL</div>
-
-
-The Antarctic Circumpolar Current (ACC) is the largest current in the ocean. The geometry of the Southern Ocean enables the ACC to connect all ocean basins. ACC plays an integral role in the global climate, e.g., by setting up the meridional overturning circulation and controlling the meridional heat transfer in the ocean.
-
-The winds over the Southern Ocean that mainly drive the ACC have been strengthening and shifting polewards due to climate-change and ozone depletion.
-
-I am interested on how the ocean responds to climate-change forcing at different time and length scales. For example, how the [mesoscale flow features have been changing][TrackEddies-SSH-paper]{:target="_blank"} due to changes in the atmospheric circulation, and also how does the strength of the ACC respond to the increasing strength of westerly winds over the Southern Ocean. In particular, I've been trying to delineate the role of [barotropic][eddysaturation-paper]{:target="_blank"} and [baroclinic][eddysaturation-BC-BT-paper]{:target="_blank"} processes that are involved in the ACC's response to changing winds.
-
-Climate models cannot resolve all length scales of oceanic fluid motions and, therefore, they rely on parametrizing the collective effect the small-scale unresolved motions have on the larger scales that the models resolve. Understanding the underlying dynamics is crucial for developing and improving these parametrizations. I've been investigating the role that the [intrinsic ocean dynamics][intrinsic-ocean-var-paper]{:target="_blank"} (i.e., mesoscale flows and smaller; typically unresolved by coupled climate models) have shaping the  large-scale ocean flow at decadal time scales and the effect that these then have on feed back back to the atmosphere via air-sea interactions.
-
-In an attempt to bridge the [gap between theory and simulation in climate science][BAMS-Held-paper]{:target="_blank"}, my work has been focusing on probing the dynamics by which the ocean mesoscale eddies and bathymetric features interact with large-scale currents, like the ACC. I emphasize on understanding using theoretical tools aided with a series of conceptual models of increasing complexity, for example, [quasi-geostrophic turbulence on a beta plane][topo-1layer-paper]{:target="_blank"} or [a primitive equations-model with modest stratification in a channel][eddysaturation-BC-BT-paper]{:target="_blank"}.
+I'm a geophysical fluid dynamicist. I want to understand how the ocean's small scales (eddies, waves, and turbulence) shape its large-scale circulation and, through that, the climate. I combine theory, idealised models of increasing complexity, and realistic simulations. A big part of my effort goes into building new open-source, GPU-native ocean and climate models. With these, the gap between theory and simulation in climate science gets narrower, because the simulations we can run get closer to the questions we want to ask.
 
 
+<h2 id="southern-ocean"></h2><br/>
+# Southern Ocean and the Antarctic margin
 
-<h2 id="atmosphere"></h2><br/>
-# Atmosphere
+<div class="research-fig right"><img src="../img/acc.png" alt="The Antarctic Circumpolar Current" /><br/>Credit: NASA/JPL</div>
 
-Planetary atmospheres self-organize into large-scale coherent structures that vary on time-scales much longer than those of the turbulence they co-exist with. Prominent examples are the Earth's subtropical and polar jet streams. Often these coherent features are energized from the surrounding turbulence, i.e., they are *eddy-driven*. Understanding the dynamics of these large-scale features is vital for understanding the climate.
+The Antarctic Circumpolar Current (ACC) is the largest current in the ocean. It connects all ocean basins and plays a central role in the climate by setting up the meridional overturning circulation and controlling how heat and carbon move around the ocean. The westerly winds that drive the ACC have strengthened and shifted polewards in recent decades.
 
-<div style="width:320 px; float: left; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/jetstream.png" alt="Earth's polar jet-stream" width="320" style="padding-bottom:0.5em;" /><br/>Credit: NASA GSFC</div>
+How does the ACC respond to stronger winds? Observations and eddy-resolving models suggest that its transport is remarkably insensitive to wind changes, a phenomenon known as *eddy saturation*. Using conceptual models of increasing complexity, from [quasi-geostrophic turbulence on a beta plane above topography][topo-1layer-paper]{:target="_blank"} to [a primitive-equation channel model][eddysaturation-BC-BT-paper]{:target="_blank"}, I've worked to delineate the roles of [barotropic][eddysaturation-paper]{:target="_blank"} and baroclinic processes, and of bathymetry, in the ACC's response to changing winds. The Southern Ocean's eddy field is also strongly chaotic, and its [intrinsic variability differs markedly around the continent][occiput-SO-paper]{:target="_blank"}.
 
-However, the dynamics of the coexistence of coherent large-scale features and turbulence is difficult to study because many standard techniques, such as [classical stability analysis][stabilitywiki]{:target="_blank"}, are ineffective. These methods assume that a mean state exist in the absence of the fluctuations and also disregard the effect of these fluctuations on the mean state. This is not the case in planetary atmospheres where the mean state is inseparably connected with turbulence. Recent developments, some in [my doctoral thesis][phdthesis]{:target="_blank"}, have broken through this impasse. The key is to study the [*Statistical State Dynamics*][SSDreview-paper]{:target="_blank"} (SSD) of the flow; i.e., the dynamics of the statistics themselves rather than of individual flow realizations. One aspect of SSD is a new type of stability theory that addresses mean flows in the presence of turbulent fluctuations.
+Closer to Antarctica, the Antarctic Slope Current acts as a barrier between the warm Circumpolar Deep Water offshore and the floating ice shelves. We showed that warm water can cross this barrier through submarine canyons in [intrinsically episodic intrusions][asc-intrusions-paper]{:target="_blank"}, even under steady forcing. We also showed that meltwater from Antarctica can [transiently weaken the Slope Current][asc-meltwater-paper]{:target="_blank"}, which may open the door for more warm water to reach the ice ([read more in The Conversation][theconversation-asc-meltwater]{:target="_blank"}).
 
-I have been using SSD techniques to make analytic and numerical predictions regarding the symmetry breaking of homogeneous atmospheric turbulence and its [self-organization to jets or large-scale coherent waves][s3t-jets-jas-paper]{:target="_blank"}, the [physical mechanism underlying this self-organization][s3t-stab-jas-paper]{:target="_blank"}, the mechanism by which the large-scale structures [equilibrate at finite amplitude][ssd-eckaus-paper]{:target="_blank"}, and also the [co-existence of jets, large-scale waves, and turbulence][ssd-jet-wave-paper]{:target="_blank"}. 
-
-Climate is the statistics of the weather; as such, one often identifies climate with long time-averages from a single-realization model run or an observational record. This viewpoint does not allow for dynamical evolution of the climate state. The study of its SSD naturally allows the climate to evolve. Within the SSD, climate and all the eddy statistics are evolved together. Thus the study of its SSD seems a proper way forward. SSD reveals some key relevant physical processes that are often obscure in the single-realization flow dynamics. Many such phenomena are intrinsically associated with the dynamics of the statistical state and have an analytic expression only in SSD. Within the framework of SSD, for the first time we can determine the possible climate regimes as equilibria of the dynamics and, furthermore, study their sensitivity to parameter variations, transitions between these climate regimes, tipping points, etc.
-
-<h2 id="machine-learning"></h2><br/>
-# Data-driven, physics-informed ocean model parametrizations
-
-<div style="width:320 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/ML.png" alt="Machine learning can enhance the accuracy of climate model parametrizations. [GFDL CM2.6 Climate Model]" width="320" style="padding-bottom:0.5em;" /><br/>Credit: GFDL</div>
-
-Despite the effect that mesoscale eddies have in climate, the lateral resolution needed for climate models to resolve mesoscale motions is restrictive for climate projection. Climate projections require climate model runs of hundreds of years. Therefore, climate projections rely on parametrizations. The development of novel parametrizations or the improvement of those currently implemented in climate models relies on a better understanding of the underlying dynamics. Currently, I'm developing a novel parametrization for the ocean's mesoscale eddy fluxes using data-driven methods and machine learning algorithms.
-
-On 2021, I was awarded a Discovery Early Career Research Award from the Australian Research Council to work on a novel parametrization for the ocean mesoscale using machine learning and data-driven methods. I am using output from eddy-resolving ocean model and physics-informed machine learning techniques to develop better eddy parametrization. Towards this goal, I am actively involved with the ocean modeling team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, in developing new [software](../software) tools that enable seamless interaction between ocean modeling software and machine learning tools. We are currently using these tools to develop and calibrate parametrizations for the mesoscale fluxes and the [ocean's surface boundary layer][catke-physics-paper].
-
-Read more about how machine learning can enhance the accuracy of climate and ocean models in
-[The Conversation](https://theconversation.com/how-machine-lbearning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"}.
+These processes span scales from the circumpolar current down to bottom mixing and surface waves. We review how they connect in [*Closing the loops on Southern Ocean dynamics*][review-SO-paper]{:target="_blank"} ([read more in The Conversation][theconversation-so-review]{:target="_blank"}).
 
 
-<h2 id="gasgiants"></h2><br/>
-# Gas giants
+<h2 id="parametrizations"></h2><br/>
+# Parametrizations: physics-informed and data-driven
 
-<div style="width:320 px; float: left; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/Jupiter-Hubble-2019.png" alt="Jupiter by Hubble; August 2019" width="320" style="padding-bottom:0.5em;" /><br/>Credit: NASA, ESA, A. Simon and M.H. Wong</div>
+<div class="research-fig left"><img src="../img/ML.png" alt="Machine learning can enhance the accuracy of climate model parametrizations. [GFDL CM2.6 Climate Model]" /><br/>Credit: GFDL</div>
+
+Climate projections require simulations hundreds of years long, so climate models cannot afford to resolve every scale of oceanic motion. Instead, they rely on parametrizations: models for the collective effect of unresolved motions on the scales the model does resolve. Better parametrizations come from understanding the underlying dynamics, and increasingly from learning from high-resolution data.
+
+With the ocean team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, we developed [CATKE][catke-physics-paper]{:target="_blank"}, a one-equation parametrization for vertical mixing in the ocean's surface boundary layer. Its free parameters are calibrated automatically against large-eddy simulations using [Ensemble Kalman Inversion][eki-paper]{:target="_blank"}, with tools like [ParameterEstimocean.jl](../software). This approach, physics-based closures whose parameters are learned from data, is how I think parametrizations should be built: interpretable, but systematically constrained by high-fidelity simulations.
+
+Supported by a Discovery Early Career Research Award from the Australian Research Council (awarded in 2021), I've also been developing data-driven, physics-informed parametrizations for the ocean's mesoscale eddy fluxes, using output from eddy-resolving models together with machine-learning methods. Beyond eddies and boundary layers, we have also [evaluated and improved parametrizations of wave and non-wave stresses][wave-stress-paper]{:target="_blank"} that arise when oceanic flows interact with rough bathymetry.
+
+Read more about how machine learning can enhance the accuracy of climate and ocean models in [The Conversation][theconversation-mlclimate]{:target="_blank"}.
 
 
-With my collaborator [Jeffrey Parker][jeffsite]{:target="_blank"}, we studied how magnetic fields in the interior of gas giants may [interrupt the self-organization][magneticZF-paper]{:target="_blank"} of planetary atmospheres into coherent zonal jets. Our results suggest that turbulent magnetic fluctuations when found in an environment with mean shear flows could, effectively, act as an additional viscosity on the mean flow itself. We called this phenomenon "[magnetic viscosity][magneticviscosity-paper]{:target="_blank"}." Simple estimates reveal that this physical mechanism may provide a plausible explanation for the depth-extent of the jets on [Jupiter][Juno-paper]{:target="_blank"} and [Saturn][Cassini-paper]{:target="_blank"} as was recently revealed by spacecrafts *Juno* and *Cassini* respectively.
+<h2 id="variability"></h2><br/>
+# Climate variability
+
+Not all ocean variability is forced by the atmosphere. A significant part is *intrinsic*: it emerges from the ocean's own nonlinear, eddying dynamics. We showed that this intrinsic ocean variability [contributes substantially to decadal variations in upper-ocean heat content][intrinsic-ocean-var-paper]{:target="_blank"}, and can then feed back onto the atmosphere through air–sea interactions. This is something coupled climate models that do not resolve mesoscale eddies cannot capture.
+
+<div class="research-fig full"><img src="../img/eke-trends.jpg" alt="Trends in surface eddy kinetic energy from satellite altimetry, 1993–2020" /><br/>Trends in surface eddy kinetic energy, 1993–2020.<br/>Credit: <a href="../publications">Martínez-Moreno et al. (2021)</a></div>
+
+The ocean's mesoscale is also changing. Using a framework for [estimating the kinetic energy of eddy-like features from satellite altimetry][TrackEddies-SSH-paper]{:target="_blank"}, we found [global changes in oceanic mesoscale currents over the satellite altimetry record][global-eke-trends-paper]{:target="_blank"}: eddy kinetic energy has increased in many energetic regions of the ocean over the past few decades ([read more in The Conversation][theconversation-globaleketrends]{:target="_blank"}).
+
+At the scale of ocean basins, I'm interested in how modes of climate variability shape the climate far from where they originate. For example, we have been characterising the [diversity of La Niña events and their impacts on Pacific teleconnections][la-nina-paper]{:target="_blank"}.
 
 
-<h2 id="wallturbulence"></h2><br/>
-# Wall-bounded turbulent flows
+<h2 id="models"></h2><br/>
+# Next-generation ocean and climate models
 
-<div style="width:450 px; float: right; font-size:70%; text-align:center;"><img style="padding: 0 0 10px 10px; float: right;" src="../img/boundarylayer.png" alt="Jupiter by Hubble; August 2019" width="450" style="padding-bottom:0.5em;" /><br/>Credit: A. Lozano-Durán</div>
+<div class="research-fig left"><img src="../img/agulhas-vorticity.jpg" alt="Surface vorticity in the Agulhas region from a 1/48-degree Oceananigans simulation" /><br/>Surface vorticity in the Agulhas region from a 1/48° near-global Oceananigans simulation.<br/>Credit: <a href="../publications">Silvestri et al. (2025)</a></div>
 
-With my collaborator [Adrian Lozano-Durán][adriansite]{:target="_blank"} (and others), we have been studying the [dynamics of very-large-scale roll--streak motions][vlsm-poiseuille-paper]{:target="_blank"} in three-dimensional flows in regions away from boundaries. The mechanism by which energy feeds from the large-scale motions back to the turbulent fluctuations, thus closing the loop in the self-sustained regeneration cycle of turbulence, remains outstanding. In an attempt to resolve the enigma, we recently demonstrated that the modal instabilities of the streaky coherent structures [are *not* the main players involved in this energy transfer][ModallyStableTurb-paper]{:target="_blank"}.
+How well we understand the climate is limited by the simulations we can afford to run. Over the past few years, a large part of my work has been building a new generation of open-source ocean and climate model components in [Julia](https://julialang.org){:target="_blank"}. These components are designed from scratch to run on GPUs and to be easy to use, extend, and couple to data-driven tools.
+
+I'm one of the core developers of [Oceananigans][oceananigans-paper]{:target="_blank"}, a library for ocean simulations at all scales, from large-eddy simulations of boundary-layer turbulence to global ocean models. Oceananigans' [GPU-based hydrostatic dynamical core][mesoscale-gpu-dycore-paper]{:target="_blank"} makes [mesoscale-resolving global ocean simulations][oceananigans-scalings-paper]{:target="_blank"} routine rather than heroic. Getting there also needed new numerics, such as a [WENO-based momentum advection scheme][weno-paper]{:target="_blank"} tailored to mesoscale turbulence and a [low-storage Runge–Kutta framework][rk-paper]{:target="_blank"} for nonlinear free-surface ocean models. I've also contributed to [OceanBioME][oceanbiome-paper]{:target="_blank"}, for coupled ocean biogeochemistry and physics, and to the atmospheric general circulation model [SpeedyWeather][speedyweather-paper]{:target="_blank"}.
+
+### Air–sea interactions and coupled modelling
+
+The ocean and atmosphere constantly exchange momentum, heat, and freshwater, and many of the questions above, from intrinsic variability to the response of the Southern Ocean to changing winds, are fundamentally coupled problems. To tackle them, I'm a co-owner of [NumericalEarth][numericalearth-org]{:target="_blank"}, the organisation behind [Breeze][breeze-repo]{:target="_blank"}, a GPU-native atmosphere model built on Oceananigans that spans large-eddy simulations up to the mesoscale, and [NumericalEarth.jl][numericalearth-repo]{:target="_blank"}, a framework that couples ocean, sea ice, atmosphere, and land components. With these tools, the ocean and atmosphere can be simulated together at resolutions where air–sea interactions at the oceanic mesoscale and below are explicitly resolved.
+
+See the [software](../software) page for more.
+
+
+<h2 id="earlier-work"></h2><br/>
+# Earlier work: turbulence and coherent structures
+
+<div class="research-fig right"><img src="../img/jetstream.png" alt="Earth's polar jet-stream" /><br/>Credit: NASA GSFC</div>
+
+**Statistical state dynamics of jets.** Planetary atmospheres self-organize into large-scale coherent structures, such as Earth's jet streams, that are maintained by the turbulence they coexist with. Classical [stability analysis][stabilitywiki]{:target="_blank"} assumes that a mean state exists without the fluctuations, so it can't describe these structures. In [my doctoral thesis][phdthesis]{:target="_blank"} and afterwards, I used [*Statistical State Dynamics*][SSDreview-paper]{:target="_blank"} (SSD), the dynamics of the flow statistics themselves, to predict [how homogeneous turbulence self-organizes into jets][s3t-jets-jas-paper]{:target="_blank"}, [the mechanism behind this self-organization][s3t-stab-jas-paper]{:target="_blank"}, [how jets equilibrate at finite amplitude][ssd-eckaus-paper]{:target="_blank"}, and [how jets, large-scale waves, and turbulence coexist][ssd-jet-wave-paper]{:target="_blank"}.
+
+**Gas giants.** With [Jeffrey Parker][jeffsite]{:target="_blank"}, we showed that magnetic fields in the interior of gas giants can [suppress the formation of zonal jets][magneticZF-paper]{:target="_blank"}, and that turbulent magnetic fluctuations act on the mean flow as an effective ["magnetic viscosity"][magneticviscosity-paper]{:target="_blank"}. This mechanism offers a plausible explanation for the depth of the jets on [Jupiter][Juno-paper]{:target="_blank"} and [Saturn][Cassini-paper]{:target="_blank"} revealed by *Juno* and *Cassini*.
+
+**Wall-bounded turbulence.** With [Adrián Lozano-Durán][adriansite]{:target="_blank"} and others, we studied [very-large-scale roll–streak motions][vlsm-poiseuille-paper]{:target="_blank"} in channel flows. We also showed that the modal instabilities of streaks [are *not* the main route][ModallyStableTurb-paper]{:target="_blank"} by which energy is transferred to turbulent fluctuations, and probed the [cause and effect of the linear mechanisms sustaining wall turbulence][cause-effect-paper]{:target="_blank"}.
 
 
 [jeffsite]: https://scholar.google.com/citations?user=_w6i1bEAAAAJ&hl=en
 [adriansite]: https://aeroastro.mit.edu/people/adrian-lozano-duran/
 [stabilitywiki]: https://en.wikipedia.org/wiki/Hydrodynamic_stability
-[catke-physics-paper]: ../publications/catke-physics.pdf
-[magneticviscosity-paper]: ../publications/magneticviscosity-2019.pdf
-[magneticZF-paper]: ../publications/magneticZF-2018.pdf
-[ModallyStableTurb-paper]: ../publications/ModallyStableTurb.pdf
-[vlsm-poiseuille-paper]: ../publications/VLSM-Poiseuille.pdf
-[phdthesis]: ../theses/PhD_thesis_Navid.pdf
-[SSDreview-paper]: http://users.uoa.gr/~pjioannou/papers/SSD_review.pdf
-[ssd-jet-wave-paper]: ../publications/SSD_JetWave.pdf
-[ssd-eckaus-paper]: ../publications/SSD_Eckhaus.pdf
-[s3t-stab-jas-paper]: ../publications/S3T_barotropic_stability.pdf
-[s3t-jets-jas-paper]: ../publications/S3T_jas.pdf
-[TrackEddies-SSH-paper]: ../publications/TrackEddies-SSH.pdf
-[eddysaturation-BC-BT-paper]: ../publications/EddySaturation-BC-BT.pdf
-[eddysaturation-paper]: ../publications/EddySaturation-JPO-2018.pdf
-[topo-1layer-paper]: ../publications/betaplane-topo-1.pdf
-[BAMS-Held-paper]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-86-11-1609
+[clima-website]: https://clima.caltech.edu
 [Juno-paper]: https://doi.org/10.1038/nature25793
 [Cassini-paper]: https://doi.org/10.1126/science.aat2965
+[SSDreview-paper]: http://users.uoa.gr/~pjioannou/papers/SSD_review.pdf
+[phdthesis]: ../theses/PhD_thesis_Navid.pdf
+
+[breeze-repo]: https://github.com/NumericalEarth/Breeze.jl
+[numericalearth-org]: https://github.com/NumericalEarth
+[numericalearth-repo]: https://github.com/NumericalEarth/NumericalEarth.jl
+[eki-paper]: https://doi.org/10.21105/joss.04869
+
+[theconversation-asc-meltwater]: https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738
+[theconversation-so-review]: https://theconversation.com/giant-waves-monster-winds-and-earths-strongest-current-heres-why-the-southern-ocean-is-a-global-engine-room-233669
+[theconversation-mlclimate]: https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818
+[theconversation-globaleketrends]: https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461
+
+[topo-1layer-paper]: ../publications/betaplane-topo-1.pdf
+[eddysaturation-paper]: ../publications/EddySaturation-JPO-2018.pdf
+[eddysaturation-BC-BT-paper]: ../publications/EddySaturation-BC-BT.pdf
+[occiput-SO-paper]: ../publications/occiput-SO.pdf
+[asc-intrusions-paper]: ../publications/asc_canyon_intrusions.pdf
+[asc-meltwater-paper]: ../publications/asc-meltwater.pdf
+[review-SO-paper]: ../publications/review-multiscale-SO.pdf
+[catke-physics-paper]: ../publications/catke-physics.pdf
+[wave-stress-paper]: ../publications/internal-tide-parameterizations.pdf
 [intrinsic-ocean-var-paper]: ../publications/intrinsic-oceanic-decadal-variability.pdf
-[clima-website]: https://clima.caltech.edu
+[TrackEddies-SSH-paper]: ../publications/TrackEddies-SSH.pdf
+[global-eke-trends-paper]: ../publications/global-eke-trends.pdf
+[la-nina-paper]: ../publications/LaNina-flavours.pdf
+[oceananigans-paper]: ../publications/oceananigans-overview.pdf
+[oceananigans-scalings-paper]: ../publications/oceananigans-scalings.pdf
+[mesoscale-gpu-dycore-paper]: ../publications/mesoscale-gpu-dycore.pdf
+[weno-paper]: ../publications/weno-ILES.pdf
+[rk-paper]: ../publications/RK-timestepper.pdf
+[oceanbiome-paper]: ../publications/oceanbiome.pdf
+[speedyweather-paper]: ../publications/speedyweather.pdf
+[s3t-jets-jas-paper]: ../publications/S3T_jas.pdf
+[s3t-stab-jas-paper]: ../publications/S3T_barotropic_stability.pdf
+[ssd-eckaus-paper]: ../publications/SSD_Eckhaus.pdf
+[ssd-jet-wave-paper]: ../publications/SSD_JetWave.pdf
+[magneticZF-paper]: ../publications/magneticZF-2018.pdf
+[magneticviscosity-paper]: ../publications/magneticviscosity-2019.pdf
+[vlsm-poiseuille-paper]: ../publications/VLSM-Poiseuille.pdf
+[ModallyStableTurb-paper]: ../publications/ModallyStableTurb.pdf
+[cause-effect-paper]: ../publications/cause-effect-linearmechanism.pdf
