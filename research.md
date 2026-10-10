@@ -62,7 +62,7 @@ I'm one of the core developers of [Oceananigans][oceananigans-paper]{:target="_b
 
 ### Air–sea interactions and coupled modelling
 
-The ocean and atmosphere constantly exchange momentum, heat, and freshwater, and many of the questions above, from intrinsic variability to the response of the Southern Ocean to changing winds, are fundamentally coupled problems. To tackle them, I'm involved in developing [Breeze][breeze-repo]{:target="_blank"}, a GPU-native atmosphere model built on Oceananigans that spans large-eddy simulations up to the mesoscale. I'm also involved in [ClimaOcean][climaocean-repo]{:target="_blank"} and [NumericalEarth][numericalearth-repo]{:target="_blank"}, which couple ocean, sea ice, and atmosphere components. With these tools, the ocean and atmosphere can be simulated together at resolutions where air–sea interactions at the oceanic mesoscale and below are explicitly resolved.
+The ocean and atmosphere constantly exchange momentum, heat, and freshwater, and many of the questions above, from intrinsic variability to the response of the Southern Ocean to changing winds, are fundamentally coupled problems. To tackle them, I'm involved in developing [Breeze][breeze-repo]{:target="_blank"}, a GPU-native atmosphere model built on Oceananigans that spans large-eddy simulations up to the mesoscale. I'm also involved in [NumericalEarth][numericalearth-repo]{:target="_blank"}, a framework that couples ocean, sea ice, and atmosphere components. With these tools, the ocean and atmosphere can be simulated together at resolutions where air–sea interactions at the oceanic mesoscale and below are explicitly resolved.
 
 See the [software](../software) page for more.
 
@@ -89,7 +89,6 @@ See the [software](../software) page for more.
 [phdthesis]: ../theses/PhD_thesis_Navid.pdf
 
 [breeze-repo]: https://github.com/NumericalEarth/Breeze.jl
-[climaocean-repo]: https://github.com/CliMA/ClimaOcean.jl
 [numericalearth-repo]: https://github.com/NumericalEarth/NumericalEarth.jl
 
 [theconversation-asc-meltwater]: https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738
