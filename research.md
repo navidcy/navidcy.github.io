@@ -36,7 +36,7 @@ These processes span scales from the circumpolar current down to bottom mixing a
 
 Climate projections require simulations hundreds of years long, so climate models cannot afford to resolve every scale of oceanic motion. Instead, they rely on parametrizations: models for the collective effect of unresolved motions on the scales the model does resolve. Better parametrizations come from understanding the underlying dynamics, and increasingly from learning from high-resolution data.
 
-With the ocean team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, we developed [CATKE][catke-physics-paper]{:target="_blank"}, a one-equation parametrization for vertical mixing in the ocean's surface boundary layer. Its free parameters are calibrated automatically against large-eddy simulations using Ensemble Kalman Inversion, with tools like [ParameterEstimocean.jl](../software). This approach, physics-based closures whose parameters are learned from data, is how I think parametrizations should be built: interpretable, but systematically constrained by high-fidelity simulations.
+With the ocean team of the [Climate Modeling Alliance (CliMA)][clima-website]{:target="_blank"}, we developed [CATKE][catke-physics-paper]{:target="_blank"}, a one-equation parametrization for vertical mixing in the ocean's surface boundary layer. Its free parameters are calibrated automatically against large-eddy simulations using [Ensemble Kalman Inversion][eki-paper]{:target="_blank"}, with tools like [ParameterEstimocean.jl](../software). This approach, physics-based closures whose parameters are learned from data, is how I think parametrizations should be built: interpretable, but systematically constrained by high-fidelity simulations.
 
 Supported by a Discovery Early Career Research Award from the Australian Research Council (awarded in 2021), I've also been developing data-driven, physics-informed parametrizations for the ocean's mesoscale eddy fluxes, using output from eddy-resolving models together with machine-learning methods. Beyond eddies and boundary layers, we have also [evaluated and improved parametrizations of wave and non-wave stresses][wave-stress-paper]{:target="_blank"} that arise when oceanic flows interact with rough bathymetry.
 
@@ -62,7 +62,7 @@ I'm one of the core developers of [Oceananigans][oceananigans-paper]{:target="_b
 
 ### Air–sea interactions and coupled modelling
 
-The ocean and atmosphere constantly exchange momentum, heat, and freshwater, and many of the questions above, from intrinsic variability to the response of the Southern Ocean to changing winds, are fundamentally coupled problems. To tackle them, I'm involved in developing [Breeze][breeze-repo]{:target="_blank"}, a GPU-native atmosphere model built on Oceananigans that spans large-eddy simulations up to the mesoscale. I'm also involved in [NumericalEarth][numericalearth-repo]{:target="_blank"}, a framework that couples ocean, sea ice, and atmosphere components. With these tools, the ocean and atmosphere can be simulated together at resolutions where air–sea interactions at the oceanic mesoscale and below are explicitly resolved.
+The ocean and atmosphere constantly exchange momentum, heat, and freshwater, and many of the questions above, from intrinsic variability to the response of the Southern Ocean to changing winds, are fundamentally coupled problems. To tackle them, I'm a co-owner of [NumericalEarth][numericalearth-org]{:target="_blank"}, the organisation behind [Breeze][breeze-repo]{:target="_blank"}, a GPU-native atmosphere model built on Oceananigans that spans large-eddy simulations up to the mesoscale, and [NumericalEarth.jl][numericalearth-repo]{:target="_blank"}, a framework that couples ocean, sea ice, atmosphere, and land components. With these tools, the ocean and atmosphere can be simulated together at resolutions where air–sea interactions at the oceanic mesoscale and below are explicitly resolved.
 
 See the [software](../software) page for more.
 
@@ -89,7 +89,9 @@ See the [software](../software) page for more.
 [phdthesis]: ../theses/PhD_thesis_Navid.pdf
 
 [breeze-repo]: https://github.com/NumericalEarth/Breeze.jl
+[numericalearth-org]: https://github.com/NumericalEarth
 [numericalearth-repo]: https://github.com/NumericalEarth/NumericalEarth.jl
+[eki-paper]: https://doi.org/10.21105/joss.04869
 
 [theconversation-asc-meltwater]: https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738
 [theconversation-so-review]: https://theconversation.com/giant-waves-monster-winds-and-earths-strongest-current-heres-why-the-southern-ocean-is-a-global-engine-room-233669
