@@ -9,7 +9,7 @@ title: Research
 .research-fig.right { float: right; margin-left: 1em; }
 .research-fig.left { float: left; margin-right: 1em; }
 .research-fig.wide { width: 450px; }
-.research-fig.full { width: 100%; max-width: 800px; margin: 0.5em auto 1.5em; }
+.research-fig.full { width: 80vw; max-width: none; position: relative; left: 50%; transform: translateX(-50%); margin: 0.5em 0 1.5em; }
 h1 { clear: both; }
 </style>
 
