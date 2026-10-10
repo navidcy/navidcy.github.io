@@ -19,6 +19,11 @@ A few open-source software packages I'm currently involved in their development 
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceananigans-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceananigans-docs]{:target="_blank"} <br/>
   Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs.
 
+- <tt>Breeze.jl</tt><br/>
+  [https://github.com/NumericalEarth/Breeze.jl][breeze-repo]{:target="_blank"}<br/>
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][breeze-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][breeze-docs]{:target="_blank"} <br/>
+  Fast and friendly Julia software for atmospheric fluid dynamics on CPUs and GPUs, from large-eddy simulations to the mesoscale; built on Oceananigans.jl.
+
 - <tt>OceanBioME.jl</tt><br/>
   [https://github.com/OceanBioME/OceanBioME.jl][oceanbiome-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceanbiome-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceanbiome-docs]{:target="_blank"} <br/>
@@ -49,11 +54,13 @@ A few open-source software packages I'm currently involved in their development 
 [oceananigans-repo]: https://www.github.com/CliMA/Oceananigans.jl
 [parameterestimocean-repo]: https://www.github.com/CliMA/ParameterEstimocean.jl
 [oceanbiome-repo]: https://github.com/OceanBioME/OceanBioME.jl
+[breeze-repo]: https://github.com/NumericalEarth/Breeze.jl
 
 [fourierflows-docs]: https://fourierflows.github.io/FourierFlowsDocumentation/stable/
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [oceananigans-docs]: https://clima.github.io/OceananigansDocumentation/stable/
 [parameterestimocean-docs]: https://clima.github.io/ParameterEstimocean.jl/dev/
 [oceanbiome-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
+[breeze-docs]: https://numericalearth.github.io/BreezeDocumentation/stable/
 
 [github-osm-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w
