@@ -9,6 +9,7 @@ title: Research
 .research-fig.right { float: right; margin-left: 1em; }
 .research-fig.left { float: left; margin-right: 1em; }
 .research-fig.wide { width: 450px; }
+.research-fig.full { width: 100%; max-width: 800px; margin: 0.5em auto 1.5em; }
 h1 { clear: both; }
 </style>
 
@@ -46,9 +47,9 @@ Read more about how machine learning can enhance the accuracy of climate and oce
 <h2 id="variability"></h2><br/>
 # Climate variability
 
-<div class="research-fig right"><img src="../img/eke-trends.jpg" alt="Trends in surface eddy kinetic energy from satellite altimetry, 1993–2020" /><br/>Trends in surface eddy kinetic energy, 1993–2020.<br/>Credit: Martínez-Moreno et al. (2021), <i>Nat. Clim. Change</i></div>
-
 Not all ocean variability is forced by the atmosphere. A significant part is *intrinsic*: it emerges from the ocean's own nonlinear, eddying dynamics. We showed that this intrinsic ocean variability [contributes substantially to decadal variations in upper-ocean heat content][intrinsic-ocean-var-paper]{:target="_blank"}, and can then feed back onto the atmosphere through air–sea interactions. This is something coupled climate models that do not resolve mesoscale eddies cannot capture.
+
+<div class="research-fig full"><img src="../img/eke-trends.jpg" alt="Trends in surface eddy kinetic energy from satellite altimetry, 1993–2020" /><br/>Trends in surface eddy kinetic energy, 1993–2020.<br/>Credit: Martínez-Moreno et al. (2021), <i>Nat. Clim. Change</i></div>
 
 The ocean's mesoscale is also changing. Using a framework for [estimating the kinetic energy of eddy-like features from satellite altimetry][TrackEddies-SSH-paper]{:target="_blank"}, we found [global changes in oceanic mesoscale currents over the satellite altimetry record][global-eke-trends-paper]{:target="_blank"}: eddy kinetic energy has increased in many energetic regions of the ocean over the past few decades ([read more in The Conversation][theconversation-globaleketrends]{:target="_blank"}).
 
