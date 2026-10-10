@@ -24,15 +24,15 @@ A few open-source software packages I'm currently involved in their development 
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][breeze-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][breeze-docs]{:target="_blank"} <br/>
   Fast and friendly Julia software for atmospheric fluid dynamics on CPUs and GPUs, from large-eddy simulations to the mesoscale; built on Oceananigans.jl.
 
+- <tt>NumericalEarth.jl</tt><br/>
+  [https://github.com/NumericalEarth/NumericalEarth.jl][numericalearth-repo]{:target="_blank"}<br/>
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][numericalearth-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][numericalearth-docs]{:target="_blank"} <br/>
+  A framework for simulating the Earth system at all scales with prescribed or prognostic atmosphere, ocean, sea ice, and land components.
+
 - <tt>OceanBioME.jl</tt><br/>
   [https://github.com/OceanBioME/OceanBioME.jl][oceanbiome-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceanbiome-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceanbiome-docs]{:target="_blank"} <br/>
   A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics.
-
-- <tt>ParameterEstimocean.jl</tt><br/>
-  [https://github.com/CliMA/ParameterEstimocean.jl][parameterestimocean-repo]{:target="_blank"}<br/>
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][parameterestimocean-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][parameterestimocean-docs]{:target="_blank"} <br/>
-  Julia software for calibration of ocean turbulence parameterizations using Ensemble Kalman Inversion.
 
 - <tt>FourierFlows.jl</tt><br/>
   [https://github.com/FourierFlows/FourierFlows.jl][fourierflows-repo]{:target="_blank"}<br/>
@@ -52,15 +52,15 @@ A few open-source software packages I'm currently involved in their development 
 [fourierflows-repo]: https://www.github.com/FourierFlows/FourierFlows.jl
 [geophysicalflows-repo]: https://www.github.com/FourierFlows/GeophysicalFlows.jl
 [oceananigans-repo]: https://www.github.com/CliMA/Oceananigans.jl
-[parameterestimocean-repo]: https://www.github.com/CliMA/ParameterEstimocean.jl
 [oceanbiome-repo]: https://github.com/OceanBioME/OceanBioME.jl
 [breeze-repo]: https://github.com/NumericalEarth/Breeze.jl
+[numericalearth-repo]: https://github.com/NumericalEarth/NumericalEarth.jl
 
 [fourierflows-docs]: https://fourierflows.github.io/FourierFlowsDocumentation/stable/
 [geophysicalflows-docs]: https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/
 [oceananigans-docs]: https://clima.github.io/OceananigansDocumentation/stable/
-[parameterestimocean-docs]: https://clima.github.io/ParameterEstimocean.jl/dev/
 [oceanbiome-docs]: https://oceanbiome.github.io/OceanBioME.jl/stable/
 [breeze-docs]: https://numericalearth.github.io/BreezeDocumentation/stable/
+[numericalearth-docs]: https://numericalearth.github.io/NumericalEarthDocumentation/stable/
 
 [github-osm-video]: https://www.youtube.com/watch?v=vsD_PrQ2M5w
