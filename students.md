@@ -7,7 +7,7 @@ title: Students
 ## Ph.D. students
 
 - [Isaac Miles-Fine][isaac-website]<br/>
-  March 2026 - ; University of Melbourne
+  March 2026 - ; School of Geography, Earth and Atmospheric Sciences, University of Melbourne
 
 
 - [Brodie Ellis][brodie-website]<br/>
@@ -19,7 +19,7 @@ title: Students
 
 
 - James Thompson<br/>
-  February 2025 - ; University of Melbourne
+  February 2025 - ; School of Geography, Earth and Atmospheric Sciences, University of Melbourne
 
 
 ## Masters/Honours
