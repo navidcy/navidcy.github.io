@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://www.navidconstantinou.com"
+url: "https://www.navidconstantinou.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Navid Constantinou
 
 # Short description of your site
-description: Personal website of Navid Constantinou
+description: Navid Constantinou is a geophysical fluid dynamicist at the University of Melbourne working on ocean dynamics, climate, and next-generation ocean and climate models.
 
 # --- Navigation bar options --- #
 
@@ -54,7 +54,6 @@ author:
   gscolar: Hf4FZvQAAAAJ    # google scholar profile
   orcid: 0000-0002-8149-4094    # ORCID iD
   bluesky: navidcy.bsky.social  # Bluesky handle
-  twitter: navid_ocean   # eg. navidcy
   #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "3943160/daattali"
 
