@@ -63,7 +63,7 @@ title: Students
 
 - [Jack Miller][jack-github]{:target="_blank"} <br/>
   July 2022 - December 2022; Australian National University (**2nd year**) <br/>
-  Modeling with Koopman autoencoders for data synthesis with application to cyclones
+  Modelling with Koopman autoencoders for data synthesis with application to cyclones
 
 - [Oliver Balfour][oliver-github]{:target="_blank"} <br/>
   February 2022 - June 2022; Australian National University (**2nd year**) <br/>

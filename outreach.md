@@ -13,7 +13,7 @@ the past years.
 
 On August 2018 me and Jeffrey Parker published a paper providing a potential explanation for 
 mysterious the discoveries of _Juno_ regarding the depth-extent of the Jupiter's stripes. 
-I summarized our findings in a piece at [The Conversation](https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324){:target="_blank"}. 
+I summarised our findings in a piece at [The Conversation](https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324){:target="_blank"}. 
 Our findings attracted lots of media attention and in the weeks that followed I gave a few 
 radio interviews discussing them.
 

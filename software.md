@@ -17,7 +17,7 @@ A few open-source software packages I'm currently involved in their development 
 - <tt>Oceananigans.jl</tt><br/>
   [https://github.com/CliMA/Oceananigans.jl][oceananigans-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][oceananigans-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][oceananigans-docs]{:target="_blank"} <br/>
-  Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs.
+  Julia software for fast, friendly, flexible, data-driven, ocean-flavoured fluid dynamics on CPUs and GPUs.
 
 - <tt>Breeze.jl</tt><br/>
   [https://github.com/NumericalEarth/Breeze.jl][breeze-repo]{:target="_blank"}<br/>
