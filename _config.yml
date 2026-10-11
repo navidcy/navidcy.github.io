@@ -52,6 +52,8 @@ author:
   github: navidcy    # eg. navidcsy
   vimeo: navidcy   # eg. navidcy
   gscolar: Hf4FZvQAAAAJ    # google scholar profile
+  orcid: 0000-0002-8149-4094    # ORCID iD
+  bluesky: navidcy.bsky.social  # Bluesky handle
   twitter: navid_ocean   # eg. navidcy
   #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -66,7 +68,9 @@ footer-links-active:
   linkedin: false
   stackoverflow: false
   gscolar: true
-  twitter: true
+  orcid: true
+  bluesky: true
+  twitter: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -77,8 +81,9 @@ footer-links-active:
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-6111476-4"
+# Google Analytics 4 measurement ID (Universal Analytics "UA-..." IDs stopped working in July 2023).
+# Find it in Google Analytics under Admin > Data streams; leave commented out to disable analytics.
+#gtag: "G-XXXXXXXXXX"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
