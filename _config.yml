@@ -70,7 +70,7 @@ footer-links-active:
   gscolar: true
   orcid: true
   bluesky: true
-  twitter: true
+  twitter: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
