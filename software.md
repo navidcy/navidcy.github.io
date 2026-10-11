@@ -37,7 +37,7 @@ A few open-source software packages I'm currently involved in their development 
 - <tt>ParameterEstimocean.jl</tt><br/>
   [https://github.com/CliMA/ParameterEstimocean.jl][parameterestimocean-repo]{:target="_blank"}<br/>
   [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-Green)][parameterestimocean-repo]{:target="_blank"} [![Documentation](https://img.shields.io/badge/documentation-stable%20release-blue)][parameterestimocean-docs]{:target="_blank"} <br/>
-  Julia software for calibration of ocean turbulence parameterizations using [Ensemble Kalman Inversion][eki-paper]{:target="_blank"}.
+  Julia software for calibration of ocean turbulence parameterisations using [Ensemble Kalman Inversion][eki-paper]{:target="_blank"}.
 
 - <tt>FourierFlows.jl</tt><br/>
   [https://github.com/FourierFlows/FourierFlows.jl][fourierflows-repo]{:target="_blank"}<br/>
