@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://www.navidconstantinou.com"
+url: "https://www.navidconstantinou.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Navid Constantinou
 
 # Short description of your site
-description: Personal website of Navid Constantinou
+description: Navid Constantinou is a geophysical fluid dynamicist at the University of Melbourne working on ocean dynamics, climate, and next-generation ocean and climate models.
 
 # --- Navigation bar options --- #
 

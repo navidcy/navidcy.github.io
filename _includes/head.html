@@ -11,9 +11,16 @@
 
   <meta name="author" content="{{ site.author.name }}" />
 
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
-  {% endif %}
+  {%- capture description -%}
+    {%- if page.share-description -%}{{ page.share-description }}
+    {%- elsif page.subtitle -%}{{ page.subtitle }}
+    {%- else -%}{{ site.description }}{%- endif -%}
+  {%- endcapture -%}
+  {%- assign description = description | strip_html | strip_newlines | strip | xml_escape -%}
+  {%- capture page_url -%}{{ site.url }}{{ page.url | remove: 'index.html' }}{%- endcapture -%}
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ page_url }}">
+  <link rel="icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
   {% if page.noindex %}
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
   <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
@@ -89,22 +96,22 @@
     {% endfor %}
   {% endif %}
 
-  <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <!-- Open Graph / social media link previews -->
+  {%- if page.share-img -%}
+    {%- assign share_img = page.share-img -%}
+  {%- else -%}
+    {%- assign share_img = site.avatar -%}
+  {%- endif -%}
+  {%- unless share_img contains '://' -%}
+    {%- assign share_img = share_img | prepend: site.baseurl | prepend: site.url -%}
+  {%- endunless %}
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | xml_escape }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:description" content="{{ description }}" />
   <meta property="og:type" content="website" />
-
-  {% if page.id %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
-  {% else %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
-  {% endif %}
-
-  {% if page.fb-img %}
-  <meta property="og:image" content="{{ page.fb-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% else %}
-  <meta property="og:image" content="" />
-  {% endif %}
+  <meta property="og:url" content="{{ page_url }}" />
+  <meta property="og:image" content="{{ share_img }}" />
+  <meta name="twitter:card" content="summary" />
+  {% if site.author.twitter %}<meta name="twitter:site" content="@{{ site.author.twitter }}" />{% endif %}
 
 </head>
