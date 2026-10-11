@@ -4,10 +4,7 @@ title: Outreach
 #subtitle:
 ---
 
-I strive to communicate the findings of my research to a wide audience.
-
-Read below a sort-of a diary describing about some of the outreach opportunities I had over
-the past years.
+I strive to communicate the findings of my research to a wide audience, and to find new ways of experiencing ocean and climate science, from music and public lectures to writing for The Conversation and chatting on the radio.
 
 ## Music
 
@@ -29,13 +26,20 @@ In 2024 I gave a public lecture, *Oceans in Motion: How Oceans Affect Our Changi
 
 <div style="position:relative; padding-bottom:56.25%; height:0; margin-bottom:1.5em;"><iframe src="https://www.youtube-nocookie.com/embed/Xv5n2M9TSdg" title="Oceans in Motion: How Oceans Affect Our Changing Climate" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Radio, The Conversation, and other activities
+In August 2021, as part of the Atlas of Life South Coast National Science Week (13–21 August 2021), I gave a lecture titled *The ocean currents in a changing climate* in the symposium [*Our East Australian Ocean Hotspot: What is it and how will it change our coastal ecology*](https://atlasoflife.org.au/science-week-2021-presentations/#Navid/){:target="_blank"}. Both the [slides](../presentations/SapphireCoastEACSymposium_Aug2021.pdf){:target="_blank"} and the [recording](https://youtu.be/Xib_t66Mqt8?t=421){:target="_blank"} are available.
 
-On August 2018 me and Jeffrey Parker published a paper providing a potential explanation for 
-mysterious the discoveries of _Juno_ regarding the depth-extent of the Jupiter's stripes. 
-I summarised our findings in a piece at [The Conversation](https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324){:target="_blank"}. 
-Our findings attracted lots of media attention and in the weeks that followed I gave a few 
-radio interviews discussing them.
+## The Conversation
+
+I write for [The Conversation](https://theconversation.com){:target="_blank"} when our research has a story worth telling to a wider audience:
+
+- [Antarctica has its own 'shield' against warm water – but this could now be under threat](https://theconversation.com/antarctica-has-its-own-shield-against-warm-water-but-this-could-now-be-under-threat-255738){:target="_blank"} (May 2025, with Ellie Ong, Matthew England, and Ed Doddridge)
+- [How machine learning is helping us fine-tune climate models to reach unprecedented detail](https://theconversation.com/how-machine-learning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"} (August 2021)
+- [Satellites reveal ocean currents are getting stronger, with potentially significant implications for climate change](https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461){:target="_blank"} (April 2021, with Josué Martínez-Moreno, Andy Hogg, Matthew England, Andrew Kiss, and Adele Morrison)
+- [Jupiter's magnetic fields may stop its wind bands from going deep into the gas giant](https://theconversation.com/jupiters-magnetic-fields-may-stop-its-wind-bands-from-going-deep-into-the-gas-giant-101324){:target="_blank"} (August 2018)
+
+## Radio
+
+In August 2018, Jeffrey Parker and I published a paper offering a potential explanation for _Juno_'s puzzling discovery about how deep Jupiter's stripes extend. Our findings attracted lots of media attention, and in the weeks that followed I gave a few radio interviews discussing them.
 
 <figure>
     <figcaption>ABC Radio Perth, WA Afternoons with Gillian O'Shaughnessy, 10 August 2018</figcaption>
@@ -57,11 +61,7 @@ radio interviews discussing them.
     </audio>
 </figure>
 
-On April 2021 our [research regarding trends in ocean eddies came out](../publications/global-eke-trends.pdf){:target="_blank"}. 
-I was invited to write up a little piece about our findings in [The Conversation](https://theconversation.com/satellites-reveal-ocean-currents-are-getting-stronger-with-potentially-significant-implications-for-climate-change-159461){:target="_blank"} 
-and following that, there were several radio interview requests.
-
-I enjoyed a lot, e.g., the chat I had with [Ruth](https://eastsidefm.org/mondaydrive/){:target="_blank"}:
+In April 2021, our [research on trends in ocean eddies](../publications/global-eke-trends.pdf){:target="_blank"} came out, and there were several radio interview requests. I particularly enjoyed my chat with [Ruth](https://eastsidefm.org/mondaydrive/){:target="_blank"}:
 
 <figure>
     <figcaption>Eastside FM, Monday Drive with Ruth Hessey, 17 May 2021</figcaption>
@@ -73,11 +73,7 @@ I enjoyed a lot, e.g., the chat I had with [Ruth](https://eastsidefm.org/mondayd
     </audio>
 </figure>
 
-I often join the [Breakfast show by Simon Lauder](https://www.abc.net.au/radio/southeastnsw/programs/breakfast/){:target="_blank"} 
-at [ABC South East NSW](https://www.abc.net.au/radio/southeastnsw/){:target="_blank"} and discuss 
-about ocean-related issues.
-
-For example, in April 2021 we chatted about our findings regarding ocean eddy trends:
+I often join the [Breakfast show with Simon Lauder](https://www.abc.net.au/radio/southeastnsw/programs/breakfast/){:target="_blank"} on [ABC South East NSW](https://www.abc.net.au/radio/southeastnsw/){:target="_blank"} to talk about the ocean. In April 2021 we chatted about our findings on ocean eddy trends:
 
 <figure>
     <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 29 April 2021</figcaption>
@@ -89,12 +85,10 @@ For example, in April 2021 we chatted about our findings regarding ocean eddy tr
     </audio>
 </figure>
 
-Four weeks later, I followed up a question that a listener had sent to the show. The listener
-was wondering why sometimes at the New South Wales coast despite that warm winds blow from the
-North the water temperature can drop dramatically.
+A few weeks later, I followed up on a question a listener had sent to the show: why, on the New South Wales coast, can the water temperature drop dramatically even when warm winds blow from the north?
 
 <figure>
-    <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 02 June 2021</figcaption>
+    <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 2 June 2021</figcaption>
     <audio
         controls
         src="ABC-Breakfast-02Jun2021.mp3">
@@ -103,7 +97,7 @@ North the water temperature can drop dramatically.
     </audio>
 </figure>
 
-An other day we chatted a bit about tides:
+Another day we chatted a bit about tides:
 
 <figure>
     <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 28 July 2021</figcaption>
@@ -115,14 +109,7 @@ An other day we chatted a bit about tides:
     </audio>
 </figure>
 
-In August 2021, I was part of the Atlas of Life South Coast National Science Week (Aug. 13th-21st, 2021).
-I gave a lecture on August 14th titled “The ocean currents in a changing climate” as part of 
-the symposium [“Our East Australian Ocean Hotspot -- What is it and how will it change our coastal ecology”](https://atlasoflife.org.au/science-week-2021-presentations/#Navid/){:target="_blank"}. (Both the [slides](../presentations/SapphireCoastEACSymposium_Aug2021.pdf){:target="_blank"} and the [recording](https://youtu.be/Xib_t66Mqt8?t=421){:target="_blank"} of the presentation are available.)
-
-On June 2021 I started working on my [DECRA project][decra2021]{:target="_blank"} that involves
-use of machine learning algorithms to enhance climate and ocean models. I wrote up a piece in
-[The Conversation](https://theconversation.com/how-machine-lbearning-is-helping-us-fine-tune-climate-models-to-reach-unprecedented-detail-165818){:target="_blank"} explaining how machine learning
-can help in climate science. Next time I was on Simon's show we talked about this.
+In June 2021, I started my [DECRA project][decra2021]{:target="_blank"} on using machine learning to improve climate and ocean models, and wrote a piece for The Conversation on how machine learning can help climate science. The next time I was on Simon's show, we talked about this:
 
 <figure>
     <figcaption>ABC South East NSW, Breakfast with Simon Lauder, 25 August 2021</figcaption>
@@ -133,8 +120,6 @@ can help in climate science. Next time I was on Simon's show we talked about thi
             <code>audio</code> element.
     </audio>
 </figure>
-
-<br/>
 
 Sometimes I go on the radio and talk about [non-science-related things](https://www.abc.net.au/radio/melbourne/programs/afternoons/omicron-covid-varient-prompts-greek-alphabet-discussion/13653848){:target="_blank"}...
 
