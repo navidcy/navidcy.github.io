@@ -12,6 +12,14 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
+  overflow-wrap: break-word;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+/* Sticky footer: the page body grows so the footer sits at the bottom of short pages */
+body > .page-body {
+  flex: 1 0 auto;
 }
 p {
   line-height: 1.5;
