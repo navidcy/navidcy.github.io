@@ -173,10 +173,10 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 0. **Constantinou, N. C.**, Rocha, C. B., Llewellyn Smith, S. G., and Young, W. R. (2023). Nusselt number scaling in horizontal convection. [arXiv:2301.03122][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2301.03122]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][HCNuScaling]
 
 
-0. Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023). Stokes drift should not be added to ocean general circulation model velocities. [arXiv:2210.08552][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift]
-
-
 0. Ong, E. Q. Y., England, M. H., Doddridge, E. W., and **Constantinou, N. C.** (2025). Antarctica has its own ‘shield’ against warm water - but this could now be under threat, _The Conversation_, May 23rd, 2025. [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">url</span>][theconversation-asc-meltwater]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][theconversation-asc-meltwater-doi]{:target="_blank"}
+
+
+0. Wagner, G. L., **Constantinou, N. C.**, and Reichl, B. G. (2023). Stokes drift should not be added to ocean general circulation model velocities. [arXiv:2210.08552][]{:target="_blank"} [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2210.08552]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][StokesDrift]
 
 
 0. Silvestri, S., Wagner, G. L., Hill, C., Ardakani, M. R., Blaschke, J., Campin, J.-M., Churavy, V., **Constantinou, N. C.**, Edelman, A., Marshall, J., Ramadhan, A., Souza, A., Ferrari, R. (2023). Oceananigans.jl: A Julia library that achieves breakthrough resolution, memory and energy efficiency in global ocean simulations. [arXiv:2309.06662][]{:target="_blank"} [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oceananigans-scalings-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][oceananigans-scalings]
