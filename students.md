@@ -28,10 +28,6 @@ title: Students
   February 2026 - November 2029; University of Melbourne (**Masters**) <br/>
 
 
-- Tatiana Prada Lopez <br/>
-  July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
-
-
 - [Md Ayshik Rahman Khan][ayshik-scholar] (**Masters**) <br/>
   July 2024 - ; University of Melbourne
 
@@ -48,6 +44,10 @@ title: Students
   Ocean gyres driven by wind stress and surface buoyancy forcing [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>](https://doi.org/10.25911/ATMF-QH58)
 
 ### Masters/Honours
+
+- Tatiana Prada Lopez <br/>
+  July 2025 - June 2026; University of Melbourne (**Masters**) <br/>
+
 
 - [Elise Palethorpe][elise-website] <br/>
   February 2022 - November 2022; Australian National University (**Honours**) <br/>
