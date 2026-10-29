@@ -4,6 +4,10 @@ title: Students
 #subtitle:
 ---
 
+If you are a student in the group, or thinking of joining, have a look at our group guidelines:
+the [Student and Supervisor Expectations](/student-and-supervisor-expectations), which set out what students can expect from their supervisors and what we expect in return, and the [Advice and Guidelines for Students](/student-advice-guidelines), which cover wellbeing, belonging, where to turn when things get hard, and everyday good practice.
+These are living documents that reside at [github.com/navidcy/group-guidelines](https://github.com/navidcy/group-guidelines); suggestions are welcome!
+
 ## Ph.D. students
 
 - [Isaac Miles-Fine][isaac-website]<br/>
