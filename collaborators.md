@@ -60,8 +60,8 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     Google
   </div>
   <div class="collaborator">
-    <a href="https://serrapilheira.org/en/pesquisadores/cesar-rocha/" target="_blank"><img src="/img/collaborators/rocha.jpg" alt="Cesar Rocha" /></a><br/>
-    <a href="https://serrapilheira.org/en/pesquisadores/cesar-rocha/" target="_blank">Cesar Rocha</a><br/>
+    <a href="https://cesar-rocha.github.io" target="_blank"><img src="/img/collaborators/rocha.jpg" alt="Cesar Rocha" /></a><br/>
+    <a href="https://cesar-rocha.github.io" target="_blank">Cesar Rocha</a><br/>
     University of São Paulo
   </div>
   <div class="collaborator">
