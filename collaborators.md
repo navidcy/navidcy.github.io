@@ -15,9 +15,19 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
 
 <div class="collaborators">
   <div class="collaborator">
+    <a href="https://research.monash.edu/en/persons/julie-arblaster/" target="_blank"><img src="/img/collaborators/arblaster.jpg" alt="Julie Arblaster" /></a><br/>
+    <a href="https://research.monash.edu/en/persons/julie-arblaster/" target="_blank">Julie Arblaster</a><br/>
+    Monash University
+  </div>
+  <div class="collaborator">
     <a href="https://www.louisedevenish.com.au" target="_blank"><img src="/img/collaborators/devenish.jpg" alt="Louise Devenish" /></a><br/>
     <a href="https://www.louisedevenish.com.au" target="_blank">Louise Devenish</a><br/>
     Monash University
+  </div>
+  <div class="collaborator">
+    <a href="https://research.unsw.edu.au/people/scientia-professor-matthew-england" target="_blank"><img src="/img/collaborators/england.jpg" alt="Matthew England" /></a><br/>
+    <a href="https://research.unsw.edu.au/people/scientia-professor-matthew-england" target="_blank">Matthew England</a><br/>
+    University of New South Wales
   </div>
   <div class="collaborator">
     <a href="https://eaps.mit.edu/people/faculty/raffaele-ferrari/" target="_blank"><img src="/img/collaborators/ferrari.jpg" alt="Raffaele Ferrari" /></a><br/>
@@ -43,6 +53,11 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     <a href="https://aerospace.caltech.edu/people/adrian-lozano-duran" target="_blank"><img src="/img/collaborators/lozano-duran.jpg" alt="Adrián Lozano-Durán" /></a><br/>
     <a href="https://aerospace.caltech.edu/people/adrian-lozano-duran" target="_blank">Adrián Lozano-Durán</a><br/>
     California Institute of Technology
+  </div>
+  <div class="collaborator">
+    <a href="https://earthsciences.anu.edu.au/people/dr-nicola-maher" target="_blank"><img src="/img/collaborators/maher.jpg" alt="Nicola Maher" /></a><br/>
+    <a href="https://earthsciences.anu.edu.au/people/dr-nicola-maher" target="_blank">Nicola Maher</a><br/>
+    Australian National University
   </div>
   <div class="collaborator">
     <a href="https://www.katemilligan.com.au" target="_blank"><img src="/img/collaborators/milligan.jpg" alt="Kate Milligan" /></a><br/>
@@ -83,6 +98,11 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     <a href="https://findanexpert.unimelb.edu.au/profile/844007-taimoor-sohail" target="_blank"><img src="/img/collaborators/sohail.jpg" alt="Taimoor Sohail" /></a><br/>
     <a href="https://findanexpert.unimelb.edu.au/profile/844007-taimoor-sohail" target="_blank">Taimoor Sohail</a><br/>
     University of Melbourne
+  </div>
+  <div class="collaborator">
+    <a href="https://www.21centuryweather.org.au/profile/paul-spence" target="_blank"><img src="/img/collaborators/spence.jpg" alt="Paul Spence" /></a><br/>
+    <a href="https://www.21centuryweather.org.au/profile/paul-spence" target="_blank">Paul Spence</a><br/>
+    Institute for Marine and Antarctic Studies, University of Tasmania
   </div>
   <div class="collaborator">
     <a href="https://glwagner.github.io" target="_blank"><img src="/img/collaborators/wagner.jpg" alt="Gregory Wagner" /></a><br/>
