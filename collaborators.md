@@ -40,8 +40,8 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     University of Melbourne
   </div>
   <div class="collaborator">
-    <a href="https://researchportalplus.anu.edu.au/en/persons/andy-hogg/" target="_blank"><img src="/img/collaborators/hogg.jpg" alt="Andy Hogg" /></a><br/>
-    <a href="https://researchportalplus.anu.edu.au/en/persons/andy-hogg/" target="_blank">Andy Hogg</a><br/>
+    <a href="https://earthsciences.anu.edu.au/people/professor-andy-hogg" target="_blank"><img src="/img/collaborators/hogg.jpg" alt="Andy Hogg" /></a><br/>
+    <a href="https://earthsciences.anu.edu.au/people/professor-andy-hogg" target="_blank">Andy Hogg</a><br/>
     Australian National University and ACCESS-NRI
   </div>
   <div class="collaborator">
