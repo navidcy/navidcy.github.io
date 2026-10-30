@@ -5,8 +5,9 @@ title: Collaborators
 ---
 
 <style>
-.collaborators { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1.5em 1em; margin-top: 1em; }
-.collaborator { text-align: center; font-size: 80%; line-height: 1.3; }
+.collaborators { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5em 1em; margin-top: 1em; }
+.collaborator { width: calc((100% - 3em) / 4); text-align: center; font-size: 80%; line-height: 1.3; }
+@media (max-width: 600px) { .collaborator { width: calc((100% - 1em) / 2); } }
 .collaborator img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 30%; border-radius: 12%; margin-bottom: 0.5em; }
 .collaborator a { font-weight: bold; }
 </style>
@@ -43,6 +44,11 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     <a href="https://earthsciences.anu.edu.au/people/professor-andy-hogg" target="_blank"><img src="/img/collaborators/hogg.jpg" alt="Andy Hogg" /></a><br/>
     <a href="https://earthsciences.anu.edu.au/people/professor-andy-hogg" target="_blank">Andy Hogg</a><br/>
     Australian National University and ACCESS-NRI
+  </div>
+  <div class="collaborator">
+    <a href="http://users.uoa.gr/~pjioannou/" target="_blank"><img src="/img/collaborators/ioannou.jpg" alt="Petros Ioannou" /></a><br/>
+    <a href="http://users.uoa.gr/~pjioannou/" target="_blank">Petros Ioannou</a><br/>
+    National and Kapodistrian University of Athens
   </div>
   <div class="collaborator">
     <a href="https://aerospace.caltech.edu/people/adrian-lozano-duran" target="_blank"><img src="/img/collaborators/lozano-duran.jpg" alt="Adrián Lozano-Durán" /></a><br/>
