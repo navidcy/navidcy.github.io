@@ -45,11 +45,6 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     Australian National University and ACCESS-NRI
   </div>
   <div class="collaborator">
-    <a href="https://milankl.github.io" target="_blank"><img src="/img/collaborators/klower.jpg" alt="Milan Klöwer" /></a><br/>
-    <a href="https://milankl.github.io" target="_blank">Milan Klöwer</a><br/>
-    University of Oxford
-  </div>
-  <div class="collaborator">
     <a href="https://aerospace.caltech.edu/people/adrian-lozano-duran" target="_blank"><img src="/img/collaborators/lozano-duran.jpg" alt="Adrián Lozano-Durán" /></a><br/>
     <a href="https://aerospace.caltech.edu/people/adrian-lozano-duran" target="_blank">Adrián Lozano-Durán</a><br/>
     California Institute of Technology
@@ -58,6 +53,11 @@ I am lucky to work with a wonderful bunch of people. A non-exhaustive list of my
     <a href="https://earthsciences.anu.edu.au/people/dr-nicola-maher" target="_blank"><img src="/img/collaborators/maher.jpg" alt="Nicola Maher" /></a><br/>
     <a href="https://earthsciences.anu.edu.au/people/dr-nicola-maher" target="_blank">Nicola Maher</a><br/>
     Australian National University
+  </div>
+  <div class="collaborator">
+    <a href="https://github.com/josuemtzmo" target="_blank"><img src="/img/collaborators/martinez-moreno.jpg" alt="Josué Martínez Moreno" /></a><br/>
+    <a href="https://github.com/josuemtzmo" target="_blank">Josué Martínez Moreno</a><br/>
+    British Antarctic Survey
   </div>
   <div class="collaborator">
     <a href="https://www.katemilligan.com.au" target="_blank"><img src="/img/collaborators/milligan.jpg" alt="Kate Milligan" /></a><br/>
