@@ -177,7 +177,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 
 ## Other Publications
 
-0. **Constantinou, N. C.**\*, Neme, J.\*, Aguiar, W., Auger, M., Barnes, A. J., Beucher, R., Bhagtani, D., Bull, C. Y. S., Dawson, H., Day, N., Dias, F. B., Doddridge, E. W., Ellepola, A., Fierro-Arcos, D., Gibson, A., Heerdegen, A., Hogg, A. McC., Holmes, R. M., Huguenin, M. F., Huneke, W., Jeffree, J., Kiss, A. E., Li, M., Martin, P., Martínez-Moreno, J., Meijer, J. J., Moore, T., Moorman, R., Morrison, A. K., Munroe, J., Narayanan, A., Oliveira, M., Ong, E. Q. Y., Rosevear, M. G., Schmidt, C., Sohail, T., Spence, P., Squire, D. T., Steketee, A., Turner, C., Vilela da Silva, F., White, M., Yang, L., Yung, C., and Zika, J. (2026). COSIMA Cookbook: a community-driven resource for ocean and sea-ice modelling science. [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repo</span>][cosima-cookbook-repo] [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cosima-cookbook]<br/>
+0. **Constantinou, N. C.**\*, Neme, J.\*, Aguiar, W., Auger, M., Barnes, A. J., Beucher, R., Bhagtani, D., Bull, C. Y. S., Dawson, H., Day, N., Dias, F. B., Doddridge, E. W., Ellepola, A., Fierro-Arcos, D., Gibson, A., Heerdegen, A., Hogg, A. McC., Holmes, R. M., Huguenin, M. F., Huneke, W., Jeffree, J., Kiss, A. E., Li, M., Martin, P., Martínez-Moreno, J., Meijer, J. J., Moore, T., Moorman, R., Morrison, A. K., Munroe, J., Narayanan, A., Oliveira, M., Ong, E. Q. Y., Rosevear, M. G., Schmidt, C., Sohail, T., Spence, P., Squire, D. T., Steketee, A., Turner, C., Vilela da Silva, F., White, M., Yang, L., Yung, C., and Zika, J. (2026). COSIMA Cookbook: a community-driven resource for ocean and sea-ice modelling science. [arXiv:2611.30182][]{:target="_blank"} [<span class="btn btn-default btn-xs{{end}}" style="font-family:sans-serif;">repo</span>][cosima-cookbook-repo] [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arXiv:2611.30182]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][cosima-cookbook]<br/>
 \* contributed equally
 
 
@@ -373,6 +373,7 @@ Selection of press coverage: [<span class="btn btn-default btn-xs{{end}}" style=
 [arXiv:2502.14148]: https://arxiv.org/abs/2502.14148
 [arXiv:2503.03871]: https://arxiv.org/abs/2503.03871
 [arXiv:2503.12845]: https://arxiv.org/abs/2503.12845
+[arXiv:2611.30182]: https://arxiv.org/abs/2611.30182
 
 [twolayer-mom6-movie]: https://vimeo.com/342848501
 
